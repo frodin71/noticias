@@ -1,0 +1,43 @@
+name: Despacho diario
+
+on:
+  schedule:
+    - cron: "0 12 * * *"   # 12:00 UTC = 08:00 Chile (invierno UTC-4)
+  workflow_dispatch: {}      # permite correrlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write            # para commitear la edición a main
+
+concurrency:
+  group: despacho
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -U anthropic
+
+      - name: Generar la edición del día
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generar_despacho.py
+
+      - name: Commit y push
+        run: |
+          git config user.name "despacho-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/
+          if git diff --cached --quiet; then
+            echo "Sin cambios que commitear."
+          else
+            git commit -m "Despacho $(TZ=America/Santiago date +%F)"
+            git push
+          fi
