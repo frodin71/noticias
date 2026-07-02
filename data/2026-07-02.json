@@ -8,51 +8,72 @@
       "wire": "world wire",
       "notas": [
         {
+          "eyebrow": "Guerra en Ucrania",
+          "title": "Rusia lanza el mayor ataque aéreo del año sobre Ucrania: 13 muertos en Kyiv",
+          "dek": "En la noche del 1 al 2 de julio, Moscú disparó 570 misiles y drones sobre Ucrania. La defensa aérea ucraniana interceptó 524 de ellos, pero los impactos dejaron al menos 13 muertos y 86 heridos solo en la capital.",
+          "more": "El alcalde de Kyiv, Vitali Klitschko, reportó que seis pisos de un edificio residencial colapsaron parcialmente tras el impacto directo de un proyectil ruso. Zelensky había advertido antes del ataque que Moscú preparaba una «ofensiva masiva» y urgió a los civiles a refugiarse. La particularidad de este bombardeo fue el uso simultáneo de misiles balísticos, de crucero y drones de ataque lanzados desde múltiples direcciones, una táctica diseñada para saturar los sistemas de defensa aérea. Polonia activó sus cazas; Finlandia restringió el espacio aéreo.",
+          "source": "https://www.aljazeera.com/news/2026/7/2/kyiv-attacked-after-ukraines-zelenskyy-warns-of-massive-russian-strike"
+        },
+        {
           "eyebrow": "Catástrofe humanitaria",
-          "title": "Venezuela supera los 2.200 muertos y la ayuda internacional escala",
-          "dek": "A nueve días del doble terremoto del 24 de junio, el desastre acumula 2.295 fallecidos, más de 11.000 heridos y cerca de 16.000 damnificados. La reconstrucción será titánica.",
-          "more": "EE.UU. desplegó fuerzas militares y equipos élite de rescate, y comprometió 150 millones de dólares en ayuda humanitaria. Más de 20 países enviaron misiones de socorro. La ONU proyecta asistir a medio millón de personas en los refugios habilitados. Los escombros superan los 1,2 millones de toneladas y 189 edificios colapsaron solo en La Guaira y Caracas. El USGS había proyectado inicialmente entre 10.000 y 100.000 muertes; el número final dependerá de cuántas víctimas quedan aún bajo los escombros.",
+          "title": "Venezuela: los rescatistas buscan sobrevivientes bajo los escombros a nueve días del terremoto",
+          "dek": "El doble sismo del 24 de junio suma 2.295 fallecidos, más de 11.000 heridos y cerca de 16.000 damnificados. Entre los rescates del día destaca el de un hombre liberado tras más de cien horas bajo los escombros en Caracas.",
+          "more": "EE.UU. desplegó fuerzas militares y equipos élite de rescate, y comprometió 150 millones de dólares en ayuda humanitaria. Más de 20 países enviaron misiones de socorro; la ONU proyecta asistir a medio millón de personas en los refugios habilitados. Los escombros superan 1,2 millones de toneladas y 189 edificios colapsaron solo en La Guaira y Caracas. La OMS advirtió que la emergencia entra en una fase crítica, con creciente riesgo de enfermedades entre los desplazados.",
           "source": "https://cnnespanol.cnn.com/2026/07/01/venezuela/live-news/terremotos-guaira-rescates-victimas-trax"
+        },
+        {
+          "eyebrow": "Diplomacia europea",
+          "title": "Zelensky en Dublín: exige a la UE abrir nuevos capítulos de adhesión y más sanciones a Rusia",
+          "dek": "El presidente ucraniano viajó a Irlanda para el arranque de la presidencia rotatoria del Consejo de la UE, que Dublín asume el segundo semestre de 2026. Le pidió al bloque acelerar el proceso de ingreso de Ucrania y ampliar las sanciones contra Moscú.",
+          "more": "Zelensky se reunió con el primer ministro Micheál Martin y el presidente del Consejo Europeo, António Costa. Irlanda ha colocado la ampliación de la UE hacia Ucrania, Moldova, Albania y Montenegro como prioridad de su presidencia. La UE abrió negociaciones sobre el primer grupo temático —estado de derecho y derechos fundamentales— a mediados de junio; Kyiv presiona para desbloquear los grupos restantes. El mismo día en que Zelensky reclamaba más apoyo desde Dublín, Rusia lanzaba su mayor ataque aéreo del año.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/01/zelenski-urge-a-la-ue-desde-dublin-a-impulsar-su-adhesion-y-adoptar-mas-sanciones-a-rusia/"
         },
         {
           "eyebrow": "Diplomacia",
           "title": "EE.UU. e Irán acuerdan continuar negociando tras dos días de rondas en Qatar",
-          "dek": "Los enviados Trump, Witkoff y Kushner, concluyeron su misión en Doha con un anuncio de \"progreso positivo\", pero Teherán niega estar negociando directamente con Washington.",
+          "dek": "Los enviados de Trump, Witkoff y Kushner, concluyeron su misión en Doha con un anuncio de «progreso positivo», pero Teherán niega estar negociando directamente con Washington.",
           "more": "Las conversaciones se enmarcan en el memorándum de entendimiento firmado el 17 de junio, que abre 60 días para cerrar un acuerdo final sobre el programa nuclear iraní, el levantamiento de sanciones y la reapertura plena del estrecho de Ormuz. La tensión escala tras el ataque a un buque comercial en aguas de Omán la semana pasada, al que EE.UU. respondió con golpes militares sobre objetivos iraníes. Qatar actúa como mediador; Omán gestiona la propuesta de despeje de minas en el estrecho.",
           "source": "https://www.cnn.com/2026/07/01/world/live-news/iran-war-trump"
         },
         {
+          "eyebrow": "Mundial 2026",
+          "title": "España golea a Austria, Croacia elimina a Portugal y Argelia da el gran golpe del día",
+          "dek": "La jornada de los dieciseisavos entregó resultados contundentes: España venció 3-1 a Austria; Croacia eliminó a Portugal en penales tras empatar 1-1; y Argelia sorprendió a Suiza 2-1 en Vancouver.",
+          "more": "España, que llegó invicta y sin goles en contra desde la fase de grupos, mostró superioridad táctica en el SoFi Stadium de Inglewood, California. El duelo Portugal-Croacia fue el más dramático: Cristiano Ronaldo y Luka Modric disputaron lo que pudo ser el último partido mundialista de sus carreras; Croacia se impuso en los penales y Ronaldo abandonó el torneo. La victoria de Argelia sobre Suiza consolida la presencia africana en los octavos de final.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-2026-resultados-jueves-2-julio-partidos-en-vivo-hoy"
+        },
+        {
           "eyebrow": "Xenofobia",
           "title": "Sudáfrica arresta a más de 900 personas en una jornada de marchas anti-inmigrantes",
-          "dek": "Las protestas del 1 de julio marcaron el vencimiento del \"ultimátum\" que grupos xenófobos impusieron a los extranjeros indocumentados para abandonar el país. Miles ya huyeron.",
-          "more": "De 120 marchas a lo largo de Sudáfrica, doce derivaron en violencia o saqueos que requirieron intervención policial. El presidente Cyril Ramaphosa se reunió el lunes con líderes de los grupos para pedir manifestaciones pacíficas, pero los incidentes se multiplicaron de todas formas. Los organizadores principales —March and March, Operation Dudula y Progressive Forces— responsabilizan a los inmigrantes del alto desempleo y la inseguridad del país.",
+          "dek": "Las protestas del 1 de julio marcaron el vencimiento del «ultimátum» que grupos xenófobos impusieron a los extranjeros indocumentados para abandonar el país. Miles ya huyeron.",
+          "more": "De 120 marchas a lo largo de Sudáfrica, doce derivaron en violencia o saqueos que requirieron intervención policial. El presidente Cyril Ramaphosa se reunió el lunes con líderes de los grupos para pedir manifestaciones pacíficas, pero los incidentes se multiplicaron. Los organizadores principales —March and March, Operation Dudula y Progressive Forces— responsabilizan a los inmigrantes del alto desempleo y la inseguridad del país.",
           "source": "https://www.nbcnews.com/world/africa/south-africa-arrests-nationwide-anti-migrant-protests-rcna352529"
         },
         {
           "eyebrow": "Cultura",
-          "title": "Taylor Swift y Travis Kelce arrancan este jueves la semana de su boda en Nueva York",
-          "dek": "El ensayo con unos cien invitados se celebra hoy en Madison Square Garden; la ceremonia mayor está prevista para el viernes, con decenas de miles de asistentes y política estricta sin celulares.",
-          "more": "Swift y Kelce llevan tres años de relación y se comprometieron en agosto pasado. La pareja no tiene registro de bodas ni acepta regalos. La boda se perfila como el acontecimiento social de la temporada en Estados Unidos. El Sly Stone —quien en 1974 se casó ante 20.000 personas en el mismo MSG— sentó el precedente que inspiró la elección del recinto.",
+          "title": "Taylor Swift y Travis Kelce arrancan en Madison Square Garden la semana de su boda",
+          "dek": "El ensayo con unos cien invitados se celebró este jueves; la ceremonia mayor está prevista para el viernes, con decenas de miles de asistentes y política estricta sin celulares.",
+          "more": "Swift y Kelce llevan tres años de relación y se comprometieron en agosto pasado. La pareja no tiene registro de bodas ni acepta regalos. El Sly Stone —quien en 1974 se casó ante 20.000 personas en el mismo Madison Square Garden— sentó el precedente que inspiró la elección del recinto.",
           "source": "https://www.cnn.com/2026/07/01/entertainment/taylor-swift-travis-kelce-wedding-weekend"
-        },
+        }
+      ],
+      "briefs": [
         {
           "eyebrow": "EE.UU.",
           "title": "Trump estrena el nuevo Air Force One donado por Qatar en vuelo inaugural",
           "dek": "El presidente realizó el primer vuelo en el flamante Boeing 747 con destino a la biblioteca presidencial Theodore Roosevelt, en Medora, Dakota del Norte.",
           "source": "https://www.foxnews.com/politics/trump-takes-inaugural-flight-aboard-new-air-force-one-ahead-library-debut-honoring-famed-outdoorsman"
-        }
-      ],
-      "briefs": [
+        },
         {
-          "eyebrow": "Mundial 2026",
-          "title": "España, Portugal y Suiza juegan hoy en los dieciseisavos",
-          "dek": "España enfrenta a Austria en Inglewood (California), Portugal a Croacia en Toronto y Suiza a Argelia en Vancouver, en la tercera jornada de la fase eliminatoria.",
-          "source": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+          "eyebrow": "Justicia",
+          "title": "París falla en el último proceso pendiente contra el histórico jefe de ETA Josu Ternera",
+          "dek": "El Tribunal de Apelación de París dictó sentencia en el único expediente que el exdirigente terrorista tenía abierto en Francia, cerrando jurídicamente su causa en ese país.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/01/jueves-2-de-julio-de-2026-1930-gmt/"
         },
         {
           "eyebrow": "Elecciones",
           "title": "Argelia elige nueva Asamblea Nacional en comicios de escasa competencia",
-          "dek": "Los argelinos votan este jueves para renovar los 407 escaños de la cámara baja; la oposición independiente tiene presencia mínima en la papeleta.",
+          "dek": "Los argelinos votaron para renovar los 407 escaños de la cámara baja; la oposición independiente tuvo presencia mínima en la papeleta.",
           "source": "https://www.infobae.com/america/agencias/2026/07/01/jueves-2-de-julio-de-2026-1930-gmt/"
         },
         {
@@ -84,8 +105,22 @@
           "eyebrow": "Política exterior",
           "title": "Kast vuelve de Paraguay con tres acuerdos firmados y la puerta abierta hacia Bolivia",
           "dek": "La gira por Asunción cerró con convenios bilaterales en materia tributaria, seguridad policial y trata de personas, además de un avance concreto para incluir a Bolivia en el corredor bioceánico.",
-          "more": "En la 68a cumbre del Mercosur, Kast sostuvo una bilateral con el presidente boliviano Rodrigo Paz. Fue la primera reunión de alto nivel entre ambas naciones en mucho tiempo: Chile formalizó su disposición a que Bolivia se sume al megaproyecto que conectará los puertos del Atlántico con la costa del Pacífico. La cancillería chilena confirmó que se evalúa una visita presidencial de Kast a Bolivia, un hito sin precedente cercano dada la histórica tensión marítima. El mandatario regresa a Santiago este jueves.",
+          "more": "En la 68a cumbre del Mercosur, Kast sostuvo una bilateral con el presidente boliviano Rodrigo Paz. Fue la primera reunión de alto nivel entre ambas naciones en mucho tiempo: Chile formalizó su disposición a que Bolivia se sume al megaproyecto que conectará los puertos del Atlántico con la costa del Pacífico. La cancillería chilena confirmó que se evalúa una visita presidencial de Kast a Bolivia, un hito sin precedente cercano dada la histórica tensión marítima.",
           "source": "https://www.latercera.com/politica/noticia/canciller-aborda-posible-futura-visita-de-kast-a-bolivia-y-destaca-que-tenemos-muy-buenas-relaciones-consulares/"
+        },
+        {
+          "eyebrow": "Seguridad regional",
+          "title": "Chile y Uruguay sellan cooperación contra el crimen organizado transnacional",
+          "dek": "Kast y su par uruguayo Yamandú Orsi firmaron compromisos para estrechar la coordinación policial y judicial contra organizaciones criminales que operan en ambos países, incluido el Tren de Aragua.",
+          "more": "El acuerdo se alcanzó en el marco de la gira presidencial de Kast por el Mercosur. La seguridad transfronteriza es uno de los ejes del gobierno chileno, que llegó al poder con el combate al crimen como promesa central. Chile y Paraguay también suscribieron un memorándum de entendimiento en materia policial durante la cumbre de Asunción.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/02/uruguay-y-chile-estrechan-su-cooperacion-contra-el-flagelo-del-crimen-organizado-en-la-region/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Los homicidios en Chile bajan 14,2% respecto al mismo período de 2025",
+          "dek": "La Subsecretaría de Prevención del Delito informó que se registraron 343 víctimas de homicidio en lo que va del año, 38 menos que en 2025, el nivel más bajo desde 2019.",
+          "more": "La baja se extiende también a los robos violentos, que cayeron 13% en el primer trimestre. El gobierno atribuyó el resultado al despliegue reforzado de Carabineros y la PDI, y al fortalecimiento de la coordinación interinstitucional en los territorios con mayor conflictividad. Sin embargo, la tasa anualizada de 5,4 homicidios por 100.000 habitantes sigue siendo el doble de la registrada hace una década, lo que ubica a Chile aún lejos de los estándares históricos de los países con menor violencia de la región.",
+          "source": "https://www.latercera.com/nacional/noticia/subsecretaria-de-prevencion-del-delito-presenta-informe-que-registra-caida-de-142-en-cifra-de-victimas-de-homicidios-en-2026/"
         },
         {
           "eyebrow": "Seguridad",
@@ -105,14 +140,14 @@
         {
           "eyebrow": "Gira presidencial",
           "title": "Kast también firmó acuerdos con Uruguay sobre integración y valores compartidos",
-          "dek": "El presidente y su par Orzi destacaron la relación bilateral «más allá del signo político», con un encuentro que incluyó la adhesión de Uruguay al Acuerdo de Santiago.",
+          "dek": "El presidente y su par Orsi destacaron la relación bilateral «más allá del signo político», con un encuentro que incluyó la adhesión de Uruguay al Acuerdo de Santiago.",
           "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/01/kast-destaca-relacion-con-uruguay-mas-alla-del-signo-politico-valoro-adhesion-a-acuerdo-de-santiago.shtml"
         },
         {
           "eyebrow": "Mundial 2026",
-          "title": "España y Portugal juegan esta noche: los horarios para ver los dieciseisavos",
-          "dek": "La jornada de hoy incluye tres partidos de la fase eliminatoria; los dos grandes europeos entran en escena por primera vez en el torneo definitorio.",
-          "source": "https://www.espn.com/soccer/story/_/id/48939282/2026-fifa-world-cup-fixtures-results-match-schedule-group-stage-knockout-rounds-bracket"
+          "title": "España y Croacia avanzan; Portugal y Suiza se van a casa",
+          "dek": "En la jornada de este jueves, España goleó 3-1 a Austria y Croacia eliminó a Portugal en penales. Croacia y España pasan a octavos junto a Argelia, que venció 2-1 a Suiza.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-2026-resultados-jueves-2-julio-partidos-en-vivo-hoy"
         }
       ]
     }
