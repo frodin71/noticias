@@ -41,6 +41,7 @@ PASOS
 ```
 - "notas" = noticias mayores y medianas, ordenadas por importancia (la primera es la apertura). Cada nota incluye: "eyebrow" (categoría corta), "title" (titular), "dek" (bajada de 1-2 líneas), "more" (contexto para el desplegable "Leer más", cuando haya algo real que agregar), "source" (URL directa y real del artículo original, no la portada del medio) e "imgPrompt" (descripción visual breve en INGLÉS de una foto o escena concreta que represente la noticia, sin texto ni logos ni palabras en la imagen, por ejemplo: "a cargo ship at a European port with EU and US flags, daylight"). El sitio usa "source" e "imgPrompt" para mostrar la foto de cada nota automáticamente.
 - "briefs" = noticias breves ("En breve"). Cada breve incluye: "eyebrow", "title", "dek", "source".
+- MÍNIMO por sección: al menos 4 notas y 6 breves, tanto en Internacional como en Chile, siempre. Si no hay tantas noticias mayores, completa con noticias menores como breves hasta alcanzar ese mínimo.
 - El diseño arma la jerarquía visual según la cantidad de notas; solo ordénalas por importancia.
 5. Actualiza data/index.json: agrega la fecha de hoy al array "dates" (ordenado y sin duplicados) y pon "latest" = la fecha de hoy.
 6. Valida que ambos JSON sean válidos con python3 (json.load) antes de publicar.

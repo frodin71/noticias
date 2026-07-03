@@ -46,6 +46,36 @@
           "title": "Persiste la incertidumbre en el comercio global para el resto de 2026",
           "dek": "Analistas anticipan que las tensiones arancelarias seguirán pesando sobre el crecimiento mundial.",
           "source": "https://forbes.com.mx/trump-sacudio-el-comercio-mundial-este-ano-en-2026-persistiria-cierta-incertidumbre/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "México, Inglaterra y Bélgica avanzan en los dieciseisavos",
+          "dek": "México venció 2-0 a Ecuador, Inglaterra 2-1 a R.D. del Congo y Bélgica remontó 3-2 a Senegal.",
+          "source": "https://www.infobae.com/deportes/2026/07/01/mundial-2026-en-vivo-ultimas-noticias-de-hoy-1-de-julio-resultados-clasificados-y-el-minuto-a-minuto-de-la-jornada/"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "La ONU presenta su primer informe global sobre inteligencia artificial",
+          "dek": "El panel científico independiente evaluó impactos en salud y ciencia, y riesgos para los derechos humanos.",
+          "source": "https://news.un.org/es/news"
+        },
+        {
+          "eyebrow": "Naturaleza",
+          "title": "El volcán Etna vuelve a entrar en erupción en Sicilia",
+          "dek": "Ríos de lava descendieron por las laderas del volcán más activo de Europa.",
+          "source": "https://www.euronews.com/news/international"
+        },
+        {
+          "eyebrow": "Desastre",
+          "title": "Venezuela eleva a 1.943 los muertos por los terremotos",
+          "dek": "Los equipos de rescate reportan más de 10.500 heridos y miles de desplazados.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/01/miercoles-1-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Beijing inaugura la Conferencia Global de Economía Digital",
+          "dek": "El foro reúne a miles de empresas y participantes de más de 200 países.",
+          "source": "https://confirmado.net/conferencia-global-de-economia-digital-2026-se-inaugura-en-beijing/"
         }
       ]
     },
@@ -76,6 +106,14 @@
           "more": "La llamada \"ley de reconstrucción económica\" es una de las piezas centrales de la agenda del gobierno para destrabar inversión y reactivar la actividad.",
           "source": "https://www.df.cl/economia-y-politica/actualidad/kast-aspira-a-que-proyecto-miscelaneo-se-apruebe-en-julio-y-le-resta",
           "imgPrompt": "the Chilean National Congress building in Valparaiso, legislative session"
+        },
+        {
+          "eyebrow": "Política exterior",
+          "title": "Kast se reúne con el presidente de Paraguay tras la cumbre del Mercosur",
+          "dek": "El mandatario chileno continúa su gira regional junto a Santiago Peña, con foco en seguridad e integración.",
+          "more": "La visita se enmarca en una ofensiva diplomática del gobierno para coordinar la lucha contra el crimen organizado transnacional en el Cono Sur.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/01/miercoles-1-de-julio-de-2026-0700-gmt/",
+          "imgPrompt": "two presidents shaking hands with Chile and Paraguay flags, official meeting, press room"
         }
       ],
       "briefs": [
@@ -87,7 +125,7 @@
         },
         {
           "eyebrow": "Mundial 2026",
-          "title": "Bélgica–Senegal, el único partido gratis por TV abierta en Chile hoy",
+          "title": "Bélgica–Senegal, el único partido gratis por TV abierta en Chile",
           "dek": "Chilevisión transmite el duelo desde las 15:00, con previa incluida.",
           "source": "https://www.cnnchile.com/deportes/mundial-2026-partidos-hoy-miercoles-1-julio-horarios-chile/"
         },
@@ -96,6 +134,24 @@
           "title": "Chile registró 41 sismos en las últimas 24 horas",
           "dek": "Los movimientos alcanzaron hasta magnitud 4,5, sin reportes de daños.",
           "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Extraditan a Chile a Dayonis Orozco, imputado en el caso Ronald Ojeda",
+          "dek": "Está vinculado al secuestro y homicidio del exmilitar venezolano y a la muerte del mayor Sánchez.",
+          "source": "https://www.chilevision.cl/noticias/noticieros-completos/chv-noticias-central-miercoles-1-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El desempleo se mantiene en 9,4%, el más alto en años",
+          "dek": "La debilidad del mercado laboral acompaña el freno de la actividad económica.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/01/chile-entro-en-ralentizacion-expertos-advierten-que-el-pais-no-esta-lejos-de-una-recesion-tecnica.shtml"
+        },
+        {
+          "eyebrow": "Política exterior",
+          "title": "Kast participa en la cumbre del Mercosur durante su gira regional",
+          "dek": "El mandatario refuerza la agenda de seguridad e integración con los socios del bloque.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/01/miercoles-1-de-julio-de-2026-0700-gmt/"
         }
       ]
     }

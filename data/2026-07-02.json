@@ -52,6 +52,30 @@
           "title": "Lisboa acoge el Congreso Mundial del Aceite de Oliva",
           "dek": "La cita reúne al sector los días 2 y 3 de julio.",
           "source": "https://www.infobae.com/america/agencias/2026/07/02/agenda-informativa-multisoporte-america-para-el-jueves-2-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El FMI proyecta una baja de la inflación mundial en 2026",
+          "dek": "El organismo estima que el nivel general de precios descenderá de 4,1% a 3,8%.",
+          "source": "https://www.imf.org/-/media/files/publications/weo/2026/january/spanish/text.pdf"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "El mundo cruzará el umbral del 20% de electricidad renovable en 2026",
+          "dek": "Un hito en la transición energética global de cara a la COP31.",
+          "source": "https://www.bloomberglinea.com/2026/01/03/las-14-tendencias-globales-que-marcaran-el-clima-en-2026/"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "La cumbre climática COP31 se celebrará en Antalya en noviembre",
+          "dek": "La gobernanza climática se reconfigura, con China reafirmando su apoyo al multilateralismo.",
+          "source": "https://www.realinstitutoelcano.org/analisis/la-reconfiguracion-de-la-gobernanza-climatica-en-2026/"
+        },
+        {
+          "eyebrow": "Comercio",
+          "title": "Trump mantiene la presión comercial sobre aliados y rivales",
+          "dek": "La agenda arancelaria de Washington sigue alimentando la incertidumbre global.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/02/temas-del-dia-de-internacional-del-jueves-2-de-julio-de-2026-1200-gmt/"
         }
       ]
     },
@@ -82,6 +106,14 @@
           "more": "Doce de las 16 regiones redujeron su tasa. El gobierno reporta un 10% menos de homicidios en lo que va de 2026, con 343 víctimas hasta mayo.",
           "source": "https://www.cnnchile.com/pais/gobierno-reporta-reduccion-del-10-en-homicidios-durante-2026-registran-343-casos-durante-el-ano/",
           "imgPrompt": "Chilean police patrol on a Santiago street, public safety, evening light"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El peso chileno proyecta una apreciación frente al dólar",
+          "dek": "El mercado anticipa una banda de 820 a 880 por dólar, apoyado en la confianza empresarial y el precio del cobre.",
+          "more": "El valor del cobre, principal exportación de Chile, sigue siendo decisivo para la evolución del tipo de cambio en los próximos meses.",
+          "source": "https://www.infobae.com/noticias/2026/07/02/dolar-hoy-en-chile-cotizacion-de-cierre-del-2-de-julio/",
+          "imgPrompt": "Chilean peso banknotes next to a rising exchange-rate chart, finance, close-up"
         }
       ],
       "briefs": [
@@ -90,6 +122,36 @@
           "title": "Chile, Uruguay y Paraguay avanzan en una alianza contra el narco",
           "dek": "La cooperación se enmarca en la gira de Kast por el Cono Sur.",
           "source": "https://www.lanacion.com.py/mundo/2026/07/01/chile-y-uruguay-avanzan-en-cooperacion-para-la-lucha-contra-el-narco/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar cerró el 2 de julio en el mercado local",
+          "dek": "El tipo de cambio se movió condicionado por el precio del cobre y la confianza empresarial.",
+          "source": "https://www.infobae.com/noticias/2026/07/02/dolar-hoy-en-chile-cotizacion-de-cierre-del-2-de-julio/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Un sismo de magnitud 3,1 se registró cerca de María Elena",
+          "dek": "El movimiento ocurrió a 45 km al suroeste de la localidad, según el Centro Sismológico Nacional.",
+          "source": "https://www.latercera.com/servicios/noticia/temblor-hoy-jueves-2-de-julio-en-chile-consulta-epicentro-y-magnitud/"
+        },
+        {
+          "eyebrow": "Política exterior",
+          "title": "Kast lleva su gira regional a Paraguay",
+          "dek": "El presidente prosigue su agenda de seguridad e integración en el Cono Sur.",
+          "source": "https://en.mercopress.com/2026/07/02/uruguay-and-chile-agree-to-coordinate-against-organized-crime-after-an-orsi-kast-summit"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España y Portugal jugarán un duelo ibérico en octavos",
+          "dek": "Ambas selecciones avanzaron en la misma jornada de dieciseisavos.",
+          "source": "https://www.infobae.com/deportes/2026/07/02/mundial-2026-en-vivo-ultimas-noticias-de-hoy-2-de-julio-partidos-resultados-y-el-minuto-a-minuto-de-la-jornada/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El cobre sostiene las expectativas sobre el peso chileno",
+          "dek": "El precio del metal, principal exportación del país, sigue condicionando el tipo de cambio.",
+          "source": "https://www.rionegro.com.ar/economia/peso-chileno-hoy-2-de-julio-de-2026-la-cotizacion-que-necesitas-conocer-si-viajas-a-chile-este-jueves-4633514/"
         }
       ]
     }
