@@ -161,8 +161,11 @@
   .eyebrow.minor{color:var(--accent2)}
   h3.hl{font-family:var(--font-display);margin:0 0 .35em;line-height:1.05;letter-spacing:-.005em}
   .dek{margin:0;color:var(--card-ink);font-size:1.02em}
-  figure{margin:0 0 16px;background:var(--hair);overflow:hidden;border-radius:var(--img-radius)}
+  figure{position:relative;margin:0 0 16px;background:var(--hair);overflow:hidden;border-radius:var(--img-radius)}
   figure img{display:block;width:100%;height:100%;object-fit:cover}
+  .imgbadge{position:absolute;left:8px;bottom:8px;z-index:2;font-family:var(--mono);font-size:9px;
+    letter-spacing:.12em;text-transform:uppercase;background:rgba(0,0,0,.55);color:#fff;
+    padding:3px 7px;border-radius:6px;pointer-events:none}
   figure.skel{position:relative}
   body[data-theme="telex"] figure.skel{background-image:repeating-linear-gradient(45deg,var(--hair) 0 2px,transparent 2px 9px)}
   body[data-theme="clean"] figure.skel{background:linear-gradient(135deg,#EEF1F6,#F6F8FB)}
@@ -300,6 +303,34 @@
   const ymd=d=>`${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
   const parseYMD=s=>{const[y,m,dd]=s.split('-').map(Number);return new Date(y,m-1,dd);};
   const shortDate=s=>{const d=parseYMD(s);return `${DOW[d.getDay()]} ${String(d.getDate()).padStart(2,'0')}·${MON[d.getMonth()]}·${d.getFullYear()}`;};
+  // Resuelve la foto REAL del artículo (og:image) desde el navegador vía Microlink
+  // (manda CORS *). Cachea el resultado en localStorage para no repetir el pedido.
+  const hashStr=s=>{let h=0;for(let i=0;i<s.length;i++)h=(h*31+s.charCodeAt(i))|0;return Math.abs(h);};
+  function putImg(fig,src,badge){
+    const img=el('img'); img.src=src; img.alt=''; img.loading='lazy';
+    img.onerror=()=>{ img.remove(); const b=fig.querySelector('.imgbadge'); if(b)b.remove(); fig.classList.add('skel'); };
+    fig.classList.remove('skel'); fig.appendChild(img);
+    if(badge) fig.appendChild(el('span','imgbadge',badge));
+  }
+  async function resolveImage(fig, source, prompt){
+    const key='ogimg:'+source;
+    let url=localStorage.getItem(key);
+    if(!url){
+      try{
+        const r=await fetch('https://api.microlink.io/?url='+encodeURIComponent(source));
+        const d=await r.json();
+        url=(d.data&&d.data.image&&d.data.image.url)||'';
+      }catch(e){ url=''; }
+      if(url) localStorage.setItem(key,url);  // solo cacheo los aciertos (permite reintentar)
+    }
+    if(url){ putImg(fig,url,null); return; }       // 1) foto real del medio
+    if(prompt){                                     // 2) respaldo: ilustración IA desde imgPrompt
+      const p=encodeURIComponent(prompt+' — ilustración editorial plana, minimalista, sin texto');
+      putImg(fig,`https://image.pollinations.ai/prompt/${p}?width=1200&height=675&nologo=true&seed=${hashStr(prompt)}`,'ilustración');
+    } else {
+      fig.classList.add('skel');                    // 3) sin nada → placeholder
+    }
+  }
 
   /* ---- tema (persistente) ---- */
   const savedTheme=localStorage.getItem('despacho-theme-v2');
@@ -354,8 +385,15 @@
     const art=el('article','nota');
     art.appendChild(el('p','eyebrow',n.eyebrow||''));
     const fig=el('figure');
-    if(n.image){const img=el('img');img.src=n.image;img.alt='';img.loading='lazy';fig.appendChild(img);}
-    else fig.classList.add('skel');
+    if(n.image){
+      const img=el('img'); img.src=n.image; img.alt=''; img.loading='lazy';
+      img.onerror=()=>{ img.remove(); fig.classList.add('skel'); };
+      fig.appendChild(img);
+    } else if(n.source){
+      resolveImage(fig, n.source, n.imgPrompt);   // sin foto en datos → la resuelve el navegador
+    } else {
+      fig.classList.add('skel');
+    }
     art.appendChild(fig);
     art.appendChild(el('h3','hl',n.title||''));
     if(n.dek) art.appendChild(el('p','dek',n.dek));
