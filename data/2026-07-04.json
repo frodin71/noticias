@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-04",
+  "dateLabel": "Sábado 4 de julio de 2026",
+  "edition": "004",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "Teherán despide a Jameneí con un funeral de Estado que se extenderá por siete días",
+          "dek": "Irán inició este sábado la mayor ceremonia fúnebre en su historia para el líder supremo Alí Jameneí, muerto el 28 de febrero en el primer ataque aéreo conjunto de EEUU e Israel.",
+          "more": "El gobierno iraní espera que entre 15 y 20 millones de personas se sumen a los actos a lo largo de la semana. La procesión principal recorrerá diez kilómetros por el centro de Teherán el 6 de julio. Delegaciones de unos 30 países asisten al funeral —entre ellos Rusia, Pakistán y el gobierno talibán de Afganistán—, mientras las naciones occidentales están ausentes. Grupos de dolientes clamaban venganza durante la jornada de despedida en la mezquita Mosala.",
+          "source": "https://www.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump",
+          "imgPrompt": "millions of black-clad mourners filling the streets of Tehran for a state funeral, aerial view, midday light"
+        },
+        {
+          "eyebrow": "Estados Unidos",
+          "title": "Trump encabeza una celebración inédita por los 250 años de la independencia, no exenta de polémica",
+          "dek": "El presidente lideró los festejos en Washington y el día anterior en el Monte Rushmore, mientras críticos cuestionaron el protagonismo personal que imprimió a la conmemoración.",
+          "more": "Trump propuso incluir su imagen en monedas conmemorativas y habilitó una firma especial para pasaportes de la independencia. Nueva York acogió una flota de grandes veleros de todo el mundo y una exhibición naval militar, y el espectáculo de fuegos artificiales en Washington fue anunciado como el más grande en la historia del país. En su discurso, afirmó que la identidad estadounidense está bajo un 'ataque renovado'.",
+          "source": "https://www.infobae.com/estados-unidos/2026/07/04/trump-celebro-el-250-aniversario-de-la-independencia-de-eeuu-y-afirmo-que-la-identidad-estadounidense-esta-bajo-un-ataque-renovado/",
+          "imgPrompt": "massive fireworks display over the Washington DC National Mall at night, July Fourth celebration, wide aerial view"
+        },
+        {
+          "eyebrow": "Clima extremo",
+          "title": "Una histórica ola de calor pone en emergencia la red eléctrica del noreste de EEUU justo en el 4 de julio",
+          "dek": "Unos 238 millones de personas —el 70% de la población— están bajo alerta por calor peligroso, con temperaturas superiores a 38°C en Nueva York, Boston y Filadelfia.",
+          "more": "El Departamento de Energía declaró una emergencia estatutaria sobre PJM Interconnection, la mayor red eléctrica del país, que abastece a 67 millones de personas. Una cúpula de alta presión atrapó el calor y la humedad sobre el Medio Oeste y la Costa Este durante los días del puente festivo, generando sensaciones térmicas de hasta 46°C en algunas zonas.",
+          "source": "https://abcnoticias.mx/global/2026/7/3/ola-de-calor-extrema-pone-en-alerta-238-millones-de-personas-en-eu-286531.html",
+          "imgPrompt": "pedestrians in a hazy urban park seeking shade during extreme heat, fire hydrant open on a city sidewalk, summer New York"
+        },
+        {
+          "eyebrow": "Iglesia",
+          "title": "El papa León XIV reza en Lampedusa por los migrantes muertos en el Mediterráneo",
+          "dek": "El pontífice visitó la isla italiana símbolo de la crisis migratoria, dejó flores en las tumbas de migrantes y celebró misa ante la imagen de la patrona local.",
+          "more": "León XIV inauguró también una placa en el muelle Favaloro en honor al papa Francisco, quien realizó la primera visita papal a la isla en 2013. La visita es la primera de León XIV a una zona de tránsito migratorio y se enmarca en su agenda de defensa de los migrantes, que incluye críticas a las deportaciones masivas en EEUU, país de origen del pontífice.",
+          "source": "https://www.aciprensa.com/noticias/126561/papa-leon-xiv-pasara-el-4-de-julio-con-migrantes-en-la-isla-italiana-de-lampedusa",
+          "imgPrompt": "pope in white vestments praying at a small seaside cemetery on a Mediterranean island, flowers on graves, morning light"
+        },
+        {
+          "eyebrow": "Desastre",
+          "title": "Venezuela llega al décimo día de la catástrofe con 2.645 muertos y pocas esperanzas de más sobrevivientes",
+          "dek": "Los equipos de rescate continúan entre los escombros del doble terremoto del 24 de junio, pero la ventana para encontrar personas con vida se cierra con el paso de los días.",
+          "more": "La OMS advirtió que el número de fallecidos seguirá aumentando a medida que avancen las labores. Más de 12.666 heridos y miles de desplazados complican la respuesta humanitaria. El chef español José Andrés llegó a Venezuela para apoyar World Central Kitchen, y medio centenar de voluntarias españolas montaron un hospital de emergencias sobre el terreno.",
+          "source": "https://cnnespanol.cnn.com/2026/07/02/venezuela/live-news/terremotos-venezuela-en-vivo-noticias-la-guaira-caracas-orix",
+          "imgPrompt": "rescue workers in orange vests searching through collapsed building rubble in a coastal Latin American city, cranes and debris, overcast sky"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Arranca la ronda de octavos de final con Canadá–Marruecos y Paraguay–Francia",
+          "dek": "El torneo entra en la fase de eliminación directa este sábado con dos duelos en Houston y Filadelfia; el gran cruce ibérico Portugal–España se disputará el 6 de julio en Dallas.",
+          "more": "Los ganadores de los dos partidos de hoy se enfrentarán en cuartos de final el 9 de julio en Boston. El domingo debutan EEUU vs. Bélgica en otro duelo de alta expectativa. Cristiano Ronaldo ya aseguró su lugar en octavos al convertir el penal que le dio la victoria a Portugal sobre Croacia en los dieciseisavos.",
+          "source": "https://www.tudn.com/mundial-2026/partidos-hoy-sabado-4-julio-del-2026-canada-vs-marruecos-y-paraguay-vs-francia-abren-octavos",
+          "imgPrompt": "two national soccer teams lining up on a World Cup pitch before kickoff, packed stadium crowd in background, daytime"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Defensa",
+          "title": "La OTAN llega a Ankara con la presión de Trump sobre el gasto del 5% del PIB",
+          "dek": "Los 32 aliados se reúnen el 7 y 8 de julio en Turquía; el secretario general Rutte anticipa contratos por decenas de miles de millones de dólares en la cumbre.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/03/los-aliados-de-la-otan-se-someten-en-ankara-al-examen-de-trump-sobre-el-5-del-gasto-en-defensa/"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Rusia lanza un ataque sobre Kyiv horas después de que Zelenski advirtiera de una gran ofensiva",
+          "dek": "Fuertes explosiones sacudieron la capital ucraniana poco después de que el presidente alertara sobre un operativo ruso de proporciones inusuales.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/04/sabado-4-de-julio-de-2026-0200-gmt/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Portugal vs. España: el duelo ibérico se jugará el 6 de julio en Dallas",
+          "dek": "España goleó 3-0 a Austria y Portugal remontó ante Croacia con gol de Ronaldo; ahora se verán las caras en uno de los octavos más atractivos del torneo.",
+          "source": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/live-blog/mundial-2026-octavos-final-espana-austria-portugal-croacia-suiza-rcna352760"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "Nueva York celebra los 250 años de EEUU con una flota de grandes veleros y una exhibición naval",
+          "dek": "Veleros históricos de todo el mundo y buques de guerra llenaron el puerto de Manhattan en la jornada festiva más espectacular del aniversario.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/04/sabado-4-de-julio-de-2026-0200-gmt/"
+        },
+        {
+          "eyebrow": "España",
+          "title": "Madrid sale a las calles con el Orgullo 2026 bajo el lema 'Disidencia y resistencia'",
+          "dek": "La marcha recorrió el centro de la capital española desde Atocha hasta la Plaza de Colón con espíritu festivo y reivindicativo.",
+          "source": "https://www.infobae.com/espana/agencias/2026/07/03/temas-del-dia-de-efe-espana-del-sabado-4-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Entretenimiento",
+          "title": "Bad Bunny abre en París dos noches de conciertos de su gira 'Debí Tirar Más Fotos'",
+          "dek": "El artista puertorriqueño lleva su exitosa gira a Europa con funciones consecutivas en el Plenitude Arena de la capital francesa.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/04/sabado-4-de-julio-de-2026-0200-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "Los negocios ilegales mueven más de US$5.700 millones al año y se consolidan como amenaza estructural para Chile",
+          "dek": "Un informe de la CPC advierte que la economía ilícita ya no es un fenómeno aislado: opera como un ecosistema criminal que compite directamente con el mercado formal.",
+          "more": "El crimen organizado abarca desde el contrabando y el robo hasta el lavado de dinero, con pérdidas fiscales estimadas en US$1.500 millones anuales. El comercio ilegal creció un 15% en los últimos cinco años. El gobierno anunció el desarrollo de una política nacional contra las economías ilícitas, con coordinación entre organismos de prevención, fiscalización y persecución penal.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/02/la-economia-ilicita-mueve-mas-de-us5-700-millones-al-ano-y-es-una-amenaza-estructural-segun-la-cpc.shtml",
+          "imgPrompt": "police officers displaying seized contraband goods and cash on a table at a press conference, Chile, indoor"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Colombia autoriza la extradición a Chile del cofundador del Tren de Aragua, alias 'Larry Changa'",
+          "dek": "El presidente Gustavo Petro firmó la resolución que entrega a Larry Amaury Álvarez Núñez para ser juzgado en Chile por asociación ilícita y dos secuestros en el norte del país.",
+          "more": "La medida llega dos años después de la captura de Changa en el municipio de Circasia, Quindío, y a semanas de que Petro abandone el poder. La Corte de Apelaciones de La Serena emitió la orden de detención. Colombia impuso como condición que el extraditado no sea sometido a tratos degradantes ni a penas no contempladas en la legislación chilena.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/01/presidente-de-colombia-confirma-extradicion-de-larry-changa-fundador-del-tren-de-aragua-a-chile.shtml",
+          "imgPrompt": "police officers escorting a handcuffed prisoner at a Latin American airport, press photographers outside"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Chile alista cárceles de alta seguridad para recibir a los principales cabecillas del Tren de Aragua",
+          "dek": "El ministro Arrau declaró que el país 'está preparado' para los líderes de la banda venezolana cuyas extradiciones se gestionan desde Colombia y EEUU.",
+          "more": "Gendarmería cuenta ya con un cuarto módulo de alta seguridad en La Serena y construye nuevos complejos en la cárcel La Laguna, en Santiago. Entre los próximos en llegar están Dayonis Orozco —extraditado recientemente desde EEUU— y Rafael Gámez, cuya entrega gestiona el gobierno estadounidense.",
+          "source": "https://www.eldinamo.cl/pais/2026/07/03/ministro-arrau-estamos-preparados-para-recibir-a-los-lideres-del-tren-de-aragua/",
+          "imgPrompt": "reinforced cell block in a maximum-security prison with heavy metal doors and surveillance cameras, Chile"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El cobre sube y el dólar retrocede a $921: el peso chileno recupera terreno",
+          "dek": "Datos débiles del mercado laboral en EEUU redujeron las expectativas de alza de tasas de la Fed, impulsando al metal rojo y fortaleciendo la moneda local.",
+          "more": "El cobre avanzó 0,73% a US$6,03 la libra en la Bolsa de Metales de Londres. Los analistas esperan que el tipo de cambio se mantenga bajo presión bajista en el corto plazo, en tanto el precio del cobre no retroceda.",
+          "source": "https://www.latercera.com/pulso/noticia/el-valor-del-dolar-en-chile-el-3-de-julio-de-2026/",
+          "imgPrompt": "shiny copper cathodes stacked at a Chilean smelting facility, industrial plant in the background, daylight"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Economía",
+          "title": "El gobierno rebaja la proyección de crecimiento del PIB de 4% a 3,5% para 2026",
+          "dek": "El Ejecutivo también ajustó al alza el déficit fiscal proyectado, de cero a 1,5%, como parte de su estrategia de reactivación económica.",
+          "source": "https://es-us.noticias.yahoo.com/kast-ajusta-promesas-turbulento-inicio-143614923.html"
+        },
+        {
+          "eyebrow": "Transparencia",
+          "title": "Auditoría detecta más de $1,4 billones en transferencias sin rendir cuentas a fundaciones",
+          "dek": "El hallazgo fue publicado por Ciper Chile en el marco de una revisión del gasto público que también incluyó la apertura de una nueva investigación al senador Calisto.",
+          "source": "https://www.ciperchile.cl/2026/07/01/radar-01-07-26/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registró decenas de sismos en las últimas 24 horas, sin daños mayores reportados",
+          "dek": "La actividad sísmica se mantuvo dentro de parámetros habituales, con los movimientos más intensos concentrados en la zona norte del país.",
+          "source": "https://elcomercio.pe/respuestas/chile/temblor-hoy-en-chile-en-vivo-ultimos-sismos-de-julio-cual-fue-el-epicentro-y-magnitud-segun-ultimo-reporte-csn-centro-sismologico-nacional-santiago-socaire-lbposting-noticia/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Chilevisión transmite hoy el primer octavo de final: Paraguay vs. Francia",
+          "dek": "El partido se juega en Filadelfia y es el único en TV abierta de la jornada; los octavos continúan el domingo con EEUU vs. Bélgica.",
+          "source": "https://www.tudn.com/mundial-2026/partidos-hoy-sabado-4-julio-del-2026-canada-vs-marruecos-y-paraguay-vs-francia-abren-octavos"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Incendios forestales en el Biobío dejan a unos 14.500 personas sin agua",
+          "dek": "La Superintendencia de Servicios Sanitarios reportó cortes por la destrucción de infraestructura sanitaria, incluido un CECOSF en la región.",
+          "source": "https://chile.un.org/es/308852-incendios-forestales-2026-reporte-de-situacion-n2"
+        },
+        {
+          "eyebrow": "Economía informal",
+          "title": "La informalidad laboral en el comercio llega al 33%, con más de 700.000 trabajadores fuera del sistema",
+          "dek": "El dato forma parte del diagnóstico sobre la economía ilícita chilena: informalidad y crimen organizado crecen en paralelo.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/03/del-robo-al-lavado-de-dinero-asi-funciona-el-circulo-vicioso-de-las-economias-ilicitas-en-chile.shtml"
+        }
+      ]
+    }
+  }
+}
