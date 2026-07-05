@@ -1,0 +1,161 @@
+{
+  "date": "2026-07-05",
+  "dateLabel": "Domingo 5 de julio de 2026",
+  "edition": "005",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "China",
+          "title": "Xi asciende a dos generales tras una purga que redujo la cúpula militar a solo dos integrantes",
+          "dek": "Zhang Shuguang y el comandante de la fuerza aérea Wang Gang reciben sus despachos en una ceremonia de Xi Jinping que busca sellar la lealtad de las Fuerzas Armadas al Partido.",
+          "more": "La purga anticorrupción de este año derrocó a diez funcionarios de rango ministerial o superior, entre ellos el vicepresidente de la Comisión Militar Central —máximo organismo castrense— que dirigía las operaciones diarias del ejército, y el general al frente del estado mayor conjunto. La CMC, que normalmente tiene siete integrantes, quedó reducida a dos antes de los nuevos nombramientos. Analistas calificaron el reordenamiento como el más profundo en el Ejército Popular de Liberación en décadas, con el objetivo declarado de garantizar la lealtad incondicional a Xi.",
+          "source": "https://www.npr.org/2026/07/04/g-s1-131994/chinas-military-promotes-2-new-generals-after-anti-corruption-purge-thins-ranks",
+          "imgPrompt": "Chinese PLA military officers in formal dress uniforms attending an official ceremony in Beijing, flags and formal hall, no close faces"
+        },
+        {
+          "eyebrow": "Iglesia",
+          "title": "El papa León XIV excomulga a toda la fraternidad lefebvrista y la declara en cisma",
+          "dek": "El Vaticano respondió con la máxima sanción canónica tras la consagración de cuatro obispos sin mandato pontificio el 1 de julio en Écône, Suiza.",
+          "more": "Los obispos Alfonso de Galarreta y Bernard Fellay —consagrantes principales— y los cuatro recién ordenados incurrieron en excomunión automática. El decreto extiende la sanción a todos los sacerdotes de la fraternidad y advierte a los fieles que asistir a sus misas los expone a la excomunión. Las confesiones y matrimonios administrados por la fraternidad quedan invalidados. El acto ocurrió exactamente 38 años después de la consagración fundacional de Lefebvre en 1988, que ya había provocado una primera ruptura y excomunión.",
+          "source": "https://www.npr.org/2026/07/02/nx-s1-5878916/vatican-society-of-st-pius-x-in-schism",
+          "imgPrompt": "interior of a traditional stone Catholic church with candles and Latin-rite altar, solemn atmosphere, no people visible"
+        },
+        {
+          "eyebrow": "Tragedia",
+          "title": "Venezuela, once días después: la búsqueda de sobrevivientes da paso a la recuperación de restos",
+          "dek": "Con más de 2.600 muertos confirmados y hasta 50.000 desaparecidos según la ONU, las labores en los escombros del doble terremoto del 24 de junio cambian de naturaleza.",
+          "more": "El Comité Internacional de Rescate estima los desaparecidos en cerca de 50.000, cifra validada por la Oficina de la ONU para la Coordinación de Asuntos Humanitarios. El gobierno de Delcy Rodríguez no ha publicado una cifra oficial de desaparecidos en sus partes diarios. Treinta y un países desplegaron equipos de rescate; Chile participó con su unidad USAR de bomberos y tres vuelos con 13 toneladas de ayuda humanitaria. Los sismos —magnitudes 7,2 y 7,5— son los más mortales que ha sufrido Venezuela en más de un siglo.",
+          "source": "https://www.univision.com/noticias/america-latina/ultimas-noticias-en-vivo-terremoto-venezuela-nueve-dias-tragedia-muertos-y-heridos-viernes-3-julio-2026",
+          "imgPrompt": "rescue workers in orange safety vests searching collapsed building rubble at dusk, cranes and emergency lights, Latin American city"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Marruecos aplasta 3-0 al anfitrión Canadá y se convierte en la revelación de los octavos; hoy Brasil-Noruega y México-Azteca",
+          "dek": "La generación dorada de Marruecos eliminó ayer al co-organizador con autoridad; hoy los octavos deparan el choque histórico de Brasil ante un rival al que nunca ha vencido.",
+          "more": "Ounahi (2 goles) y Rahimi sentenciaron a Canadá, el primer país anfitrión eliminado del torneo, mientras Mbappé definió con penal en el 69' el duelo más cerrado de la jornada ante Paraguay (1-0). En la jornada de hoy: Brasil-Noruega en el MetLife de Nueva Jersey a las 18:00 hora de Chile —Brasil jamás ha ganado a Noruega en sus enfrentamientos previos—, y México-Inglaterra en el Estadio Azteca desde las 22:00 hora de Chile, con el factor altitud como variable clave para la selección inglesa.",
+          "source": "https://www.telemundo.com/noticias/noticias-telemundo/internacional/live-blog/mundial-2026-minuto-a-minuto-paraguay-busca-dar-la-sorpresa-ante-franc-rcna352995",
+          "imgPrompt": "Moroccan soccer players in red jerseys celebrating on a packed World Cup pitch after a goal, nighttime stadium floodlights, crowd waving flags"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Cabo Verde: la nación de 525.000 habitantes que no ganó un partido en el Mundial y se ganó al mundo entero",
+          "dek": "Tres empates en la fase de grupos bastaron para que el país más pequeño en debutar en un Mundial llegara a los octavos; Argentina los eliminó 3-2 en tiempo extra, pero nada borrará lo que hicieron.",
+          "more": "Cabo Verde frenó a España (0-0), igualó con Uruguay (2-2) y volvió a empatar con Arabia Saudita (0-0). En Miami, Messi y los suyos tuvieron que esperar el tiempo extra para doblegar a los Tiburones Azules. Los jugadores, en su mayoría criados en las diásporas portuguesa y europea, se convirtieron en héroes nacionales. Especialistas y medios internacionales coincidieron en que su campaña demuestra que la ampliación del Mundial a 48 equipos fue una buena decisión.",
+          "source": "https://www.theringer.com/2026/07/04/world-cup/cape-verde-world-cup-vozinha-argentina",
+          "imgPrompt": "small island nation soccer fans in blue jerseys celebrating joyfully in a coastal town square, flags and confetti, daytime festive atmosphere"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Defensa",
+          "title": "La cumbre de la OTAN comienza el martes en Ankara: Zelenski y Trump marcarán la agenda",
+          "dek": "Los 32 aliados debatirán el 7 y 8 de julio el gasto en defensa del 5% del PIB, la guerra en Ucrania y la postura colectiva frente a China y Rusia.",
+          "source": "https://www.infodefensa.com/texto-diario/mostrar/5936142/cumbre-ankara-otan-enfrenta-mayor-transformacion-desde-guerra-fria-medio-tensiones-entre-europa-eeuu"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Mañana en los octavos: Portugal-España en Dallas y EEUU-Bélgica en Seattle",
+          "dek": "El lunes 6 de julio completa la primera ronda de eliminación directa con los dos duelos más atractivos del torneo.",
+          "source": "https://www.infobae.com/espana/deportes/2026/07/04/partidos-del-mundial-2026-hoy-5-de-julio-hora-estadios-y-como-ver-en-vivo-los-octavos-de-final/"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "El funeral del ayatolá Jameneí continúa su segundo día en Teherán con millones en las calles",
+          "dek": "Los actos durarán hasta el 11 de julio; delegaciones de unos 30 países asisten, mientras las potencias occidentales están ausentes.",
+          "source": "https://www.cnn.com/2026/07/04/world/live-news/iran-khamenei-funeral-war-trump"
+        },
+        {
+          "eyebrow": "EEUU",
+          "title": "Trump exaltó la 'Ley SAVE America' y condenó el comunismo en el discurso del 4 de julio ante el National Mall",
+          "dek": "El presidente reivindicó su agenda política frente a una multitud retrasada por tormentas y calor extremo, proclamando que 'el sueño americano está de vuelta'.",
+          "source": "https://cnnespanol.cnn.com/2026/07/05/eeuu/trump-discurso-4-julio-washington-trax"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Las conversaciones de paz en Ginebra pierden impulso tras el bombardeo masivo sobre Kyiv del 2 de julio",
+          "dek": "Rusia frenó su ofensiva de verano sin avances significativos; Ucrania sigue golpeando refinerías en el interior ruso mientras exige mayor apoyo aliado.",
+          "source": "https://www.proceso.com.mx/internacional/2026/7/2/ataque-ruso-deja-al-menos-20-muertos-en-kiev-mientras-ucrania-golpea-el-sector-petrolero-de-moscu-375277.html"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "El reloj corre: quedan menos de 30 días para convertir el memorándum EEUU-Irán en un acuerdo nuclear definitivo",
+          "dek": "Las conversaciones técnicas en Suiza avanzan con lentitud; siguen pendientes el programa de enriquecimiento, las sanciones y la reapertura del estrecho de Ormuz.",
+          "source": "https://www.npr.org/2026/06/19/nx-s1-5863544/trump-us-iran-agreement"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Solidaridad",
+          "title": "Los 45 bomberos del equipo USAR regresan a Chile tras rescatar personas con vida bajo los escombros de Venezuela",
+          "dek": "El equipo trabajó diez días en el estado de La Guaira; el presidente Kast los recibirá con honores en La Moneda este lunes al mediodía.",
+          "more": "La misión chilena incluyó operaciones de búsqueda urbana, rescate especializado y coordinación internacional en la zona más afectada del litoral venezolano. Una de las hazañas del equipo fue el rescate de un venezolano que llevaba ocho días sepultado bajo los escombros de un centro comercial —la operación demandó más de 70 horas de trabajo continuo. El subsecretario del Interior, Máximo Pavez, destacó el desempeño de la delegación al recibirla en el aeropuerto.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/04/regresan-a-chile-los-bomberos-que-lideraron-mision-en-venezuela-seran-homenajeados-en-la-moneda/",
+          "imgPrompt": "firefighters in orange rescue gear and helmets returning from a humanitarian mission, waving at a reception, airport tarmac outdoors"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La megarreforma abre su segunda etapa en el Senado con tres comisiones y plazos escalonados",
+          "dek": "Tras alcanzar un acuerdo la mesa política el viernes, el Ejecutivo y la oposición extendieron los plazos para indicaciones; Kast quiere la ley promulgada antes de agosto.",
+          "more": "La Comisión de Medio Ambiente puede recibir indicaciones hasta el lunes 6; la de Trabajo, hasta el miércoles 8; la de Hacienda, hasta el viernes 10. La mesa política reconoció que persisten 'discrepancias en temas medioambientales', en particular en los artículos sobre permisos de proyectos y evaluación de impacto. El proyecto, aprobado en general en el Senado por un solo voto el 24 de junio, reúne rebajas tributarias, medidas de inversión y cambios regulatorios.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/03/mesa-politica-por-megarreforma-alcanza-acuerdo-y-extiende-plazo-para-indicaciones.shtml",
+          "imgPrompt": "Chilean lawmakers at committee hearing in Senate chamber, formal session with microphones and documents on tables"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "La Dirección Meteorológica proyecta un invierno lluvioso: precipitaciones sobre lo normal desde Coquimbo al sur por El Niño",
+          "dek": "El organismo entregó su pronóstico estacional para junio-agosto: el centro y sur del país tendría más lluvias de lo habitual, mientras el norte registraría temperaturas sobre sus valores históricos.",
+          "more": "Las regiones con mayor probabilidad de lluvias sobre lo normal incluyen sectores entre Atacama y Valparaíso, O'Higgins, Biobío, La Araucanía, Los Ríos, Los Lagos y el estrecho de Magallanes. La influencia de El Niño también elevaría las temperaturas máximas en el norte del país y generaría condiciones mixtas en los valles centrales de la Región Metropolitana y O'Higgins. El pronóstico podría aliviar la sequía en la zona central, aunque también eleva el riesgo de aluviones en zonas vulnerables.",
+          "source": "https://www.dgac.gob.cl/invierno-2026-pronostico-estacional-preve-lluvias-normales-a-sobre-lo-normal/",
+          "imgPrompt": "heavy rain and storm clouds over a Chilean mountain valley in winter, snow-capped Andes in the background, dramatic gray sky"
+        },
+        {
+          "eyebrow": "Vivienda",
+          "title": "La Comisión de Vivienda del Senado rechaza el recorte al plan habitacional que dejaría a más de 20.000 familias sin hogar",
+          "dek": "Los senadores cuestionaron que ni el ministro de Hacienda ni el de Vivienda concurrieran a explicar el ajuste unilateral al programa habitacional 2026.",
+          "more": "El déficit habitacional cuantitativo en Chile supera las 500.000 viviendas, y considerando alquileres precarios y hacinamiento podría alcanzar 1,5 millones de hogares. El gobierno redujo el presupuesto del plan de emergencia habitacional que contemplaba 260.000 viviendas durante el período presidencial. Las tasas hipotecarias cayeron a 4,2% en 2026, pero las ventas mensuales de viviendas rondan las 3.000 unidades —menos de la mitad de los niveles de 2019.",
+          "source": "https://www.senado.cl/comunicaciones/noticias/comision-de-vivienda-rechaza-ajuste-unilateral-al-programa-habitacional",
+          "imgPrompt": "Chilean housing committee hearing in Senate, senators and officials at tables with documents, formal legislative setting"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Heroísmo",
+          "title": "Los bomberos chilenos rescataron a un venezolano que llevaba ocho días sepultado bajo un centro comercial derrumbado",
+          "dek": "La operación del equipo USAR de Chile demandó más de 70 horas de trabajo continuo y fue el rescate con vida más tardío registrado en la misión.",
+          "source": "https://www.latercera.com/nacional/noticia/rescate-milagroso-bomberos-chilenos-salvan-a-venezolano-que-estuvo-ocho-dias-sepultado-en-un-centro-comercial-tras-terremotos/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registró 29 sismos en las últimas 24 horas; el más fuerte fue de magnitud 4,4 en Tarapacá",
+          "dek": "La actividad sísmica se mantuvo dentro de parámetros habituales, sin reportes de daños ni alerta de tsunami.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Los partidos de hoy: Brasil-Noruega a las 18:00 y México-Inglaterra a las 22:00, ambos por señal de pago",
+          "dek": "Ninguno de los dos octavos de final del domingo tendrá transmisión en televisión abierta en Chile.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-octavos-en-vivo-hoy-mexico-inglaterra-5-julio"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar observado se ubica en $921, sostenido por el precio del cobre sobre US$6 la libra",
+          "dek": "El tipo de cambio mostró estabilidad en la semana; datos laborales débiles en EEUU redujeron las expectativas de alza de tasas de la Fed.",
+          "source": "https://transtecnia.cl/boletin-informativo/dolar-observado-hoy-chile/"
+        },
+        {
+          "eyebrow": "Solidaridad",
+          "title": "Chile completó su tercer vuelo humanitario a Venezuela con vacunas y medicamentos en alianza público-privada",
+          "dek": "El país envió en total 13 toneladas de suministros a lo largo de la emergencia, en una operación coordinada entre el gobierno y empresas privadas.",
+          "source": "https://www.emol.com/noticias/Nacional/2026/07/04/1204670/alianza-publico-privada-venezuela-terremoto.html"
+        }
+      ]
+    }
+  }
+}
