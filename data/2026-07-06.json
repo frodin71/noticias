@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-06",
+  "dateLabel": "Lunes 6 de julio de 2026",
+  "edition": "006",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "OTAN",
+          "title": "La cumbre de Ankara abre mañana: 5% del PIB, €70.000 millones para Ucrania y China en la agenda",
+          "dek": "Los 32 aliados se reúnen el 7 y 8 de julio en Turquía para el mayor reajuste de la alianza desde la Guerra Fría, con Trump y Zelenski como protagonistas.",
+          "more": "Los líderes prevén comprometerse a aportar hasta 70.000 millones de euros anuales para el apoyo militar a Ucrania, y se anunciarán decenas de miles de millones en nuevos contratos de producción industrial de defensa. La cumbre también abordará el rol de China: el secretario general Mark Rutte advirtió que un movimiento chino sobre Taiwán involucraría inevitablemente a Rusia contra la alianza. Trump asistirá para subrayar su vínculo con Erdogan, pero presionará a los europeos a cumplir más rápido con el gasto del 5% del PIB. Zelenski buscará garantías concretas de apoyo ante el estancamiento en el frente.",
+          "source": "https://www.infodefensa.com/texto-diario/mostrar/5936142/cumbre-ankara-otan-enfrenta-mayor-transformacion-desde-guerra-fria-medio-tensiones-entre-europa-eeuu",
+          "imgPrompt": "heads of state at a formal NATO summit podium, large NATO flags behind the stage, packed conference hall with delegates, Ankara modern building exterior visible"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "El féretro de Jameneí recorre Teherán ante millones: el funeral más grande en la historia de la República Islámica",
+          "dek": "El cortejo fúnebre del líder supremo asesinado el 28 de febrero atraviesa este lunes las principales avenidas de la capital iraní antes de su entierro en Mashhad.",
+          "more": "Jamenei, de 86 años, fue asesinado en ataques a su residencia en Teherán el primer día de la guerra con Israel y Estados Unidos. El cuerpo estuvo expuesto durante tres días en la Gran Mezquita Mosalla, donde las autoridades estimaron entre 15 y 20 millones de asistentes. Delegaciones de unos 30 países participan en los actos; las potencias occidentales están ausentes. El entierro se realizará mañana en Mashhad, cerca del santuario del Imán Reza, uno de los lugares más sagrados del islam chiita. La Asamblea de Expertos deberá elegir a su sucesor, proceso que concentra la atención geopolítica internacional.",
+          "source": "https://lancasteronline.com/lavoz/mundo/ir-n-inicia-funeral-de-varios-d-as-del-l-der-supremo-ayatol-al-jamenei/article_4c801f78-ece0-5c35-ad44-790321c83674.html",
+          "imgPrompt": "massive crowd of mourners dressed in black filling wide central avenues of a Middle Eastern capital city, aerial wide shot, buildings lining boulevard, somber atmosphere"
+        },
+        {
+          "eyebrow": "Meteorología",
+          "title": "El supertifón Bavi toca tierra en territorio de EEUU con vientos de 290 km/h: 'dos supertifones en dos meses, algo nunca visto'",
+          "dek": "La tormenta más intensa del año golpeó la isla de Rota en las Islas Marianas del Norte, archipiélago del Pacífico que aún se recuperaba del tifón Sinlaku de abril.",
+          "more": "El Joint Typhoon Warning Center catalogó a Bavi como supertifón de categoría 5, con ráfagas de hasta 346 km/h y proyección de al menos 51 centímetros de lluvia acumulada. Las autoridades de Rota reportaron 'daños mayores'. El sistema triplicó su tamaño en pocas horas antes de hacer landfall. Después de pasar por las Marianas, Bavi continuará su ruta hacia el suroeste del Pacífico en debilitamiento. Los expertos señalan que dos supertifones en dos meses sobre el mismo archipiélago es un evento sin precedentes históricos registrados.",
+          "source": "https://www.euronews.com/2026/07/06/major-damage-as-super-typhoon-bavi-makes-landfall-on-us-pacific-islands",
+          "imgPrompt": "satellite image of a massive typhoon with visible eye, swirling white clouds over deep blue Pacific Ocean, dramatic spiral storm structure from above"
+        },
+        {
+          "eyebrow": "Filipinas",
+          "title": "El Senado de Filipinas abre hoy el juicio político a Sara Duterte: malversación, enriquecimiento ilícito y amenazas al presidente Marcos",
+          "dek": "El proceso en el Senado comenzó con la Fiscalía disponiendo de 62 sesiones y 57 testigos; una condena significaría inhabilitación de por vida para ejercer cargos públicos.",
+          "more": "La Cámara de Representantes aprobó la destitución en mayo y elevó la causa al Senado. Duterte enfrenta cuatro cargos: malversación de fondos públicos, enriquecimiento ilícito y las amenazas que formuló en 2024 de haber encargado el asesinato del presidente Marcos si ella misma era asesinada. Para condenarla se requieren dos tercios del Senado. El proceso arrancó en el peor momento para la acusada: uno de sus senadores aliados está prófugo, otro fue detenido hoy mismo y un tercero enfrenta causas judiciales.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/06/filipinas-inicia-el-juicio-politico-contra-sara-duterte-por-presunto-enriquecimiento-ilicito-y-amenazas-al-presidente/",
+          "imgPrompt": "Philippine Senate chamber with senators and officials seated at long curved tables, Philippine flags on the walls, formal hearing session with microphones and legal documents"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Noruega elimina a Brasil 2-1 con doblete de Haaland; Neymar anuncia su adiós a la verdeamarela",
+          "dek": "El triunfo histórico en el MetLife de Nueva Jersey —Noruega nunca antes había vencido a Brasil— manda a la Canarinha a casa y provoca el retiro del máximo goleador histórico.",
+          "more": "Brasil falló un penal en el minuto 12: Nyland le atajó el remate a Bruno Guimarães, y eso condicionó el partido. Haaland abrió el marcador con un cabezazo al 79' y sentenció desde la frontal al 90'. Neymar descontó de penal en el descuento para el 2-1 final. Tras el pitido, el delantero más goleador de la historia de Brasil anunció ante las cámaras que no seguirá con la selección. Para Noruega es un hito: por primera vez en su historia accede a los cuartos de final de un Mundial.",
+          "source": "https://www.infobae.com/deportes/2026/07/05/brasil-noruega-en-vivo-por-los-8vos-de-final-del-mundial-2026-hora-tv-formaciones-y-todo-lo-que-hay-que-saber/",
+          "imgPrompt": "Norwegian soccer players in white jerseys embracing and celebrating with raised fists on a floodlit World Cup pitch, ecstatic team group celebration at night stadium"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Inglaterra elimina a México 3-2 en el Azteca: Bellingham con doblete y los ingleses resistieron con diez",
+          "dek": "Los ingleses ganaron con inferioridad numérica durante más de 40 minutos tras la expulsión de Quansah, soportando la presión de un Azteca volcado con su selección.",
+          "more": "Bellingham anotó en el minuto 20 y al 38', Kane convirtió el tercero de penal. Expulsado Quansah al 47', México redujo con Quiñones (42') y Raúl Jiménez de penal (68') para el 3-2 final. La superioridad numérica mexicana no bastó; el equipo no logró empatar pese a dominar el segundo tiempo. Para Inglaterra es el tercer partido consecutivo con victoria en el mítico estadio. El combinado inglés avanza a cuartos como uno de los favoritos al título.",
+          "source": "https://www.lanacion.com.ar/estados-unidos/a-que-hora-de-eeuu-juega-mexico-vs-inglaterra-hoy-en-vivo-el-partido-de-octavos-de-final-del-mundial-nid05072026/",
+          "imgPrompt": "English soccer players in white jerseys celebrating on the pitch of Estadio Azteca in Mexico City at night, packed stadium with colorful crowd cheering"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Geopolítica",
+          "title": "China y Rusia inician hoy el 'Joint Sea-2026': maniobras navales en el Mar Amarillo hasta el 13 de julio",
+          "dek": "El ejercicio incluye defensa aérea, guerra antisubmarina y ataques marítimos; al concluir habrá una patrulla conjunta en el Pacífico occidental.",
+          "source": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Hoy en los octavos: Portugal vs. España en Dallas (15:00) y EEUU vs. Bélgica en Seattle (20:00), hora de Chile",
+          "dek": "Los dos duelos más atractivos de la ronda, ambos por señal de pago; Chilevisión no tiene derechos para ninguno de los dos partidos del lunes.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-2026-octavos-final-lunes-6-julio-en-vivo-resultados"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "El cuerpo de Jameneí será enterrado el martes en Mashhad; la Asamblea de Expertos comienza a deliberar sobre su sucesor",
+          "dek": "El proceso para designar al nuevo líder supremo podría extenderse semanas; la estabilidad del régimen y la dirección del programa nuclear son las principales incógnitas.",
+          "source": "https://www.jpost.com/spanish/noticias-del-medio-oriente/article-901486"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "Doce días del doble terremoto: 2.645 muertos oficiales y hasta 50.000 desaparecidos según la ONU",
+          "dek": "El gobierno venezolano sigue sin reconocer la cifra de desaparecidos que manejan la ONU y el Comité Internacional de Rescate.",
+          "source": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026"
+        },
+        {
+          "eyebrow": "Espacio",
+          "title": "La sonda china Tianwen-2 llega al asteroide Kamo'oalewa tras 400 días y 1.000 millones de kilómetros de viaje",
+          "dek": "El objetivo es recoger muestras del asteroide, que algunos científicos creen que podría ser un fragmento desprendido de la Luna.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/06/lunes-6-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "A horas de la cumbre de Ankara, las negociaciones de paz entre Rusia y Ucrania siguen en punto muerto",
+          "dek": "El plan de 28 puntos presentado por Washington —que reconocería territorios rusos de facto— no ha logrado consenso ni en Kiev ni entre los aliados europeos.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/02/serie-previa-con-motivo-de-la-cumbre-de-los-paises-de-la-otan-en-ankara/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Solidaridad",
+          "title": "Kast recibe en La Moneda con honores a los 45 bomberos que rescataron sobrevivientes en Venezuela",
+          "dek": "El presidente encabezó este lunes al mediodía el izamiento de la Bandera Bicentenario en honor al equipo USAR que operó durante diez días en La Guaira.",
+          "more": "La misión participó en operaciones de rescate urbano especializado y coordinación internacional en la zona litoral más afectada por los sismos del 24 de junio. El hito más destacado fue el rescate con vida de Hernán Gil, un venezolano encontrado después de ocho días sepultado bajo los escombros de un centro comercial, en una operación que requirió más de 70 horas de trabajo continuo. El presidente Kast había contactado personalmente a los bomberos desde Venezuela para destacar su labor. El subsecretario del Interior Máximo Pavez los recibió en el aeropuerto el sábado, al cierre de la misión.",
+          "source": "https://www.latercera.com/nacional/noticia/representan-lo-mejor-de-chile-retornan-los-45-bomberos-que-participaron-en-historica-mision-de-rescate-en-venezuela/",
+          "imgPrompt": "firefighters in formal dress uniforms standing at attention in an open plaza of a presidential palace, large national flag being raised on a tall flagpole, officials observing ceremony"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La megarreforma enfrenta su semana más densa: cierra hoy el plazo de indicaciones para Medio Ambiente",
+          "dek": "El oficialismo fragmentó a la oposición en el Senado y presiona por un protocolo de acuerdo que permita votar en particular antes de agosto.",
+          "more": "El plazo de indicaciones para la Comisión de Medio Ambiente vence hoy a las 20:00; el miércoles al mediodía cierra el de la Comisión del Trabajo, y el viernes 10 el de Hacienda. La votación en particular en cada comisión se esperaría a partir de la semana del 13 de julio. El proyecto fue aprobado en general el 24 de junio por un solo voto (26-23-1). El avance más concreto de la semana pasada se produjo en materia tributaria, donde se exploran fórmulas de compensación para la rebaja del impuesto de primera categoría y la exención de contribuciones. El ministro Quiroz se mostró optimista sobre el impacto de la ley en la reactivación del segundo semestre.",
+          "source": "https://radio.uchile.cl/2026/07/05/oficialismo-presiona-por-aprobacion-de-megarreforma-y-fragmenta-a-la-oposicion-en-el-senado/",
+          "imgPrompt": "Chilean senators at a formal committee hearing, seated at curved wooden tables with microphones and papers, Chilean flags on background wall, daylight session in progress"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "El gobierno reporta una baja del 10% en homicidios en 2026, pero el crimen organizado sigue sofisticando su armamento y alcance",
+          "dek": "Con 343 víctimas al inicio de julio —38 menos que en el mismo período de 2025—, la tasa más baja en años convive con alertas de mayor violencia del crimen organizado.",
+          "more": "El 70% de los homicidios son cometidos con armas de fuego, según la Fiscalía, que describe organizaciones con mayor capacidad de daño. El secuestro en la Región Metropolitana pasó de representar el 20% al 40% de los casos ECOH en el primer semestre, un aumento del 28%. El Tren de Aragua mantiene presencia activa en el comercio sexual y el narcotráfico. El gobierno opera el plan 'Menos armas, más seguridad', con inspecciones anuales a armas registradas. Expertos señalan que Chile carece aún de una estrategia preventiva capaz de frenar el ingreso de armamento a las organizaciones criminales.",
+          "source": "https://www.cnnchile.com/pais/gobierno-reporta-reduccion-del-10-en-homicidios-durante-2026-registran-343-casos-durante-el-ano/",
+          "imgPrompt": "Chilean police officers in uniform presenting seized firearms and weapons laid out on a table at a press conference, urban setting, daytime"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Economía",
+          "title": "Ministro Quiroz descarta recesión y pronostica rebote económico en el segundo semestre",
+          "dek": "El secretario de Hacienda aseguró que 'no hay señales de recesión' y se mostró optimista sobre el efecto que tendrá la megarreforma en la inversión privada una vez promulgada.",
+          "source": "https://www.ex-ante.cl/megarreforma-gana-tiempo-en-el-senado-que-se-abrio-que-sigue-trabado-y-cuales-son-los-proximos-plazos/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Dos clásicos europeos en la tarde: Portugal-España a las 15:00 y EEUU-Bélgica a las 20:00 hora de Chile",
+          "dek": "Ambos octavos se transmiten exclusivamente por señal de pago; ninguno cuenta con señal abierta en territorio nacional.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-2026-octavos-final-lunes-6-julio-en-vivo-resultados"
+        },
+        {
+          "eyebrow": "Armas",
+          "title": "Ñuble: las incautaciones de armas de fuego subieron de 186 a 694 entre 2021 y 2025, un alza del 273%",
+          "dek": "La región es reflejo de una tendencia nacional: el armamento llega con mayor facilidad a organizaciones criminales que en años anteriores.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/region-de-nuble/2026/07/05/alza-de-254-incautaciones-de-armas-de-fuego-se-dispara-en-la-region-de-nuble.shtml"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar observado se mantiene estable, respaldado por el cobre que opera sobre los US$6 la libra",
+          "dek": "Analistas sitúan el promedio anual 2026 en el rango de $880–$930 por dólar; el metal rojo sigue siendo el principal ancla del tipo de cambio.",
+          "source": "https://transtecnia.cl/boletin-informativo/dolar-observado-hoy-chile/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Actividad sísmica normal en Chile durante el fin de semana; sin reportes de daños ni alertas de tsunami",
+          "dek": "El Centro Sismológico Nacional registró movimientos menores en varias regiones, dentro de los rangos habituales de la zona de subducción.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "La Fiscalía alerta: el Tren de Aragua expande su control sobre el comercio sexual como principal fuente de ingresos en Chile",
+          "dek": "El informe de crimen organizado describe al grupo venezolano como una de las amenazas más activas del país, con presencia creciente en Santiago y otras regiones.",
+          "source": "https://www.emol.com/noticias/Nacional/2026/06/28/1203892/mercado-sexual-crimen-organizado-chile.html"
+        }
+      ]
+    }
+  }
+}
