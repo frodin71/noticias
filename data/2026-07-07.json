@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-07",
+  "dateLabel": "Martes 7 de julio de 2026",
+  "edition": "007",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Defensa",
+          "title": "La OTAN inaugura en Ankara su cumbre más decisiva y anuncia miles de millones en armamento",
+          "dek": "Los aliados presentan acuerdos de venta de armas por decenas de miles de millones de dólares y ratifican 70.000 millones de euros en asistencia para Ucrania; Trump se reúne con Erdogan.",
+          "more": "La cumbre, celebrada los días 7 y 8 de julio, consolida el compromiso asumido en La Haya en 2025 de elevar el gasto en defensa al 5% del PIB para 2035. Entre 2016 y 2026, los aliados europeos y Canadá sumaron 1,2 billones de dólares adicionales en gasto militar. Turquía emerge como pivote geopolítico clave: Trump le ofrecerá el regreso al programa del caza F-35, poniendo fin a un bloqueo de siete años. El secretario general Mark Rutte subrayó que la cumbre buscará convertir el gasto en capacidad operativa real.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/07/la-otan-inaugura-en-ankara-una-cumbre-para-exhibir-el-aumento-del-gasto-militar-y-contener-las-criticas-de-donald-trump/",
+          "imgPrompt": "NATO leaders seated at a summit table with Turkish and NATO flags in a modern conference hall in Ankara, wide shot, daylight"
+        },
+        {
+          "eyebrow": "Guerra",
+          "title": "El conflicto Rusia-Ucrania supera los 2 millones de bajas y se convierte en el más mortífero desde 1945",
+          "dek": "La guerra ya acumula más víctimas que cualquier conflicto desde la Segunda Guerra Mundial; los ataques rusos continúan sobre el este y el sur del país.",
+          "more": "Rusia lanzó esta semana ofensivas sobre el Donbás, Járkov, Zaporiyia y Jersón, así como sobre las regiones de Dnipropetrovsk y Odesa. Moscú informó haber neutralizado más de 430 drones ucranianos que se dirigían a la región de Moscú. Desde Ankara, la OTAN ratificó 70.000 millones de euros en asistencia militar para Kiev en 2026. El presidente Zelensky participó personalmente en la cumbre para reforzar el apoyo aliado.",
+          "source": "https://cnnespanol.cnn.com/2026/07/02/mundo/bajas-rusia-guerra-ucrania-2-millones-trax",
+          "imgPrompt": "destroyed residential buildings in a Ukrainian city with smoke in the background, emergency vehicles on the street, overcast sky"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "La OPEP+ amplía producción mientras el petróleo cae a niveles previos a la guerra con Irán",
+          "dek": "El Brent ronda los 72 dólares el barril, lejos del pico de 120 alcanzado en marzo; analistas proyectan caídas hacia los 60 dólares en 2027.",
+          "more": "La OPEP+ acordó un nuevo incremento de 188.000 barriles diarios, el quinto aumento consecutivo desde marzo. La demanda en China y Europa aún no se recupera del desplome ocurrido durante el conflicto. Emiratos Árabes Unidos, uno de sus mayores productores, abandonó la organización en abril, intensificando las tensiones internas. Economistas advierten que el precio podría caer hasta los 50 dólares el barril en 2028.",
+          "source": "https://www.euronews.com/business/2026/07/06/opec-agrees-another-modest-output-rise-as-oil-prices-fall-back-to-pre-war-levels",
+          "imgPrompt": "oil refinery and storage tanks at sunset in an arid Middle Eastern landscape, industrial infrastructure, wide shot"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Argentina vs. Egipto y Colombia vs. Suiza: el Mundial llega a sus octavos más electrizantes",
+          "dek": "Los dos choques más esperados de los octavos de final se juegan hoy en Atlanta y Vancouver; los ganadores se verán en cuartos el 11 de julio.",
+          "more": "Argentina, vigente campeona del mundo, enfrenta a Egipto en el Mercedes-Benz Stadium de Atlanta. Colombia se mide ante Suiza en el BC Place de Vancouver. Los ganadores se enfrentarán el 11 de julio en Kansas City. El cuadro de cuartos ya tiene cuatro clasificados confirmados: Francia, Marruecos, España y Bélgica, que eliminó a los Estados Unidos.",
+          "source": "https://www.olympics.com/es/noticias/mundial-futbol-2026-octavos-final-martes-7-julio-en-vivo-resultados-hoy",
+          "imgPrompt": "Argentine soccer fans with blue and white flags celebrating in a packed stadium at night, World Cup 2026, floodlights"
+        },
+        {
+          "eyebrow": "Migración",
+          "title": "España cierra su regularización migratoria masiva con casi 1,2 millones de solicitudes",
+          "dek": "El proceso concluyó el 30 de junio; el 67% de las peticiones vino de América Latina y más de la mitad ya está en tramitación con permiso provisional de trabajo.",
+          "more": "Cataluña (257.000 solicitudes), Madrid (202.000) y Valencia (167.000) concentraron el mayor volumen. El 83% de los trámites fue digital. Quienes han sido admitidos a trámite pueden residir y trabajar en España mientras aguardan la resolución definitiva, un proceso que podría extenderse varios meses. Miles siguen en espera.",
+          "source": "https://www.infobae.com/espana/2026/07/04/miles-de-migrantes-aun-esperan-la-resolucion-que-cambiara-su-futuro-en-espana-la-regularizacion-esta-lejos-de-haber-terminado/",
+          "imgPrompt": "a diverse queue of people at a Spanish government immigration office, documents in hand, Madrid street, daylight"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Defensa",
+          "title": "Trump confirmará a Erdogan el regreso de Turquía al programa del caza F-35",
+          "dek": "El anuncio pondrá fin a siete años de bloqueo del avión de quinta generación, pese a la oposición de Israel al reingreso de Ankara al programa.",
+          "source": "https://www.infodefensa.com/texto-diario/mostrar/5945236/trump-comunicara-erdogan-regreso-turquia-programa-f-35-pese-oposicion-israel-durante-cumbre-otan"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Bélgica eliminó a Estados Unidos y avanza a cuartos de final",
+          "dek": "El anfitrión fue superado en octavos y queda fuera del torneo en casa, uno de los golpes más resonantes del certamen.",
+          "source": "https://cnnespanol.cnn.com/2026/07/04/deportes/cuartos-final-mundial-2026-partidos-fechas-orix"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Francia, Marruecos, España y Bélgica, los primeros cuatro cuartofinalistas confirmados",
+          "dek": "El cuadro ya tiene definida la mitad del cuadro de cuartos; los otros cuatro lugares saldrán de los partidos de hoy.",
+          "source": "https://www.ambito.com/deportes/asi-estan-los-cuartos-final-del-mundial-2026-todos-los-cruces-el-fixture-completo-y-cuando-se-juega-cada-partido-n6296279"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Zelensky asiste a la cumbre de la OTAN en Ankara para reforzar el apoyo a Ucrania",
+          "dek": "El presidente ucraniano participó en la cita buscando garantizar la continuidad del respaldo militar mientras los combates siguen intensos en el frente este.",
+          "source": "https://www.france24.com/es/europa/20260705-la-otan-llega-a-ankara-entre-presion-de-trump-mas-gasto-militar-ayuda-a-ucrania-y-tension-interna-en-turquia"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "La OPEP lucha por su supervivencia con el crudo a la baja y la salida de Emiratos",
+          "dek": "Con EAU fuera de la organización y los precios cayendo, el cartel enfrenta su mayor crisis de cohesión interna en décadas.",
+          "source": "https://es-us.noticias.yahoo.com/la-opep-esta-luchando-por-su-supervivencia-esto-podria-terminar-con-el-precio-del-petroleo-a-us-40-el-barril-173742268.html"
+        },
+        {
+          "eyebrow": "Europa",
+          "title": "Más de 608.000 migrantes en España ya tienen permiso provisional de residencia y trabajo",
+          "dek": "Casi el 52% de las solicitudes admitidas en la regularización ya otorga derecho a residir y trabajar, pero la resolución definitiva puede tardar meses.",
+          "source": "https://www.infobae.com/espana/2026/07/02/la-regularizacion-de-migrantes-registra-casi-12-millones-de-solicitudes-el-67-procede-de-america-latina/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Economía",
+          "title": "El FMI rebaja por segunda vez su proyección para Chile al 1,8% y exige ajuste fiscal urgente",
+          "dek": "El organismo volvió a recortar su estimación de crecimiento para 2026 y advirtió que el gobierno deberá reforzar la sostenibilidad de las cuentas públicas para mantener la deuda bajo el 45% del PIB.",
+          "more": "En abril el FMI proyectaba un crecimiento de 2,4%; en mayo lo redujo a 2,2%, y ahora lo lleva al 1,8%. El organismo reconoce la resiliencia de la economía y el respaldo del alto precio del cobre, pero alerta por la inflación transitoria provocada por el petróleo durante el conflicto en Oriente Medio. Para 2027 mejoró levemente su perspectiva al 2,6%.",
+          "source": "https://www.latercera.com/pulso/noticia/fmi-recorta-la-proyeccion-de-crecimiento-de-chile-para-este-ano-e-insiste-con-sus-alertas-por-agenda-del-gobierno/",
+          "imgPrompt": "a declining graph chart on a digital screen with a Chilean cityscape in the background, financial data, economic analysis"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "La oposición lanza 22 indicaciones contra el capítulo ambiental de la ley miscelánea",
+          "dek": "El Socialismo Democrático también anunció recurso al Tribunal Constitucional por la invariabilidad tributaria si el proyecto se despacha sin modificaciones sustanciales.",
+          "more": "La ley miscelánea, con 43 medidas de reactivación económica, ingresó a discusión particular en el Senado tras superar la idea de legislar el 24 de junio con solo votos del oficialismo. El gobierno aspira a despacharla este mes. El proyecto incluye reducción del impuesto de primera categoría del 27% al 23%, reintegración tributaria y un crédito al empleo del 15%.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/06/capitulo-ambiental-de-la-ley-miscelanea-bajo-fuego-oposicion-presenta-22-indicaciones/",
+          "imgPrompt": "the Chilean National Congress building in Valparaiso with legislators in session hall, formal debate"
+        },
+        {
+          "eyebrow": "Justicia",
+          "title": "Chile debate proteger la identidad de jueces en causas de crimen organizado",
+          "dek": "El avance del Tren de Aragua y otras redes transnacionales reabrió la discusión sobre el anonimato de magistrados en procesos penales de alta complejidad.",
+          "more": "El protocolo de reserva de identidad ya se aplicó en el caso Ronald Ojeda —exmilitar venezolano asesinado en Chile— desde la segunda formalización. Expertos argumentan que la medida protege la independencia del sistema penal frente a grupos con capacidad de intimidar a sus operadores. El debate alcanza también a fiscales, víctimas, testigos y agentes policiales.",
+          "source": "https://www.emol.com/noticias/Nacional/2026/07/05/1204720/realidad-delictual-jueces-identidad-crimen.html",
+          "imgPrompt": "interior of a Chilean courtroom with the judge's bench and scales of justice, somber lighting, no people visible"
+        },
+        {
+          "eyebrow": "Gobierno",
+          "title": "El Ejecutivo defiende la ley miscelánea como respuesta directa a la advertencia del FMI",
+          "dek": "El gobierno sostiene que la rebaja tributaria y el crédito al empleo del proyecto son el camino para alcanzar el 4% de crecimiento que el FMI pone hoy en duda.",
+          "more": "La ley miscelánea apunta a llevar el desempleo al 6,5% y el PIB al 4% para 2030. La oposición, en cambio, argumenta que las rebajas tributarias van en sentido contrario a la exigencia del FMI de reforzar el equilibrio fiscal. El debate se intensifica mientras el Senado entra al análisis artículo por artículo del texto.",
+          "source": "https://www.df.cl/economia-y-politica/congreso/triunfo-para-el-gobierno-solo-con-votos-oficialistas-la-sala-del-senado",
+          "imgPrompt": "Chilean government officials at an economic press briefing with data projections on screen in background, Santiago"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Empleo",
+          "title": "El desempleo femenino en Chile trepa al 10,5% y más de 940.000 personas buscan trabajo sin encontrarlo",
+          "dek": "El dato refleja la persistente debilidad del mercado laboral en plena desaceleración económica, con el desempleo general en 9,4%.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/06/el-fmi-vuelve-a-bajar-su-proyeccion-de-crecimiento-para-chile-hasta-el-18-en-2026.shtml"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "Alerta en Chile por el uso de criptomonedas para el lavado de activos del crimen organizado",
+          "dek": "Grupos delictivos transnacionales explotan la escasa regulación del mercado cripto local para mover fondos ilícitos, según una investigación de la Fiscalía.",
+          "source": "https://revistaseguridad.cl/2026/06/13/crimen-organizado-y-criptomonedas-la-nueva-frontera-del-lavado-de-activos-en-chile/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Para 2027, el FMI mejora la perspectiva de Chile a un crecimiento del 2,6%",
+          "dek": "A pesar de la segunda rebaja para 2026, el organismo anticipa una recuperación gradual si el gobierno logra estabilizar las cuentas fiscales.",
+          "source": "https://www.df.cl/economia-y-politica/macro/fmi-recorta-crecimiento-de-chile-para-este-ano-a-1-8-y-advierte-que-se"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registra actividad sísmica habitual esta semana sin reportes de daños ni alertas",
+          "dek": "El CSN monitorea decenas de movimientos telúricos de baja magnitud a lo largo del territorio nacional; ninguno generó alerta de tsunami.",
+          "source": "https://rpp.pe/mundo/chile/temblor-en-chile-hoy-5-de-julio-epicentro-del-sismo-segun-csn-live-3498"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Chile y Uruguay profundizan su cooperación policial y judicial contra el crimen organizado",
+          "dek": "Los presidentes Kast y Orsi renovaron compromisos de trabajo conjunto para frenar a redes transnacionales como el Tren de Aragua que operan en ambos países.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/02/uruguay-y-chile-estrechan-su-cooperacion-contra-el-flagelo-del-crimen-organizado-en-la-region/"
+        },
+        {
+          "eyebrow": "Político",
+          "title": "El Socialismo Democrático se adelanta y anuncia recurso al TC en cuanto se despache la ley miscelánea",
+          "dek": "El bloque toma distancia de sus socios y confirma que irá al Tribunal Constitucional por la invariabilidad tributaria y una polémica norma ambiental.",
+          "source": "https://www.df.cl/economia-y-politica/congreso/ley-miscelanea-el-socialismo-democratico-tira-el-mantel-se-adelanta-a-sus"
+        }
+      ]
+    }
+  }
+}
