@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-08",
+  "dateLabel": "Miércoles 8 de julio de 2026",
+  "edition": "008",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "EE.UU. lanza más de 80 bombardeos contra Irán tras nuevos ataques a buques en el estrecho de Ormuz",
+          "dek": "Washington golpeó objetivos militares iraníes después de que tres barcos comerciales fueran atacados en el estrecho; Teherán respondió golpeando bases en Baréin y Kuwait, poniendo en máximo riesgo el frágil alto el fuego.",
+          "more": "Los bombardeos destruyeron sistemas de defensa antimisil, plataformas de drones y depósitos de misiles iraníes. EE.UU. también revocó la licencia especial que permitía a terceros países comprar crudo iraní. Irán afirmó haber derribado un dron estadounidense. El conflicto, iniciado en febrero con los ataques que acabaron con la vida del ayatolá Jamenei durante la Operación Rugido del León, atraviesa su momento más explosivo desde el acuerdo de alto el fuego del mes pasado, que habilitó 60 días de negociación sobre el programa nuclear iraní.",
+          "source": "https://www.proceso.com.mx/internacional/2026/7/8/eu-lanza-nueva-ofensiva-contra-iran-despues-que-tres-buques-fueran-atacados-en-ormuz-375662.html",
+          "imgPrompt": "US Navy warship in the Strait of Hormuz at night, missile launch with orange fire glow reflecting on the water, naval military operation, dramatic"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Trump y Zelenski se reúnen en Ankara mientras la OTAN ratifica 70.000 millones de euros para Ucrania",
+          "dek": "La reunión bilateral del miércoles es el momento más esperado del segundo día de cumbre en Turquía; Kiev llega con ventaja en el campo de batalla y busca compromisos más sólidos de cara a las negociaciones con Moscú.",
+          "more": "La OTAN comprometió €70.000 millones en asistencia, equipos y entrenamiento para Ucrania en 2026, con niveles similares previstos para 2027. El secretario general Mark Rutte presentó el Foro de Industria de Defensa de la Alianza con contratos de armamento por más de 40.000 millones de dólares para los próximos cinco años. La cumbre, custodiada por 70.000 efectivos de seguridad en Ankara, también cerrará el regreso de Turquía al programa del caza F-35, poniendo fin a siete años de bloqueo.",
+          "source": "https://www.df.cl/internacional/politica/cumbre-de-la-otan-2026-rusia-china-y-trump-ponen-a-prueba-la-unidad-de-la",
+          "imgPrompt": "Trump and Zelensky at a bilateral meeting in Ankara, US and Ukraine flags in background, formal setting, serious expressions, press corps present"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "El torneo toma su primer descanso desde el inicio y define los cruces de cuartos: Francia–Marruecos como plato fuerte",
+          "dek": "Por primera vez desde el 11 de junio no hay partidos; los ocho equipos en carrera son Argentina, Suiza, Francia, Marruecos, España, Bélgica, Noruega e Inglaterra.",
+          "more": "Los cuartos de final: Francia vs. Marruecos (jueves 9, Gillette Stadium, Boston), España vs. Bélgica (viernes 10, SoFi Stadium, Los Ángeles), Noruega vs. Inglaterra (sábado 11, Hard Rock Stadium, Miami) y Argentina vs. Suiza (sábado 11, Arrowhead Stadium, Kansas City). El último martes, Argentina venció 3-2 a Egipto en Atlanta; Suiza eliminó a Colombia por penales tras igualar 0-0 en Vancouver. El duelo Francia–Marruecos repite la semifinal del Mundial de Qatar 2022, la más recordada del torneo.",
+          "source": "https://www.eltiempo.com/deportes/futbol-internacional/noticias-del-mundial-2026-hoy-8-de-julio-primera-dia-desde-el-11-de-junio-en-el-que-no-hay-partidos-por-la-jornada-de-descanso-en-el-torneo-3569814",
+          "imgPrompt": "World Cup 2026 quarterfinals bracket displayed on a massive screen in a fan zone in the United States, excited crowd with colorful flags, daylight"
+        },
+        {
+          "eyebrow": "Guerra en Europa",
+          "title": "Rusia lanza más de 350 drones y 68 misiles sobre Ucrania mientras sus aliados se reúnen en Ankara",
+          "dek": "El más reciente ataque con misiles balísticos sobre Kyiv dejó 30 muertos y apagones en varias regiones; el conflicto acumula más de dos millones de bajas, más que cualquier guerra desde 1945.",
+          "more": "Los ataques afectaron las regiones de Kyiv, Sumy, Járkiv y Dnipropetrovsk. Rusia reportó haber neutralizado más de 430 drones ucranianos dirigidos a Moscú. Las bajas rusas superan en cuatro veces el total de muertos estadounidenses en todas las guerras desde la Segunda Guerra Mundial, y Moscú enfrenta dificultades para reclutar tropas al ritmo al que las pierde. La envergadura de los ataques acentúa la presión sobre la OTAN para mantener y ampliar el apoyo a Kiev.",
+          "source": "https://cnnespanol.cnn.com/2026/07/05/mundo/rusia-ataca-kyiv-misiles-balisticos-trax",
+          "imgPrompt": "residential building in Kyiv Ukraine severely damaged by a missile strike, emergency rescue teams with flashlights at night, rubble and smoke, overcast sky"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "La ONU advierte en Ginebra que la inteligencia artificial avanza más rápido que cualquier esfuerzo regulatorio",
+          "dek": "El Diálogo Mundial sobre Gobernanza de la IA, inaugurado esta semana entre los Estados miembros, constató que ningún gobierno puede seguir el ritmo de un sistema que escribe código, analiza datos y actúa con mínima supervisión.",
+          "more": "El secretario general de la ONU señaló que los marcos actuales de gobernanza no fueron diseñados para esta tecnología y que los gobiernos enfrentan un dilema de evidencia: para cuando acumulan datos suficientes para regular, la tecnología ya ha avanzado de nuevo. En paralelo, el gobernador de Illinois firmó una ley de regulación de IA que se convierte en el marco más completo de un estado grande de EE.UU. y podría actuar como modelo federal de hecho.",
+          "source": "https://news.un.org/es/story/2026/07/1541630",
+          "imgPrompt": "United Nations assembly hall in Geneva with delegates seated at a large round table, large screens displaying artificial intelligence neural network graphics"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Energía",
+          "title": "El petróleo sube ante la escalada en el estrecho de Ormuz",
+          "dek": "El Brent, que había caído a niveles previos a la guerra con Irán, vuelve a sentir presión alcista tras los nuevos bombardeos mutuos; la interrupción del tráfico en el estrecho amenaza el 20% del suministro mundial.",
+          "source": "https://www.euronews.com/2026/07/08/us-launches-fresh-strikes-on-iran-after-ships-attacked-in-strait-of-hormuz"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "El nuevo líder supremo iraní, Mojtaba Jamenei, no aparece en público desde el funeral de su padre",
+          "dek": "El sucesor del ayatolá, que habría resultado herido en el ataque israeloestadounidense de febrero, se mantiene oculto, aumentando la incertidumbre sobre el liderazgo de Teherán en plena escalada.",
+          "source": "https://www.jpost.com/spanish/noticias-del-medio-oriente/article-901408"
+        },
+        {
+          "eyebrow": "Defensa",
+          "title": "España lleva €6.287 millones adicionales en presupuesto de defensa a la cumbre de Ankara",
+          "dek": "El presidente Pedro Sánchez anunció el aumento en la cumbre OTAN, acercando el gasto militar español al objetivo del 5% del PIB comprometido por la Alianza para 2035.",
+          "source": "https://www.infodefensa.com/texto-diario/mostrar/5946311/sanchez-presenta-cumbre-otan-ankara-6200-millones-defensa"
+        },
+        {
+          "eyebrow": "Defensa",
+          "title": "La OTAN anuncia acuerdos de armamento por 12.000 millones de dólares para demostrarle a Trump el valor de la Alianza",
+          "dek": "El paquete de contratos busca responder a las exigencias del presidente estadounidense de que el gasto aliado se traduzca en capacidad operativa real y no solo en cifras presupuestarias.",
+          "source": "https://www.df.cl/internacional/politica/la-otan-promociona-acuerdos-por-us-12-000-millones-para-demostrarle-a"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Illinois firma la primera ley integral de regulación de IA de un estado grande de EE.UU.",
+          "dek": "La norma, inspirada en proyectos de California y Nueva York, exige evaluaciones de impacto y protecciones contra riesgos algorítmicos, y puede convertirse en modelo federal ante el vacío regulatorio en Washington.",
+          "source": "https://www.primerahora.com/noticias/ciencia-tecnologia/notas/gobernador-de-illinois-firma-historica-ley-de-regulacion-para-mitigar-riesgos-de-la-inteligencia-artificial/"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Francia–Marruecos promete ser el partidazo de los cuartos: Mbappé vs. Hakimi, revanche de 2022",
+          "dek": "El choque del jueves en Boston repite la semifinal de Qatar que Marruecos ganó en los penales e impulsó al mundo árabe a su primera instancia de semifinales en un Mundial.",
+          "source": "https://www.si.com/es-us/futbol/asi-se-jugaran-los-cuartos-de-final-del-mundial-2026-cruces-fechas-y-cuadro-actualizado"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Política",
+          "title": "Kast convoca a Boric y Frei en La Moneda para los 200 años de la Presidencia; Bachelet viaja a Asia por su candidatura a la ONU",
+          "dek": "La ceremonia del jueves marcará el primer regreso de Gabriel Boric a La Moneda desde el cambio de mando; la ausencia de Bachelet, en gira por Asia para impulsar su candidatura a secretaria general de la ONU, será la nota política del acto.",
+          "more": "La conmemoración del bicentenario de la Presidencia de la República —inaugurada en 1826 por Manuel Blanco Encalada— incluye el juramento de bandera a las 11:00, un almuerzo protocolar con expresidentes y un acto en el Museo Histórico Nacional. La familia de Sebastián Piñera también participará. Bachelet aspira a convertirse en la primera latinoamericana en liderar las Naciones Unidas.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/07/bachelet-se-baja-de-ceremonia-convocada-por-kast-estara-de-viaje-por-candidatura-a-la-onu.shtml",
+          "imgPrompt": "La Moneda presidential palace in Santiago Chile with ceremonial guards and large Chilean flag, sunny day, official bicentennial ceremony setting"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Inversionistas extranjeros compran deuda chilena al ritmo más alto registrado, impulsados por el giro de mercado con Kast",
+          "dek": "Las tenencias de bonos soberanos en pesos de no residentes aumentaron US$2.930 millones en mayo, el mayor salto histórico, y suman un 36% más que a comienzos del año.",
+          "more": "El total de tenencias de no residentes llegó a US$20.200 millones en mayo; la aceleración supera con creces a la de cualquier otro país latinoamericano en el mismo período. El peso cotiza cerca de $920 por dólar, su mejor nivel en tres años. Analistas de Standard Chartered advierten que el entusiasmo es real pero advierten cautela: el ajuste fiscal tomará tiempo, la inflación sigue elevada y el Banco Central mantiene una pausa en su política monetaria.",
+          "source": "https://www.emol.com/noticias/Economia/2026/07/07/1204888/bonos-chilenos-extranjeros.html",
+          "imgPrompt": "Santiago Chile financial district skyscrapers at dusk, stock market green rising graph overlaid on the city skyline"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "El Senado inicia la tramitación de un proyecto para blindar los puertos chilenos contra el crimen organizado",
+          "dek": "La presidenta del Senado, Paulina Núñez, ingresó una iniciativa que moderniza la seguridad logística portuaria e incorpora agravantes penales para quienes usen la infraestructura con fines delictivos.",
+          "more": "El proyecto establece un sistema de trazabilidad, gestión de riesgos y coordinación entre organismos públicos y privados de la cadena logística. Los mercados ilícitos en Chile mueven más de US$5.700 millones al año —el 1,5% del PIB—, y los puertos son uno de los puntos más vulnerables para el tráfico de drogas, armas y dinero ilícito. El crimen organizado ha demostrado una enorme capacidad de adaptarse y el Estado no puede quedarse atrás, argumentó Núñez.",
+          "source": "https://elamerica.cl/2026/07/07/presidenta-del-senado-presenta-proyecto-para-fortalecer-la-seguridad-portuaria-y-cerrar-nuevos-espacios-al-crimen-organizado/",
+          "imgPrompt": "Chilean port terminal with stacked shipping containers, customs inspection officers in uniform checking cargo, daylight, wide shot"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "El Senado fija el 15 de julio como fecha límite para despachar la ley miscelánea de reactivación",
+          "dek": "La agenda parlamentaria entra en la recta final con el proyecto insignia del gobierno; comisiones de Medioambiente y Trabajo debaten este miércoles artículo por artículo más de 200 indicaciones.",
+          "more": "Entre las materias más polémicas está un artículo sobre inteligencia artificial y propiedad intelectual que el senador Quiroz reabrió esta semana, levantando nuevas disputas con el oficialismo. El Socialismo Democrático anticipó recurso al Tribunal Constitucional si el texto se despacha sin cambios en el capítulo de invariabilidad tributaria. Los analistas advierten que hasta 12 artículos podrían caerse en la votación final.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/07/ley-miscelanea-entra-en-tierra-derecha-senado-fija-despacho-definitivo-para-el-15-de-julio/",
+          "imgPrompt": "Chilean senators in formal session inside the Valparaíso National Congress chamber, wide angle, legislators at their desks"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Mercados",
+          "title": "El peso chileno cotiza a $920 por dólar, su mejor nivel en tres años",
+          "dek": "La moneda local acumula una apreciación sostenida desde el cambio de gobierno, impulsada por el renovado interés de inversionistas extranjeros en activos chilenos.",
+          "source": "https://www.emol.com/noticias/Economia/2026/07/07/1204888/bonos-chilenos-extranjeros.html"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Bachelet recorre Asia para promover su candidatura a secretaria general de la ONU, un cargo que sería inédito para América Latina",
+          "dek": "La expresidenta, en gira por el continente asiático, busca apoyos para su postulación al máximo cargo de las Naciones Unidas en un proceso que se definirá a fin de año.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/07/bachelet-se-baja-de-ceremonia-convocada-por-kast-estara-de-viaje-por-candidatura-a-la-onu.shtml"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "Artículo sobre IA y propiedad intelectual de la ley miscelánea vuelve a encender el debate en el Senado",
+          "dek": "El senador Quiroz reabrió esta semana la disputa por la norma que regula el uso de obras humanas para entrenar modelos de inteligencia artificial, una polémica que ya había complicado el avance del proyecto.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/08/la-tercera-vida-de-articulo-sobre-ia-quiroz-reabre-disputa-sobre-propiedad-intelectual/"
+        },
+        {
+          "eyebrow": "Gobierno",
+          "title": "Kast ajusta sus prioridades tras un turbulento inicio de gobierno marcado por el freno económico",
+          "dek": "A más de cien días de mandato, el Ejecutivo recalibra su agenda ante un escenario de bajo crecimiento, desempleo alto y una legislatura que no le da holgura.",
+          "source": "https://es-us.noticias.yahoo.com/kast-ajusta-promesas-turbulento-inicio-143614923.html"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "La economía ilícita mueve US$5.700 millones al año en Chile, el 1,5% del PIB",
+          "dek": "El dato, levantado por investigadores de seguridad, refleja la profundidad de la penetración del crimen organizado en la economía y subraya la urgencia de iniciativas como el proyecto de seguridad portuaria.",
+          "source": "https://www.24horas.cl/actualidad/nacional/economia-ilicita-chile-us5700-millones-anuales"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Argentina es la gran favorita latinoamericana en cuartos; enfrentará a Suiza el sábado en Kansas City",
+          "dek": "La vigente campeona del mundo avanzó al vencer 3-2 a Egipto el martes y busca su segunda final consecutiva en el torneo que se disputa en Norteamérica.",
+          "source": "https://www.ambito.com/deportes/asi-estan-los-cuartos-final-del-mundial-2026-todos-los-cruces-el-fixture-completo-y-cuando-se-juega-cada-partido-n6296279"
+        }
+      ]
+    }
+  }
+}
