@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-09",
+  "dateLabel": "Jueves 9 de julio de 2026",
+  "edition": "009",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Irán",
+          "title": "Millones de iraníes despiden a Jamenei en Mashhad; su sucesor sigue sin aparecer en público",
+          "dek": "El ayatolá es enterrado en el santuario de Imam Reza, el más sagrado de Irán, tras seis días de funerales masivos. Las autoridades esperaban hasta 15 millones de personas en la ciudad; su hijo Mojtaba, designado sucesor, no se ha visto en público desde el ataque de febrero.",
+          "more": "El funeral de Estado, que comenzó el 4 de julio, recorrió Teherán, Qom y varias ciudades de Irak antes de culminar en Mashhad. Jamenei, de 85 años, murió el 28 de febrero junto a cuatro familiares durante la Operación Rugido del León, el ataque coordinado de EE.UU. e Israel. Su hijo y sucesor, Mojtaba Jamenei, de 56 años, no ha aparecido desde entonces; se cree que resultó herido en los mismos bombardeos y solo se ha comunicado por mensajes escritos. Irán es gobernado provisionalmente por un consejo de tres figuras hasta que Mojtaba pueda asumir formalmente el liderazgo.",
+          "source": "https://www.diariolasamericas.com/mundo/iranies-despiden-los-restos-mortales-jamenei-pero-ausencia-su-hijo-y-sucesor-mojtaba-n5398315",
+          "imgPrompt": "massive funeral procession in Mashhad Iran with millions of mourners filling the streets, religious black flags and banners, aerial wide shot, overcast sky"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Nuevos ataques israelíes matan a nueve palestinos en Gaza; Hamás disuelve su gobierno civil",
+          "dek": "Fuego israelí mató el miércoles a nueve palestinos, incluido un niño de seis años, en lo que organismos internacionales califican como otra violación del alto el fuego vigente desde octubre de 2025. En paralelo, Hamás formalizó la disolución de su comité de gobierno civil en la Franja.",
+          "more": "Desde que entró en vigor el alto el fuego, los ataques israelíes han matado a más de 1.084 palestinos en Gaza e hirieron a 3.491. El Gabinete de seguridad de Israel también aprobó esta semana la construcción de 13 nuevos asentamientos en Cisjordania. La disolución del gobierno de Hamás en Gaza responde al plan de la 'Junta de Paz' impulsado por Washington para organizar la administración civil de la Franja, y fue interpretada por analistas como una señal de que el movimiento busca mantener el alto el fuego a pesar de las violaciones israelíes.",
+          "source": "https://www.middleeastmonitor.com/20260708-9-gazans-killed-by-israeli-fire-in-latest-ceasefire-violation/",
+          "imgPrompt": "Palestinian civilians sheltering in a tent camp in southern Gaza, destroyed buildings in the background, humanitarian crisis, overcast sky, wide shot"
+        },
+        {
+          "eyebrow": "Reino Unido",
+          "title": "Andy Burnham, a punto de convertirse en primer ministro sin elección si Laborismo no presenta otro candidato",
+          "dek": "El popular alcalde de Mánchester es el único parlamentario laborista que se ha declarado candidato para suceder a Keir Starmer, quien renunció a ambos cargos el 22 de junio. Si no surge oposición, podría asumir la jefatura del partido el viernes 17 de julio.",
+          "more": "Burnham deberá acreditar el apoyo de al menos 81 de los 402 diputados laboristas para ser candidato formal, umbral que se espera supere sin dificultad. El ex ministro de Salud Wes Streeting renunció a sus propias aspiraciones y respaldó públicamente a Burnham. El nuevo líder laborista se convertiría automáticamente en primer ministro, algo que el partido quiere resolver antes del receso parlamentario de verano para evitar un vacío de poder prolongado.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/09/la-contienda-por-el-liderazgo-del-partido-laborista-acerca-a-burnham-al-cargo-de-primer-ministro-del-reino-unido/",
+          "imgPrompt": "Andy Burnham at a Labour Party campaign event in Manchester UK, crowd in background, red Labour flags, press photographers"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Los cuartos de final arrancan con la revancha más esperada: Francia enfrenta a Marruecos en Boston",
+          "dek": "El Gillette Stadium de Foxborough acoge el primer duelo de cuartos de final, la repetición de la semifinal de Qatar 2022 que Marruecos ganó por penales. España–Bélgica, Noruega–Inglaterra y Argentina–Suiza completan la fase.",
+          "more": "Francia llega como favorita con un 64% de probabilidades según los modelos estadísticos, apoyada en Mbappé y un ataque que marcó ocho goles en tres partidos de la fase eliminatoria. Marruecos, que goleó 3-0 a Canadá en octavos con goles de Ounahi y Rahimi, busca protagonizar otra hazaña africana y árabe como la de 2022. Los otros tres cuartos de final: España vs. Bélgica (viernes 10, Los Ángeles), Noruega vs. Inglaterra y Argentina vs. Suiza (sábado 11, Miami y Kansas City).",
+          "source": "https://www.infobae.com/mexico/deportes/2026/07/09/partidos-del-mundial-2026-hoy-9-de-julio-fixture-y-horarios-completos-de-los-cuartos-de-final/",
+          "imgPrompt": "packed Gillette Stadium in Foxborough with fans waving French tricolor and Moroccan red flags, World Cup quarter-final atmosphere, night game, floodlights"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "El Parlamento Europeo aprueba su posición sobre el euro digital, la moneda virtual que desafía a Visa y Mastercard",
+          "dek": "La Eurocámara dio luz verde a la negociación del reglamento del euro digital sin necesidad de votación formal, al no haberse presentado objeciones antes del plazo. El servicio será gratuito para los consumidores y no pagará intereses.",
+          "more": "La Comisión de Asuntos Económicos (ECON) del Parlamento Europeo aprobó la posición negociadora por 43 votos a favor, 14 en contra y 1 abstención el 23 de junio. El expediente pasará ahora al Consejo de ministros de Economía y Finanzas de los Veintisiete. El euro digital busca reducir la dependencia de la eurozona respecto a sistemas de pago extranjeros como Visa, Mastercard y los grandes grupos tecnológicos estadounidenses. Se establecerá un límite máximo de tenencia por persona para evitar que desestabilice la banca tradicional.",
+          "source": "https://www.moncloa.com/2026/07/07/eurocamara-aprueba-negociacion-euro-digital-3395898/",
+          "imgPrompt": "European Parliament plenary chamber in Strasbourg with MEPs at their seats, large screen displaying a digital euro symbol, formal vote atmosphere"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Africa",
+          "title": "Sudán del Sur cumple 15 años de independencia entre crisis humanitaria y violencia",
+          "dek": "El país más joven del mundo conmemora su aniversario con el 87% de su población en pobreza extrema, 7,8 millones de personas con inseguridad alimentaria y elecciones presidenciales previstas para diciembre.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/08/las-promesas-de-sudan-del-sur-chocan-con-la-realidad-15-anos-despues-de-su-independencia/"
+        },
+        {
+          "eyebrow": "Eurozona",
+          "title": "El Eurogrupo debate un mecanismo europeo para emitir hasta 850.000 millones de euros anuales en deuda común",
+          "dek": "La propuesta española se discute entre los ministros de Economía y Finanzas de la eurozona como herramienta para financiar la transición verde y la defensa.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        },
+        {
+          "eyebrow": "Política monetaria",
+          "title": "El BCE publica las actas de su reunión de junio, cuando subió los tipos al 2,25%",
+          "dek": "El Banco Central Europeo elevó las tasas en 25 puntos básicos en junio para contener una inflación que se ha mantenido por encima del objetivo del 2% en la eurozona.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "Junio de 2026 fue el mes más cálido de la historia en Europa occidental",
+          "dek": "Una ola de calor sin precedentes elevó la temperatura media de junio a 20,74 °C en Europa occidental, superando todos los registros históricos anteriores.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        },
+        {
+          "eyebrow": "Líbano",
+          "title": "Desplazados libaneses duermen bajo las gradas de un estadio de Beirut huyendo de bombardeos israelíes",
+          "dek": "Familias del sur del Líbano acumulan desplazamientos sucesivos y terminan hacinadas en el Estadio Ciudad Deportiva de la capital, que opera como refugio de emergencia.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "Arranca el Festival NOS Alive en Lisboa con Nick Cave, Twenty One Pilots y Alabama Shakes",
+          "dek": "El festival portugués celebra su 18.ª edición del 9 al 11 de julio en el Passeio Marítimo de Algés con una cartelera que mezcla rock, indie y electrónica de primer nivel.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Política",
+          "title": "Kast y Boric se reencuentran en La Moneda para celebrar los 200 años de la Presidencia de Chile",
+          "dek": "El mandatario encabeza los actos conmemorativos del bicentenario de la Presidencia, inaugurada el 9 de julio de 1826 por Manuel Blanco Encalada. Es el primer regreso de Gabriel Boric al palacio desde el cambio de mando; Michelle Bachelet no asistirá por estar de gira en Asia.",
+          "more": "La jornada incluyó a las 11:00 una ceremonia de juramento a la bandera en la Plaza de la Ciudadanía, un almuerzo protocolar en La Moneda con expresidentes y familias de ex mandatarios, y un acto central en el Museo Histórico Nacional donde Kast pronunció un discurso. También participaron el expresidente Eduardo Frei Ruiz-Tagle y la viuda de Sebastián Piñera, Cecilia Morel, con su hija Magdalena. Bachelet, quien aspira a ser la primera latinoamericana en liderar la ONU, se excusó por su gira asiática en busca de apoyos para su candidatura.",
+          "source": "https://www.latercera.com/politica/noticia/sin-bachelet-y-reencuentro-con-boric-kast-liderara-la-conmemoracion-por-los-200-anos-de-la-presidencia/",
+          "imgPrompt": "La Moneda presidential palace in Santiago Chile with ceremonial guards in formal uniforms, large Chilean flag, sunny winter day, official bicentennial ceremony"
+        },
+        {
+          "eyebrow": "Medio ambiente",
+          "title": "Alerta ambiental en Santiago: miles de autos no pueden circular y está prohibido encender calefactores a leña",
+          "dek": "La Delegación Presidencial de la Región Metropolitana decretó alerta ambiental para este jueves por las malas condiciones de ventilación de la cuenca santiaguina. Los vehículos con sello verde y patentes terminadas en 4 y 5 tienen prohibición de circular de 7:30 a 21:00.",
+          "more": "Las autoridades advirtieron que si las condiciones empeoran podrían declarar preemergencia, lo que ampliaría los dígitos restringidos y agregaría más restricciones. La medida cubre la provincia de Santiago más las comunas de San Bernardo y Puente Alto. Quienes incumplan la restricción vehicular arriesgan multas de entre 1 y 1,5 UTM. Las quemas agrícolas están prohibidas en toda la Región Metropolitana entre marzo y octubre.",
+          "source": "https://airerm.mma.gob.cl/declaran-nueva-alerta-ambiental-en-la-region-metropolitana-para-este-jueves-09-de-julio/",
+          "imgPrompt": "hazy smoggy winter morning in Santiago Chile, city skyline with Andes mountains barely visible through pollution, residential buildings in foreground"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Los homicidios cayeron 13% en el primer semestre: el gobierno celebra un hito, pero advierte que el desafío persiste",
+          "dek": "Entre enero y junio se registraron 442 homicidios en Chile, frente a los 509 del mismo período de 2025, según datos del Ministerio del Interior. Las autoridades reconocen que el país sigue lejos de los niveles de seguridad de una década atrás.",
+          "more": "El ministro de Seguridad, Martín Arrau, presentó el balance en La Moneda. El gobierno atribuye la baja al refuerzo policial, la coordinación interinstitucional y las nuevas herramientas legislativas aprobadas en el primer semestre. La oposición, sin embargo, señaló que la cifra sigue siendo alta en términos históricos y que el crimen organizado transnacional mantiene una fuerte presencia en varias comunas del país.",
+          "source": "https://icndiario.com/2026/07/homicidios-caen-13-en-2026-chile-destaca-descenso-de-delitos-violentos-pero-advierte-que-el-desafio-sigue-vigente/",
+          "imgPrompt": "Chilean Carabineros police officers at a formal press conference in Santiago, crime statistics projected on a screen, interior government building"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "La ley miscelánea entra en la recta final: el Senado fijó el 15 de julio como fecha límite",
+          "dek": "Las comisiones de Medioambiente y Trabajo debaten artículo por artículo más de 200 indicaciones al proyecto insignia del gobierno. Un artículo sobre inteligencia artificial y propiedad intelectual vuelve a generar tensión y amenaza con retrasar la votación final.",
+          "more": "El senador Quiroz reabrió la polémica por la norma que regula el uso de obras humanas para entrenar modelos de IA, materia que ya había trabado el avance del proyecto semanas atrás. El Socialismo Democrático anticipó recurso al Tribunal Constitucional si el texto llega al pleno sin cambios en el capítulo de invariabilidad tributaria. Analistas advierten que hasta 12 artículos podrían caerse en la votación final, lo que podría dejar la ley muy reducida respecto a su versión original.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/07/ley-miscelanea-entra-en-tierra-derecha-senado-fija-despacho-definitivo-para-el-15-de-julio/",
+          "imgPrompt": "Chilean senators in formal session inside the Valparaíso National Congress chamber, wide angle view with legislators at their desks"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Defensa",
+          "title": "Kast participa como expositor en el ejercicio aéreo multidominio 'Salitre V' en Antofagasta",
+          "dek": "El Presidente viajó a la región para el ejercicio conjunto de las Fuerzas Armadas chilenas y expuso ante representantes del mundo empresarial y militar en el norte del país.",
+          "source": "https://prensa.presidencia.cl/"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Bachelet recorre Asia en busca de apoyos para liderar la ONU; sería la primera latinoamericana en el cargo",
+          "dek": "La expresidenta chilena, en gira por el continente asiático, busca respaldos para su candidatura a secretaria general de las Naciones Unidas, proceso que se definirá hacia fin de año.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/07/bachelet-se-baja-de-ceremonia-convocada-por-kast-estara-de-viaje-por-candidatura-a-la-onu.shtml"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El peso chileno se mantiene cerca de $920 por dólar, en su mejor nivel en tres años",
+          "dek": "La moneda local acumula una apreciación sostenida impulsada por el interés récord de inversionistas extranjeros en bonos soberanos chilenos en pesos, cuyas tenencias de no residentes crecieron 36% desde enero.",
+          "source": "https://www.emol.com/noticias/Economia/2026/07/07/1204888/bonos-chilenos-extranjeros.html"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "El proyecto de seguridad portuaria sigue su tramitación en el Senado",
+          "dek": "La iniciativa de la presidenta del Senado, Paulina Núñez, que moderniza la seguridad logística de los puertos y cierra espacios al narcotráfico, avanza en comisiones luego de ser ingresada la semana pasada.",
+          "source": "https://elamerica.cl/2026/07/07/presidenta-del-senado-presenta-proyecto-para-fortalecer-la-seguridad-portuaria-y-cerrar-nuevos-espacios-al-crimen-organizado/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Francia–Marruecos se puede ver en Chile esta tarde: revive la gran semifinal de Qatar 2022",
+          "dek": "El primer cuarto de final del Mundial se disputa desde las 17:00 horas de Chile. El duelo repite el cruce de 2022 que Marruecos ganó en penales y que catapultó al mundo árabe a su primera semifinal mundialista.",
+          "source": "https://www.eltiempo.com/deportes/futbol-internacional/noticias-del-mundial-2026-hoy-jueves-9-de-julio-hora-y-donde-ver-los-partidos-por-los-cuartos-de-final-de-la-copa-del-mundo-3570082"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Un sismo de magnitud 4,3 sacudió la zona central de Chile este jueves",
+          "dek": "El movimiento telúrico fue registrado por el Centro Sismológico Nacional; no se reportaron daños ni víctimas.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        }
+      ]
+    }
+  }
+}
