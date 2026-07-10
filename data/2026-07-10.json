@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-10",
+  "dateLabel": "Viernes 10 de julio de 2026",
+  "edition": "010",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "EE.UU. e Irán intercambian ataques en el estrecho de Ormuz y avivan el temor a una guerra abierta",
+          "dek": "Trump declaró terminada la tregua de siete días tras una serie de ataques iraníes contra petroleros comerciales. Washington respondió golpeando cerca de 90 objetivos militares en dos días consecutivos; Irán replicó atacando bases estadounidenses en Baréin, Kuwait y Catar.",
+          "more": "La escalada comenzó cuando la Guardia Revolucionaria iraní atacó tres petroleros comerciales que cruzaban el paso entre el Golfo Pérsico y el océano Índico: el M/T Al Rekayyat, el M/T Wedyan y el M/T Cyprus Prosperity. El Comando Central de EE.UU. respondió atacando sistemas de defensa aérea, misiles antibuque, estaciones de radar y más de 60 lanchas rápidas del Cuerpo de la Guardia Revolucionaria. El barril Brent subió más de 5% hasta 78 dólares, su mayor alza en semanas, dado que el estrecho de Ormuz es la ruta por donde transita el 20% del petróleo y del gas natural licuado del mundo.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/09/estados-unidos-e-iran-intercambian-nuevos-ataques-y-reavivan-el-temor-de-los-mercados-a-una-guerra-abierta/",
+          "imgPrompt": "US Navy warship in the Strait of Hormuz with smoke on the horizon, military aircraft overhead, tense naval standoff in the Persian Gulf, late afternoon light"
+        },
+        {
+          "eyebrow": "Asia-Pacífico",
+          "title": "El supertifón Bavi, uno de los más poderosos en décadas, avanza hacia Taiwán con vientos de 227 km/h",
+          "dek": "El ciclón tiene un diámetro de más de mil kilómetros y se espera que impacte el norte de la isla —donde se ubica Taipéi— en la madrugada del sábado. Ya canceló 270 vuelos en Okinawa y dejó sin transporte a más de 12.800 pasajeros.",
+          "more": "El JTWC (Centro Conjunto de Advertencia de Tifones de EE.UU.) registra vientos máximos sostenidos de 184 km/h con ráfagas de hasta 227 km/h. El sistema ya devastó las islas de Rota y Guam. Las autoridades taiwanesas estiman que Bavi podría dejar hasta un metro de lluvia en las montañas del norte de la isla. Okinawa está en alerta máxima con aeropuertos operando en modo de emergencia.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/10/el-tifon-bavi-una-de-las-tormentas-mas-poderosas-de-los-ultimos-anos-avanza-hacia-china-y-taiwan/",
+          "imgPrompt": "satellite image of a massive typhoon with a clearly defined eye approaching Taiwan, spiral cloud structure over the Pacific Ocean, aerial view"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Drones ucranianos hunden 21 buques cisterna y dejan a Rusia con la peor crisis de combustible en décadas",
+          "dek": "En 72 horas, Ucrania atacó refinerías y tanqueros rusos en el mar de Azov y dejó sin suministro de gasolina a más de 50 millones de personas —cerca del 35% de la población rusa—. La cumbre de la OTAN en Ankara concluyó con el compromiso de EE.UU. de ceder a Kiev el derecho a fabricar misiles Patriot.",
+          "more": "Los ataques incluyeron la refinería de Omsk, la mayor instalación de procesamiento de petróleo de Rusia. Hay colas de varios días en gasolineras y racionamiento en decenas de regiones. En paralelo, Rusia respondió bombardeando Kiev con misiles balísticos, matando al menos a siete personas. En la cumbre de Ankara, Trump prometió a Zelensky que Washington otorgaría a Kiev una 'licencia para fabricar' misiles Patriot, un paso significativo para la capacidad de autodefensa de Ucrania.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/09/los-ataques-ucranianos-con-drones-dejan-a-rusia-con-una-crisis-de-combustible-que-afecta-a-mas-de-50-millones-de-personas/",
+          "imgPrompt": "Ukrainian military drone flying at night over a burning oil refinery, dark sky lit by orange flames, industrial infrastructure on fire, wide shot"
+        },
+        {
+          "eyebrow": "Reino Unido",
+          "title": "Andy Burnham logra respaldo del 80% del Laborismo y se encamina a ser primer ministro el 20 de julio",
+          "dek": "El exalcalde de Mánchester recibió el apoyo de 322 de los 402 diputados laboristas, dejándolo a un paso de ser proclamado sin impugnadores. Si nadie presenta candidatura antes del plazo, será nombrado líder el viernes 17 en una conferencia especial y asumiría en el número 10 el lunes 20.",
+          "more": "El ex ministro de Salud Wes Streeting renunció a sus aspiraciones y respaldó públicamente a Burnham. El político, considerado ligeramente más a la izquierda que Keir Starmer —quien dimitió el 22 de junio—, propone crear un 'Número 10 del Norte' para descentralizar el poder. Burnham deberá acreditar formalmente el apoyo de al menos 81 diputados; ya superó con creces ese umbral.",
+          "source": "https://www.latercera.com/mundo/noticia/andy-burnham-se-perfila-como-el-proximo-primer-ministro-britanico-tras-el-abrumador-respaldo-laborista/",
+          "imgPrompt": "Andy Burnham speaking at a packed Labour Party rally in Manchester, red banners in background, supporters cheering, press photographers at the front"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Francia aplasta 2-0 a Marruecos con goles de Mbappé y Dembélé y pasa a semifinales; hoy España enfrenta a Bélgica",
+          "dek": "Los franceses vengaron la derrota en penales de Qatar 2022 e instalaron a Les Bleus entre los últimos cuatro del torneo. La jornada de cuartos continúa hoy con el duelo entre España —campeona de Europa— y la Bélgica que goleó 4-1 a EE.UU. en el Rose Bowl de Los Ángeles.",
+          "more": "Kylian Mbappé abrió el marcador en la primera parte y Ousmane Dembélé sentenció en el complemento en el Gillette Stadium de Boston. El sábado 11 se juegan los dos cuartos restantes: Noruega vs. Inglaterra en Miami y Argentina vs. Suiza en Kansas City. Argentina llegó a cuartos después de una épica remontada de 0-2 a 3-2 ante Egipto en los minutos finales.",
+          "source": "https://cnnespanol.cnn.com/2026/07/09/deportes/live-news/francia-marruecos-mundial-2026-resultado-goles-orix",
+          "imgPrompt": "Kylian Mbappé celebrating a goal with France teammates at a packed World Cup stadium in Boston, blue jerseys, floodlights, night game, crowd cheering"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Gaza",
+          "title": "Israel mata a seis palestinos pese al alto el fuego; ya controla el 70% de la Franja",
+          "dek": "Los bombardeos israelíes sobre Gaza causaron al menos seis muertos en las últimas 24 horas, elevando a más de 1.072 las víctimas desde que se acordó la tregua en octubre de 2025. Israel ha expandido su control territorial hasta el 70% de la Franja, frente al 50% cuando comenzó el cese del fuego.",
+          "source": "https://www.aljazeera.com/news/2026/7/9/israeli-attacks-on-gaza-kill-10-people-in-24-hours-despite-ceasefire"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "Petróleo Brent sube más de 5% y supera los 78 dólares por la crisis en el estrecho de Ormuz",
+          "dek": "El precio del barril Brent escaló hasta 78,02 dólares con una subida del 5,21%, y el WTI avanzó un 4,37% hasta 73,52 dólares. Los mercados temen que la interrupción del tránsito por Ormuz —por donde pasa el 20% del crudo mundial— provoque un desabastecimiento prolongado.",
+          "source": "https://www.diariolasamericas.com/economia/precio-del-petroleo-sube-respuesta-eeuu-ataques-iran-ormuz-n5398531"
+        },
+        {
+          "eyebrow": "Música",
+          "title": "Los Rolling Stones lanzan hoy \"Foreign Tongues\", su primer álbum con material nuevo en varios años",
+          "dek": "La mítica banda británica pone a la venta un nuevo disco de estudio que llega cargado de expectativa global, mientras Mick Jagger, Keith Richards y Ron Wood continúan sorprendiendo con su longevidad artística.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/10/viernes-10-de-julio-de-2026-0200-gmt/"
+        },
+        {
+          "eyebrow": "Estados Unidos",
+          "title": "Ola de calor sin precedentes bate récords desde Washington hasta Boston",
+          "dek": "Una cúpula de calor cubre la costa este de EE.UU. con temperaturas que superan los 38 °C en ciudades como Nueva York, Filadelfia y Baltimore. Las autoridades emitieron alertas de salud pública y vinculan el fenómeno directamente al cambio climático.",
+          "source": "https://news-pravda.com/world/2026/07/10/2431761.html"
+        },
+        {
+          "eyebrow": "Deportes",
+          "title": "El sábado cierran los cuartos: Argentina-Suiza y Noruega-Inglaterra, los duelos más esperados",
+          "dek": "Argentina, que remontó un 0-2 ante Egipto para clasificar en los minutos finales, enfrenta a Suiza en Kansas City. Noruega e Inglaterra —ambas eliminaron a Brasil y México respectivamente— se miden en Miami el mismo día.",
+          "source": "https://www.clarosports.com/futbol/mundial-2026/partidos-mundial-2026-hoy-10-de-julio-horarios-y-donde-ver-en-vivo-por-tv-y-online/"
+        },
+        {
+          "eyebrow": "Europa",
+          "title": "El Eurogrupo debate emitir hasta 850.000 millones de euros anuales en deuda común",
+          "dek": "Los ministros de Economía de la eurozona analizan la propuesta española para crear un mecanismo de deuda colectiva destinado a financiar la transición verde y la defensa, en medio de tensiones presupuestarias en varios países miembro.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/09/temas-del-dia-de-efe-internacional-del-jueves-9-de-julio-de-2026-0730-horas/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "Alerta Roja en Molina: sistema frontal deja socavones, rutas cortadas y miles sin electricidad en el centro-sur",
+          "dek": "Senapred decretó Alerta Roja para la comuna de Molina, en el Maule, por desborde de río. El balance del sistema frontal que azota la zona centro-sur suma más de 60 viviendas dañadas, 64 personas aisladas y cerca de 12.500 clientes sin electricidad en el Biobío, La Araucanía y Los Ríos.",
+          "more": "La Araucanía es la región más afectada con 5.087 clientes sin suministro, seguida por la Región Metropolitana con 3.492. Los Ríos mantiene Alerta Amarilla y la provincia de Cautín sigue bajo la misma categoría. El sistema frontal también abrió socavones en varias rutas del centro-sur e interrumpió el tránsito en múltiples caminos. Las precipitaciones, que amainaron en el sur, avanzan ahora hacia Santiago.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/10/balance-por-sistema-frontal-alerta-roja-en-molina-socavones-y-rutas-interrumpidas-en-el-centro-sur.shtml",
+          "imgPrompt": "flooded streets in a small Chilean town in the Maule region, emergency vehicles, damaged homes with water entering, overcast sky and heavy rain"
+        },
+        {
+          "eyebrow": "Medio ambiente",
+          "title": "Nueva Alerta Ambiental en Santiago: la contaminación no cede y el invierno suma más jornadas de restricción",
+          "dek": "La Delegación Presidencial de la Región Metropolitana decretó alerta ambiental para este viernes por acumulación de PM10 en las estaciones de El Bosque, Cerrillos y Parque O'Higgins. Están prohibidos los calefactores a leña en toda la RM y circulan con restricción los autos con patente terminada en 6 y 7.",
+          "more": "La medida cubre la provincia de Santiago más las comunas de San Bernardo y Puente Alto, con restricción vehicular de 07:30 a 21:00. Quienes incumplan arriesgan multas de entre 1 y 1,5 UTM. La persistencia de las malas condiciones de ventilación de la cuenca, combinada con la quema de leña residencial, ha generado varias alertas ambientales consecutivas durante este invierno de 2026.",
+          "source": "https://www.t13.cl/noticia/nacional/declaran-alerta-ambiental-viernes-region-metropolitana-10-7-2026",
+          "imgPrompt": "smoggy winter morning in Santiago Chile with Andean mountains barely visible through a thick brown haze, apartment buildings and streets in foreground"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "Ley Miscelánea supera el capítulo laboral con apoyo opositor y entra en la recta final antes del 15 de julio",
+          "dek": "La Comisión de Trabajo del Senado despachó el capítulo laboral de la iniciativa estrella del gobierno con respaldo más amplio del esperado, incluyendo votos de la oposición. El texto pasa ahora a la Comisión de Hacienda —último trámite antes del pleno— con miras a la fecha límite del 15 de julio.",
+          "more": "A pesar del avance, el Socialismo Democrático anticipó que recurrirá al Tribunal Constitucional si el articulado sobre invariabilidad tributaria y las normas de Resoluciones de Calificación Ambiental (RCA) llegan al pleno sin modificaciones. El proyecto, que agrupa más de 40 medidas para reconstruir 4.000 viviendas quemadas y reactivar la economía, fue aprobado en general por 26 votos a favor, 23 en contra y una abstención. Analistas estiman que hasta 12 artículos podrían caerse en la votación final.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/09/comision-del-senado-despacha-capitulo-laboral-de-la-ley-miscelanea-con-amplio-respaldo-opositor/",
+          "imgPrompt": "Chilean senators in a working committee session inside the Valparaíso National Congress, legislators reviewing documents at their desks, formal chamber environment"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Con cinco Imacec negativos seguidos y tasa en 4,5%, Chile debate si está ante una recesión técnica",
+          "dek": "La economía chilena encadena su quinta caída mensual consecutiva —la primera vez desde la crisis de 2009— mientras el Banco Central mantiene la tasa en 4,5%. La próxima reunión del consejo, el 27 y 28 de julio, se realizará en medio del debate sobre si conviene bajar tasas para estimular la actividad.",
+          "more": "El Imacec de mayo retrocedió 0,9% interanual y el PIB cayó 0,5% en el primer trimestre. BICE Inversiones redujo su proyección de crecimiento del PIB 2026 a 1,3%. El ministro de Hacienda descartó que el país esté ante una recesión, pero la oposición exige medidas de reactivación más agresivas. La inflación anual se ubica en 3,9%, impulsada por los precios del petróleo, que ahora suben aún más por la crisis en el estrecho de Ormuz.",
+          "source": "https://www.latercera.com/pulso/noticia/imacec-negativo-mayo-2026-recesion-tecnica/",
+          "imgPrompt": "empty commercial street in downtown Santiago Chile during winter, closed shops, few pedestrians, overcast sky, economic uncertainty atmosphere"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Bachelet refuerza su gira asiática buscando apoyos para liderar la ONU",
+          "dek": "La expresidenta chilena continúa su recorrido por Asia para recoger respaldos a su candidatura a secretaria general de las Naciones Unidas. El proceso de selección se define a fin de año y Bachelet sería la primera latinoamericana en el cargo.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/07/bachelet-se-baja-de-ceremonia-convocada-por-kast-estara-de-viaje-por-candidatura-a-la-onu.shtml"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España–Bélgica en cuartos de final, desde las 14:00 horas de Chile en el Rose Bowl de Los Ángeles",
+          "dek": "La campeona de Europa enfrenta a la Bélgica que goleó 4-1 a EE.UU. en un choque que puede seguirse por cable. El sábado 11 le tocan los otros dos cuartos: Argentina–Suiza (Kansas City) y Noruega–Inglaterra (Miami).",
+          "source": "https://www.clarosports.com/futbol/mundial-2026/partidos-mundial-2026-hoy-10-de-julio-horarios-y-donde-ver-en-vivo-por-tv-y-online/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "Peso chileno se ubica en $926 por dólar, presionado por el alza del petróleo",
+          "dek": "La escalada en el estrecho de Ormuz empujó al alza el precio del crudo, lo que presiona al peso. El tipo de cambio se ubica en $926,81, cerca del máximo reciente de $931,69 registrado el martes.",
+          "source": "https://www.bloomberglinea.com/quote/USDCLP:CUR/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Kast suscribe compromiso regional contra el crimen organizado con Argentina, Bolivia, Ecuador y Perú",
+          "dek": "Tras una reunión de alto nivel convocada por Cancillería, los cinco países acordaron medidas concretas en intercambio de inteligencia, coordinación fronteriza, rastreo de flujos financieros ilícitos, cooperación técnica y mecanismos de respuesta regional.",
+          "source": "https://icndiario.com/2026/07/kast-propone-una-alianza-regional-contra-el-crimen-organizado-en-cumbre-del-mercosur-no-hay-integracion-posible-si-las-mafias-controlan-las-rutas/"
+        },
+        {
+          "eyebrow": "Sistema frontal",
+          "title": "Las lluvias del sistema frontal avanzan hacia Santiago; Senapred emite alertas para la RM",
+          "dek": "Senapred amplió las alertas preventivas para comunas de la Región Metropolitana ante la llegada de precipitaciones asociadas al sistema que ya causó daños en el centro-sur. Se prevén lluvias moderadas en la capital durante el fin de semana.",
+          "source": "https://www.latercera.com/nacional/noticia/senapred-declara-alerta-temprana-preventiva-para-la-region-de-ohiggins-y-para-diez-comunas-de-la-rm-por-sistema-frontal/"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "Socialismo Democrático anticipa recurso al TC si la Ley Miscelánea no ajusta normas de invariabilidad y RCA",
+          "dek": "La coalición de centroizquierda formalizó que irá al Tribunal Constitucional si el articulado sobre invariabilidad tributaria y las resoluciones de calificación ambiental no se modifica antes del voto en el Senado, lo que podría complicar el plazo del 15 de julio.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/07/ley-miscelanea-entra-en-tierra-derecha-senado-fija-despacho-definitivo-para-el-15-de-julio/"
+        }
+      ]
+    }
+  }
+}
