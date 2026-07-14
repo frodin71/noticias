@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-14",
+  "dateLabel": "Martes 14 de julio de 2026",
+  "edition": "014",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "Irán ataca cuatro bases militares de EE.UU. en el Golfo mientras el cese al fuego colapsa",
+          "dek": "La Guardia Revolucionaria bombardeó la sede de la Quinta Flota en Baréin, depósitos en Kuwait, la base aérea Príncipe Hasán en Jordania y radares en Omán. Trump declaró el alto el fuego 'terminado'.",
+          "more": "Los ataques iraníes incendiaron depósitos de combustible y destruyeron radares de la Quinta Flota en Baréin; Kuwait vio demolidos dos lanzadores HIMARS y almacenes de misiles. Jordania interceptó cuatro proyectiles con su defensa antiaérea. El ciclo de represalias se recrudeció luego de que EE.UU. retomara golpes sobre ciudades iraníes —Bandar Abbas, Bushehr, Chabahar— tras el cierre del Estrecho de Ormuz y el ataque de Irán a buques cisterna. Los cancilleres de Omán, Qatar y Pakistán actúan como mediadores para relanzar las conversaciones de paz.",
+          "source": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know",
+          "imgPrompt": "large explosion and orange fireball at a naval base near the Persian Gulf at night, smoke rising over warships in the harbor, dramatic military scene, no text"
+        },
+        {
+          "eyebrow": "Día de la Bastilla",
+          "title": "Macron convierte su último 14 de julio en una demostración de apoyo a Ucrania con Zelenski en el palco de honor",
+          "dek": "Quinientos soldados de la Coalición de los Voluntarios —de 11 países europeos— desfilaron por los Campos Elíseos junto a tropas ucranianas; pilotos de Kiev sobrevolaron París en cazas Mirage 2000 tricolores.",
+          "more": "Los 25 jefes de Estado de la Coalición sesionaron el lunes en el Hotel des Invalides antes del desfile. Francia y el Reino Unido impulsan esta alianza como embrión de una fuerza multinacional europea para Ucrania cuando haya alto el fuego. Macron subrayó la fecha como un hito del 'despertar estratégico europeo' frente a Moscú. Es el último 14 de julio que presidirá antes de dejar el Elíseo en 2027.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/14/francia-celebra-el-dia-de-la-bastilla-con-un-tradicional-desfile-militar-con-zelensky-como-invitado-de-honor-y-un-amplio-respaldo-a-ucrania/",
+          "imgPrompt": "Ukrainian soldiers in dress military uniforms marching in tight formation down the Champs-Élysées in Paris during the Bastille Day parade, French and Ukrainian flags lining the avenue, cheering crowd, bright summer daylight, no text"
+        },
+        {
+          "eyebrow": "Memoria",
+          "title": "Francia honra a las 86 víctimas del atentado de Niza a diez años exactos de la masacre del Paseo de los Ingleses",
+          "dek": "Macron preside la ceremonia oficial en Niza; a las 22:34 —la hora exacta del ataque de 2016— 86 haces de luz se proyectarán sobre el paseo. La semifinal mundialista Francia-España tendrá un minuto de silencio.",
+          "more": "Un camión conducido por un terrorista yihadista arrolló a la multitud en el Paseo de los Ingleses durante la Fiesta Nacional de 2016, matando a 86 personas de 19 nacionalidades. Los actos de recuerdo abrieron el domingo con una marcha silenciosa y continuaron el lunes con una ceremonia interreligiosa a la que asistieron sobrevivientes y familiares. El alcalde de Niza pidió a la FIFA que el minuto de silencio del partido mundialista se respetara sin interrupción.",
+          "source": "https://www.france24.com/es/francia/20260714-francia-el-d%C3%ADa-nacional-y-la-herida-abierta-tras-10-a%C3%B1os-del-atentado-de-niza",
+          "imgPrompt": "crowd gathered at night along the Promenade des Anglais in Nice holding candles, flowers and tricolor ribbons placed as a memorial, somber evening atmosphere at the seafront, no text"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España y Francia se miden hoy en la semifinal del Mundial: el ganador espera a Argentina o Inglaterra en la final",
+          "dek": "El clásico europeo se disputa en el AT&T Stadium de Arlington, Texas, a las 15:00 hora chilena; Lamine Yamal enfrenta a Mbappé en un duelo que ha marcado una era del fútbol moderno.",
+          "more": "España eliminó a Bélgica 2-1 con gol de Mikel Merino en cuartos; Francia venció a Marruecos 2-0 con doblete de Kylian Mbappé y Ousmane Dembélé. La otra semifinal —Argentina vs. Inglaterra— se juega el miércoles 15 en Atlanta. La selección española busca su cuarto título mundialista y la primera doble corona consecutiva en la historia del torneo.",
+          "source": "https://espndeportes.espn.com/futbol/mundial/nota/_/id/16989685/mundial-2026-las-claves-del-partidazo-de-semifinales-entre-espana-y-francia",
+          "imgPrompt": "aerial night view of a packed AT&T Stadium in Arlington Texas for a World Cup semifinal, vivid green pitch illuminated by floodlights, fan sections in red and blue, no text or logos"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Irak va a la Casa Blanca a firmar acuerdos de petróleo que elevarían su producción a 7 millones de barriles diarios",
+          "dek": "El primer ministro Ali Falih al-Zaidi, en su primera visita al exterior desde que asumió en mayo, lleva a Trump memorandos de entendimiento para expandir el sector energético con empresas estadounidenses.",
+          "more": "Los acuerdos incluyen un fondo donde Irak depositaría medio millón de barriles diarios a cambio de apoyo de EE.UU. al sistema eléctrico iraquí. Bagdad aspira a pasar de los actuales 5,4 millones de barriles por día a 7 millones antes de 2030, y los nuevos contratos podrían operar fuera de las cuotas de la OPEP, lo que tensionaría al cartel. La reunión también busca reducir la influencia iraní en el país árabe.",
+          "source": "https://www.aljazeera.com/news/2026/7/12/iraqi-pm-to-meet-us-president-trump-in-washington-to-deepen-strategic-ties",
+          "imgPrompt": "US President and Iraqi Prime Minister shaking hands in a formal White House meeting room, American and Iraqi flags on either side, suited officials present, daylight, no text"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Tragedia",
+          "title": "La Guaira opera con 14 hospitales de campaña mientras continúa la búsqueda entre escombros del terremoto en Venezuela",
+          "dek": "El doble sismo del 24 de junio dejó más de 4.400 muertos y 16.000 heridos; la ayuda humanitaria de decenas de países sostiene la respuesta de emergencia en la devastada zona costera.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/14/martes-14-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "SoftBank: la IA necesitará cinco billones de dólares anuales en infraestructura y es '50 veces más grande que el boom del punto-com'",
+          "dek": "Masayoshi Son, presidente del proyecto Stargate, cifró en cinco billones de dólares anuales la inversión global necesaria para la infraestructura de inteligencia artificial de aquí a 2040; las acciones de SoftBank acumulan un alza del 80% en 2026.",
+          "source": "https://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment"
+        },
+        {
+          "eyebrow": "Espacio",
+          "title": "La Soyuz MS-29 despega desde Baikonur con destino a la Estación Espacial Internacional",
+          "dek": "El cohete ruso partió desde el cosmódromo de Kazajistán en una nueva misión de tripulación a la ISS.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/14/martes-14-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Defensa",
+          "title": "Europa y Ucrania anuncian una coalición para desarrollar escudos antimisiles y reducir su dependencia de EE.UU.",
+          "dek": "El acuerdo, presentado en vísperas del 14 de julio en París, busca coordinar producción conjunta de sistemas de defensa aérea entre socios europeos y las fuerzas armadas ucranianas.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/13/europa-y-ucrania-anunciaron-una-coalicion-para-desarrollar-defensas-antimisiles-ante-la-amenaza-de-rusia/"
+        },
+        {
+          "eyebrow": "Medio ambiente",
+          "title": "México supera ya la mitad de su meta anual de retiro de sargazo, pero el Caribe sigue bajo presión",
+          "dek": "Más de 79.000 toneladas de algas fueron retiradas de las costas de Quintana Roo en lo que va de 2026, en una temporada que amenaza con ser de las más severas en el Caribe mexicano en años recientes.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/14/martes-14-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Wells Fargo, Citigroup y Bank of America presentan sus resultados del segundo trimestre de 2026",
+          "dek": "Los tres gigantes bancarios divulgan hoy sus ganancias de abril-junio, en un trimestre marcado por la incertidumbre arancelaria y la escalada geopolítica en Medio Oriente.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/14/martes-14-de-julio-de-2026-0700-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Congreso",
+          "title": "La megarreforma llega a la Sala del Senado: votación final mañana con cada voto en disputa",
+          "dek": "La Comisión de Hacienda despachó ayer por mayoría el proyecto estrella del gobierno de Kast, que reduce el impuesto corporativo y garantiza invariabilidad tributaria de hasta 20 años; el margen en la Sala es de apenas un puñado de votos.",
+          "more": "El proyecto —40 medidas para reactivar la economía— fue aprobado en términos generales el 24 de junio por 26 votos a favor, 23 en contra y una abstención. La Comisión de Hacienda despachó las más de 360 indicaciones sin el apoyo de la oposición. Los comités del Senado fijaron la votación final para el miércoles 15 de julio 'hasta total despacho'. Un sector de la oposición no descarta recurrir al Tribunal Constitucional para impugnar disposiciones como la invariabilidad tributaria y la rebaja del impuesto a las empresas de 27% a 23%, medida que costaría al fisco más de 4.000 millones de dólares anuales.",
+          "source": "https://www.cooperativa.cl/noticias/pais/politica/agenda-legislativa/comision-de-hacienda-del-senado-despacho-megarreforma-y-texto-paso-a/2026-07-13/170950.html",
+          "imgPrompt": "Chilean senators in formal attire in a tense legislative session inside the red and beige Congress chamber in Valparaíso, microphones on long table, official Chilean flags"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "Chile ante un inminente racionamiento eléctrico: la ministra Rincón confirma que el decreto aguarda la firma de Kast",
+          "dek": "La sequía persistente presiona el sistema hidroeléctrico y el Ministerio de Energía busca dotarse de herramientas legales para administrar eventuales déficits sin necesariamente interrumpir el suministro.",
+          "more": "El decreto es de carácter preventivo: no implica cortes inmediatos, sino que otorga facultades extraordinarias al Coordinador Eléctrico Nacional para redistribuir el suministro ante una contingencia. Los embalses acumulan niveles históricamente bajos tras meses de escasas precipitaciones en las zonas central y sur. La medida llega justo cuando una cadena de frentes fríos entra al país, lo que podría aportar agua a los embalses en los próximos días.",
+          "source": "https://www.emol.com/noticias/Economia/2026/07/13/1205511/decreto-de-racionamiento-electrico.html",
+          "imgPrompt": "aerial view of a large Chilean reservoir with critically low water level and exposed dry cracked lakebed, Andes mountains in the background, overcast winter sky, no text"
+        },
+        {
+          "eyebrow": "Meteorología",
+          "title": "Emergencia preventiva en 10 regiones: una cadena de frentes fríos traerá lluvias ininterrumpidas hasta el sábado",
+          "dek": "El gobierno decretó alerta desde Atacama hasta Los Ríos ante la llegada de un 'tren de sistemas frontales' que acumulará hasta 200 mm en La Araucanía y dejará entre 40 y 80 mm en la zona central.",
+          "more": "El fenómeno comienza hoy en el sur y avanza hacia la Región Metropolitana y Valparaíso el miércoles, para alcanzar Coquimbo y Atacama el jueves. Los vientos pueden superar los 50 km/h, aumentando el riesgo de aluviones en quebradas y riberas de ríos. La Dirección Meteorológica estimó que las precipitaciones podrían ser continuas hasta el sábado 18 de julio; la emergencia preventiva estará vigente hasta el 21. Las autoridades pidieron especial cuidado en la macrozona sur.",
+          "source": "https://www.cooperativa.cl/noticias/pais/tiempo/tren-de-sistemas-frontales-gobierno-decreto-emergencia-preventiva-entre/2026-07-13/215401.html",
+          "imgPrompt": "heavy rain and dark storm clouds over forested mountains of southern Chile, a swollen river rushing through a valley, overcast winter scene, emergency crews on standby"
+        },
+        {
+          "eyebrow": "Narcotráfico",
+          "title": "PDI desmantela red de tráfico de drogas y decomisa 805 kilos de cannabis en Antofagasta",
+          "dek": "Agentes de la Policía de Investigaciones desarticularon una operación transnacional que usaba rutas mineras clandestinas del norte para internar marihuana desde Bolivia; un ciudadano boliviano fue detenido.",
+          "more": "La droga estaba distribuida en 766 paquetes. La operación forma parte de una ofensiva coordinada entre brigadas especializadas de la PDI e inteligencia fronteriza que, desde octubre de 2023, ha incautado sustancias por más de 740 mil millones de pesos —equivalentes a unos 800 millones de dólares—, con pérdidas diarias estimadas de 736 millones de pesos para las redes criminales.",
+          "source": "https://elamerica.cl/2026/07/14/pdi-desarticula-operacion-de-traslado-de-droga-e-incauta-mas-de-805-kilos-de-cannabis-en-antofagasta/",
+          "imgPrompt": "Chilean PDI plainclothes detectives displaying rows of seized cannabis packages in a warehouse in Antofagasta, northern Chile desert region, official evidence press display"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Tránsito",
+          "title": "Restricción vehicular sin excepción en el Gran Santiago hasta las 21:00 horas",
+          "dek": "Los vehículos sin sello verde no pueden circular dentro del anillo Américo Vespucio, Puente Alto y San Bernardo desde las 07:30; las multas llegan a $107.000 y son cursadas por cámaras automatizadas.",
+          "source": "https://www.elmostrador.cl/datos-utiles/2026/07/13/restriccion-vehicular-este-martes-14-de-julio-el-olvido-por-el-que-podrias-pagar-mas-de-100-mil/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar se transa en torno a los $925 en Chile este martes",
+          "dek": "El tipo de cambio mantiene estabilidad relativa en la jornada, con la escalada militar en Medio Oriente como principal variable de atención para los mercados.",
+          "source": "https://www.bcentral.cl/en/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registró 42 sismos en las últimas 24 horas, el mayor de magnitud 4,0",
+          "dek": "La actividad sísmica se mantiene dentro de parámetros habituales; no se reportaron daños ni alertas de tsunami asociados a los movimientos registrados.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Argentina-Inglaterra va mañana miércoles a las 17:00 hora chilena en Atlanta",
+          "dek": "La segunda semifinal enfrenta a la campeona vigente y a una selección inglesa que por primera vez llega a esta instancia desde 1990; el ganador espera en la final al triunfador de España-Francia.",
+          "source": "https://www.prensalibre.com/deportes/futbol-internacional/mundial-2026-fechas-horarios-y-sedes-de-las-semifinales-entre-argentina-inglaterra-francia-y-espana-breaking/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Incautaciones antinarcóticas en el norte del país superan los 800 millones de dólares desde 2023",
+          "dek": "Las operaciones coordinadas entre la PDI y la inteligencia fronteriza generan pérdidas diarias de 736 millones de pesos a las redes criminales que operan en la frontera norte.",
+          "source": "https://elamerica.cl/2026/07/14/factura-al-crimen-organizado-avaluo-de-incautaciones-de-drogas-en-la-region-supera-los-800-millones-de-dolares/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "CEPAL recorta la proyección de crecimiento de Chile en 2026 a un 2%, entre las más bajas de la región",
+          "dek": "El organismo de la ONU ajustó a la baja su estimación para la economía chilena, afectada por la debilidad de la demanda interna, la incertidumbre inversora y la caída de la recaudación tributaria no minera.",
+          "source": "https://www.latercera.com/pulso/noticia/cepal-recorta-proyeccion-de-crecimiento-de-chile-para-2026-y-estara-entre-las-economias-menos-dinamicas-de-la-region/"
+        }
+      ]
+    }
+  }
+}
