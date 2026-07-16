@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-16",
+  "dateLabel": "Jueves 16 de julio de 2026",
+  "edition": "016",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Argentina y España van a la gran final del domingo en el MetLife Stadium",
+          "dek": "La Albiceleste remontó 2-1 a Inglaterra con goles de Enzo Fernández en el 87 y Lautaro Martínez en el 90+2, confirmando el duelo más esperado del torneo.",
+          "more": "España derrotó a Francia 2-0 el lunes con goles de Oyarzabal —de penal— y Pedro Porro. Es la primera vez en la historia que Argentina y España se enfrentan en una final mundialista. La Albiceleste busca su cuarto título; La Roja, su segundo en 16 años. El partido se juega el domingo 19 de julio en el MetLife Stadium de East Rutherford, Nueva Jersey. Inglaterra y Francia disputarán el tercer lugar.",
+          "source": "https://www.lanacion.com.ar/deportes/futbol/argentina-vs-inglaterra-en-vivo-asi-se-define-el-partido-de-semifinales-nid15072026/",
+          "imgPrompt": "Argentina and Spain football jerseys displayed side by side on a grass pitch with a packed stadium in the background, World Cup final atmosphere, golden sunlight, no text"
+        },
+        {
+          "eyebrow": "Guerra en Ucrania",
+          "title": "Rusia lanza misiles contra Kiev y deja dos muertos y cinco heridos",
+          "dek": "Las explosiones ocurrieron pasada la medianoche en la capital ucraniana; Járkov fue atacada con drones en la misma jornada.",
+          "more": "Kiev enfrenta escasez crítica de misiles interceptores PAC-3 para sus sistemas Patriot. Trump autorizó a Ucrania fabricar misiles Patriot bajo licencia estadounidense, aunque iniciar la producción podría tomar meses. El Kremlin acusó esta semana a los países bálticos de estar implicados en los ataques ucranianos sobre suelo ruso, acusaciones que Lituania, Letonia y Estonia rechazaron de plano.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/16/rusia-lanzo-un-ataque-con-misiles-contra-kiev-y-provoco-un-incendio-de-gran-magnitud-al-menos-dos-muertos-y-cinco-heridos/",
+          "imgPrompt": "large building engulfed in fire and thick black smoke in an urban skyline at night after a missile strike, emergency vehicles on the street below, war zone scene"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "La OMS advierte que el brote de ébola en el Congo supera su capacidad de respuesta",
+          "dek": "Casi 2.000 casos y más de 700 muertos lo convierten en el tercer mayor brote de la historia. El 80% de los nuevos contagios proviene de cadenas de transmisión desconocidas.",
+          "more": "El brote es causado por la variante Bundibugyo del ébola, para la que no existe vacuna autorizada ni tratamiento específico aprobado. La OMS estima que la magnitud real podría ser entre dos y cuatro veces superior a los casos notificados. El ritmo de expansión en un mes es el más rápido registrado en cualquier brote de ébola. La organización reforzó el envío de especialistas y equipos médicos, pero advierte que los esfuerzos están siendo desbordados.",
+          "source": "https://www.infobae.com/salud/2026/07/15/la-oms-advirtio-sobre-la-rapida-expansion-del-brote-de-ebola-en-el-congo-ya-es-el-tercero-mas-grande-registrado/",
+          "imgPrompt": "medical workers in full protective hazmat suits treating patients inside a field hospital tent in central Africa, Ebola response team with medical equipment, emergency health operation"
+        },
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "A seis meses del alto el fuego, la paz en Gaza está prácticamente paralizada",
+          "dek": "Hamas rechazó el plan de desarme, Israel no completó retiradas adicionales y apenas el 0,5% de los escombros ha sido despejado.",
+          "more": "El enviado de EE.UU. reconoció que Gaza entra en la segunda fase del alto el fuego, aunque el proceso está estancado en casi todos sus puntos. La OMI condenó esta semana los ataques en el estrecho de Ormuz y pidió desescalar de inmediato. El petróleo Brent se mantiene por encima de los 85 dólares el barril ante la tensión regional.",
+          "source": "https://jstreet.org/six-months-in-assessing-the-status-of-the-gaza-ceasefire/",
+          "imgPrompt": "destroyed concrete buildings in Gaza with large rubble piles and a single construction crane in the background, aid trucks waiting at a checkpoint, grey overcast sky, aerial view"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Geopolítica",
+          "title": "La OMI condena los ataques en el estrecho de Ormuz y pide desescalada inmediata",
+          "dek": "El organismo marítimo de la ONU exige garantizar la libre navegación tras el impacto a petroleros en la zona y el alza del crudo.",
+          "source": "https://news.un.org/es/story/2026/07/1541684"
+        },
+        {
+          "eyebrow": "Guerra en Ucrania",
+          "title": "Moscú acusa a los países bálticos de complicidad en ataques ucranianos contra Rusia",
+          "dek": "El portavoz Peskov involucró a Lituania, Letonia y Estonia; los tres gobiernos rechazaron la acusación de inmediato.",
+          "source": "https://es.euronews.com/video/2026/07/16/ultimas-noticias-16-julio-2026-manana"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "China no alcanza su meta de crecimiento del segundo trimestre",
+          "dek": "Las tensiones en torno a Irán y las perturbaciones al comercio marítimo pesaron sobre el desempeño de la segunda economía mundial.",
+          "source": "https://cnnespanol.cnn.com/"
+        },
+        {
+          "eyebrow": "Desastre",
+          "title": "Incendios forestales cortan autopistas y retrasan trenes cerca de París",
+          "dek": "Las llamas obligaron a cerrar vías y complicaron la circulación en la periferia de la capital francesa en plena ola de calor estival.",
+          "source": "https://es.euronews.com/video/2026/07/16/ultimas-noticias-16-julio-2026-manana"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "El terremoto de Venezuela suma más de 4.400 muertos y equipos de rescate de decenas de países siguen activos",
+          "dek": "La Guaira lleva tres semanas con hospitales de campaña entre escombros; el balance total asciende a más de 16.000 heridos.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/14/martes-14-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Finanzas",
+          "title": "Wall Street inicia la temporada de resultados con ganancias sólidas en los primeros grandes bancos",
+          "dek": "Morgan Stanley y BlackRock reportaron resultados del segundo trimestre impulsados por la banca de inversión y el crecimiento de activos administrados.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/15/miercoles-15-de-julio-de-2026-0200-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia climática",
+          "title": "Tren de sistemas frontales golpea Chile con alerta máxima y más de 3.500 personas damnificadas",
+          "dek": "El gobierno decretó emergencia preventiva en diez regiones y acuarteló a las Fuerzas Armadas; las precipitaciones amenazan con superar los 150 mm en Santiago y 180 mm en Coquimbo.",
+          "more": "Se reportaron 3.588 personas damnificadas en el Biobío y Los Lagos, 9.522 aisladas por cortes de rutas y anegamientos, 140 viviendas con daño mayor no habitable y 12 destruidas. Un río atmosférico asociado a El Niño intensifica el fenómeno. El tren de siete sistemas frontales podría extender la emergencia hasta el 21 de julio. Las clases fueron suspendidas en varias comunas y se activaron cientos de comités comunales de emergencia.",
+          "source": "https://www.cooperativa.cl/noticias/pais/tiempo/tren-atmosferico-en-chile-alerta-maxima-clases-suspendidas-y-fuerzas/2026-07-15/075332.html",
+          "imgPrompt": "flooded street in a Chilean city during heavy winter rain, emergency vehicles with flashing lights, dark storm clouds overhead, overflowing drainage channels, people wading through water"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "Senado despachó la megarreforma por 26 votos contra 24 en una maratónica jornada nocturna",
+          "dek": "El Congreso aprobó el Plan de Reconstrucción Nacional con la rebaja del impuesto corporativo del 27% al 23% como artículo más polémico.",
+          "more": "La sesión se extendió hasta la madrugada del jueves. La invariabilidad tributaria de 10, 15 y 20 años según el tamaño de la inversión fue uno de los puntos más disputados. La oposición evalúa recurrir al Tribunal Constitucional para impugnar los artículos tributarios, que costarían más de 4.000 millones de dólares anuales al fisco. El proyecto vuelve a tercer trámite a la Cámara de Diputados, donde nuevamente dependerá de los votos del Partido de la Gente.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/triunfo-para-el-gobierno-senado-despacha-proyecto-de-megarreforma-tras-maratonica-jornada.shtml",
+          "imgPrompt": "Chilean Senate chamber at night with senators in formal attire voting in a tense late-night session, Chilean flags and official insignia visible, microphones on long curved table"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Karen Rojo llega extraditada desde Países Bajos para cumplir condena por fraude al fisco",
+          "dek": "La exalcaldesa de Antofagasta aterrizó en Santiago custodiada por detectives de la PDI, tras cuatro años de proceso de extradición.",
+          "more": "Rojo fue condenada a cinco años efectivos de prisión por irregularidades en la contratación de consultoras con fondos municipales durante su gestión como alcaldesa. Gendarmería coordinará su traslado al norte del país. El tiempo que pasó detenida en los Países Bajos podría descontarse de su condena si las autoridades holandesas lo certifican formalmente.",
+          "source": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/karen-rojo-arribo-extraditada-a-chile-para-cumplir-condena-de-carcel-por/2026-07-15/072604.html",
+          "imgPrompt": "plain-clothed police detectives escorting a woman in civilian clothes through a busy airport terminal, security personnel surrounding her, international arrivals hall, Chile"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "La aprobación de Kast cae al 38% y el pesimismo económico alcanza el máximo de doce años",
+          "dek": "La encuesta CADEM registra el mayor desánimo ciudadano de la última década, con economía y empleo como las áreas peor evaluadas del gobierno.",
+          "more": "El gobierno enfrenta un 58% de desaprobación. Solo relaciones internacionales y defensa superan el 40% de aprobación sectorial; justicia apenas llega al 23%. El desempleo de 9,4% es el más alto en cinco años. En respuesta, Kast presentó el plan 'Modo Empleo', que busca incentivar contrataciones privadas mediante subsidios al sector productivo.",
+          "source": "https://www.sanpedrodeatacama.cl/2026/07/13/cadem-pesimismo-economico-chile-alcanza-maximo-12-anos",
+          "imgPrompt": "Chilean president José Antonio Kast standing at a formal podium at La Moneda giving a press conference, Chilean flags in the background, journalists with microphones and cameras"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Salud",
+          "title": "Chile supera las 91.000 personas viviendo con VIH, un 86% más que hace una década",
+          "dek": "Un análisis epidemiológico ubica a Chile como el país de América Latina con el mayor aumento proporcional de nuevas infecciones por VIH en los últimos diez años.",
+          "source": "https://opinion.cooperativa.cl/opinion/salud/el-silencio-que-enferma-chile-y-su-deuda-pendiente-con-el-vih/2026-07-15/062911.html"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar se transa en torno a los $929 en Chile este jueves",
+          "dek": "El tipo de cambio mantiene leve presión al alza impulsada por la incertidumbre geopolítica y la tensión en el estrecho de Ormuz.",
+          "source": "https://www.bcentral.cl/en/"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La oposición evalúa recurrir al Tribunal Constitucional contra artículos tributarios de la megarreforma",
+          "dek": "Parlamentarios de centroizquierda estudian impugnar la rebaja del impuesto corporativo y la invariabilidad tributaria, que costarían más de 4.000 millones de dólares anuales al fisco.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/15/senado-aprueba-por-26-votos-contra-24-la-rebaja-del-impuesto-a-las-empresas-y-reintegracion-tributaria.shtml"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Final Argentina-España: cómo y dónde verla en Chile el domingo",
+          "dek": "Chilevisión y TNT Sports transmitirán el duelo desde el MetLife Stadium de Nueva Jersey; se espera que el partido comience a las 18:00 horas chilenas.",
+          "source": "https://espndeportes.espn.com/futbol/mundial/"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Temporal deja 9.522 personas aisladas y rutas cortadas en seis regiones",
+          "dek": "Los desbordamientos de ríos y los anegamientos interrumpieron vías en el Biobío, La Araucanía, Los Ríos y Los Lagos, dejando comunidades incomunicadas.",
+          "source": "https://www.latercera.com/nacional/noticia/es-algo-que-jamas-habia-pasado-el-paso-del-sistema-frontal-deja-serios-danos-entre-la-araucania-y-los-lagos/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Sismo de magnitud 5.1 se registró al norte de Valparaíso en las últimas horas",
+          "dek": "El movimiento fue reportado sin daños ni alerta de tsunami. Chile acumula decenas de sismos menores en las últimas 24 horas.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        }
+      ]
+    }
+  }
+}
