@@ -1,0 +1,151 @@
+{
+  "date": "2026-07-17",
+  "dateLabel": "Viernes 17 de julio de 2026",
+  "edition": "017",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Todo listo para la final histórica: Trump confirmado en el MetLife y show de medio tiempo sin precedentes",
+          "dek": "Argentina y España se miden el domingo en East Rutherford; el presidente Trump entregará la Copa y artistas de talla global actuarán entre los tiempos.",
+          "more": "La Casa Blanca confirmó que Trump viajó a Nueva York este viernes para una recepción en Trump Tower y estará el domingo en el MetLife Stadium, donde entregará el trofeo al campeón. Por primera vez en la historia del torneo, la final tendrá un espectáculo de medio tiempo al estilo del Super Bowl: Madonna, Shakira, Justin Bieber, BTS, Burna Boy y Coldplay están entre los confirmados, en una actuación de unos 11 minutos; Tom Cruise, Robbie Williams y Nicole Scherzinger participarán en la ceremonia previa al pitazo inicial. España entra como favorita con un 45% de probabilidades según el algoritmo de Opta; Argentina, con Messi de 39 años y líder de la tabla de goleadores con ocho tantos, busca su cuarto título mundial.",
+          "source": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction",
+          "imgPrompt": "two football jerseys in Argentina blue-and-white stripes and Spain red hanging side by side in a locker room corridor, FIFA World Cup final branding in the background, stadium floodlights, no text"
+        },
+        {
+          "eyebrow": "Guerra en Ucrania",
+          "title": "Ucrania lanza más de 200 drones sobre Moscú en el mayor ataque aéreo de la guerra",
+          "dek": "La oleada nocturna forzó el cierre de aeropuertos de la capital rusa, provocó incendios y confirmó que Moscú ya no está a salvo del conflicto.",
+          "more": "Según el alcalde de Moscú, Serguéi Sobyanin, entre la tarde del miércoles y la mañana del jueves más de 200 drones sobrevolaron la región; la mayoría fue neutralizada a distancia, pero decenas alcanzaron el perímetro urbano. En los siete días previos, más de 1.200 aeronaves no tripuladas ucranianas habían apuntado a la capital. El Ministerio de Defensa ruso dijo haber interceptado al menos 375 drones en la jornada. El Kremlin calificó los ataques de actos terroristas y anunció bombardeos de represalia. La capacidad de Kyiv para sostener ofensivas a más de 500 km de la línea del frente refleja la consolidación de la producción de drones de largo alcance como herramienta estratégica.",
+          "source": "https://www.moncloa.com/2026/07/16/ataque-drones-moscu-ucrania-200-3400940",
+          "imgPrompt": "night cityscape lit by flashes of drone intercepts and anti-aircraft tracer fire over a large European city, fires and smoke visible on the streets below, war zone atmosphere, dramatic aerial view"
+        },
+        {
+          "eyebrow": "Conflicto en Ormuz",
+          "title": "Irán declara cerrado el estrecho de Ormuz; el crudo Brent sube a 85 dólares el barril",
+          "dek": "Los Guardianes de la Revolución anunciaron el cierre al tráfico comercial hasta nuevo aviso, luego de una ronda de ataques mutuos con Estados Unidos que redujo el paso de petróleo en un 62%.",
+          "more": "Washington amplió sus bombardeos hacia el norte de Irán, golpeando por primera vez zonas cercanas a Teherán y la provincia de Semnán, donde se concentra parte de la producción de misiles. EE.UU. también inutilizó un petrolero vacío disparando misiles Hellfire contra su chimenea. El tránsito de crudo y condensado por el estrecho cayó de 10,7 millones a 4,1 millones de barriles diarios. El Brent sube a US$85 el barril y el WTI roza los US$80. Los mercados asiáticos acusan el golpe, con el Nikkei y el Kospi a la baja. La OMI exige que se restablezcan las garantías para la libre navegación.",
+          "source": "https://www.bloomberglinea.com/mundo/eeuu-e-iran-intensifican-sus-ataques-mientras-crece-la-tension-en-ormuz/",
+          "imgPrompt": "aerial view of a narrow sea strait with military warships flanking an oil tanker, tense naval standoff scene, clear blue water and Middle Eastern coastline, daylight"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "EE.UU. estudia desplegar 3.000 técnicos y asumir una administración temporal en Venezuela",
+          "dek": "Washington analiza enviar especialistas civiles y del Cuerpo de Ingenieros del Ejército junto a 3.000 millones de dólares en inversión para acelerar la reconstrucción y acompañar una transición política.",
+          "more": "El plan no tiene aprobación formal de la Casa Blanca y genera divisiones internas en la administración Trump: un sector propone coordinarse con las autoridades chavistas para garantizar gobernabilidad durante la emergencia, mientras otro advierte que eso fortalecería al régimen y desplazaría a la oposición, representada por María Corina Machado y Edmundo González Urrutia. La propuesta contempla una tutela temporal vinculada a la reconstrucción y a la transición política, sin ningún tipo de anexión formal. El balance oficial de muertos por el doble sismo del 24 de junio ascendió este viernes a 4.930, con más de 16.700 heridos y cerca de 18.000 familias sin vivienda.",
+          "source": "https://lapatilla.com/2026/07/16/eeuu-planea-desplegar-3-000-tecnicos-y-asumir-la-administracion-temporal-de-venezuela/",
+          "imgPrompt": "collapsed high-rise residential buildings in a coastal Venezuelan city after a major earthquake, heavy machinery and international rescue teams working in the rubble, grey overcast sky, humanitarian emergency"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Venezuela",
+          "title": "Muertos por los terremotos de Venezuela ascienden a 4.930 con estimación de 50.000 desaparecidos",
+          "dek": "La ONU estima que la cifra de personas sin paradero podría alcanzar esa cifra; el régimen inicia un censo biométrico para planificar la construcción de 25.000 viviendas.",
+          "source": "https://www.infobae.com/venezuela/2026/07/17/la-cifra-de-muertos-por-el-doble-terremoto-en-venezuela-ascendio-a-4930/"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "OMS solo recibió el 40% del financiamiento necesario para frenar el ébola en Congo",
+          "dek": "El brote registra más de 80 casos confirmados en 24 horas y sigue siendo el tercero más grande de la historia; las cadenas de transmisión desconocidas dificultan el control.",
+          "source": "https://news.un.org/es/story/2026/07/1541684"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Petróleo Brent supera los 85 dólares ante el cierre de Ormuz",
+          "dek": "Analistas advierten que un bloqueo prolongado del estrecho podría reducir el crecimiento mundial y agravar la inflación en economías importadoras de energía.",
+          "source": "https://www.diariolibre.com/mundo/estados-unidos/2026/07/16/petroleo-cierra-con-ligera-baja-pendiente-situacion-en-oriente-medio/3601821"
+        },
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "A seis meses del alto el fuego, la reconstrucción de Gaza sigue paralizada",
+          "dek": "Hamas rechaza el desarme, Israel no completó sus retiradas adicionales y apenas el 0,5% de los escombros ha sido despejado; los mediadores reconocen el estancamiento.",
+          "source": "https://cnnespanol.cnn.com/mundo/medio-oriente"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Argentina festeja en las calles su pase a la final más esperada del torneo",
+          "dek": "Multitudes celebraron en Buenos Aires y en distintas ciudades del mundo; la Albiceleste buscará su cuarto título mundial ante España este domingo en el MetLife Stadium.",
+          "source": "https://www.espn.com/soccer/story/_/id/49370934/fifa-world-cup-final-argentina-vs-spain-need-know-predictions-odds"
+        },
+        {
+          "eyebrow": "Asia",
+          "title": "China no alcanza su meta de crecimiento del segundo trimestre afectada por las tensiones en Ormuz",
+          "dek": "Las perturbaciones al comercio marítimo y el alza del precio del crudo pesaron sobre la segunda economía del mundo, que decepciona a los analistas por segundo trimestre consecutivo.",
+          "source": "https://es.euronews.com/video/2026/07/17/ultimas-noticias-17-julio-2026-manana"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia climática",
+          "title": "El temporal deja tres muertos, 555.000 hogares sin luz y clases suspendidas en nueve regiones",
+          "dek": "El sistema frontal más intenso en décadas golpea Chile con marejadas, anegamientos e incomunicación; el Gobierno advierte que las precipitaciones más fuertes aún están por llegar este fin de semana.",
+          "more": "Los tres fallecidos son un trabajador aplastado por un árbol al despejar la Ruta Q-180 en Negrete (Biobío), un hombre de 61 años caído del techo de su vivienda mientras limpiaba canaletas en Temuco, y una persona electrocutada al esperar en un paradero de Cerro Navia (Región Metropolitana). El corte eléctrico afecta principalmente a La Araucanía (183.794 clientes), Valparaíso (67.892) y el Biobío (57.847). El Mineduc extendió la suspensión de clases a nueve regiones —de Atacama a La Araucanía— para el viernes. Senapred advirtió que los sistemas más intensos del tren atmosférico podrían golpear la zona central el sábado con acumulados superiores a los 150 mm; el evento está vinculado al fenómeno de El Niño.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/17/temporal-en-chile-al-menos-tres-muertos-y-mas-de-medio-millon-de-personas-sin-luz-por-las-inundaciones/",
+          "imgPrompt": "flooded urban street in a Chilean city during a severe winter storm, downed power lines and debris blocking the road, emergency crews in reflective orange vests, cars stranded in water, dark storm clouds and heavy rain"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "Megarreforma regresa a la Cámara con amenaza concreta al Tribunal Constitucional",
+          "dek": "El PS confirmó que presentará requerimientos ante el TC a más tardar el lunes por materias tributarias y ambientales, en paralelo al tercer trámite constitucional del proyecto.",
+          "more": "Tras su aprobación en el Senado por 26 votos contra 24, el proyecto regresa a los diputados para resolver los cambios incorporados por la Cámara Alta. Si son ratificados, el texto queda listo para promulgación; si son rechazados, se forma una Comisión Mixta. El senador Alfonso de Urresti (PS) liderará el requerimiento al TC, apuntando a la rebaja del impuesto corporativo del 27% al 23% y a la invariabilidad tributaria de hasta 20 años. El presidente Kast salió al paso: sostuvo que no existen vicios de constitucionalidad. La oposición estima que las rebajas costarán más de 4.000 millones de dólares anuales al fisco.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/lo-que-debes-saber-megarreforma-vuelve-a-la-camara-con-ajustes-clave-y-reservas-de-constitucionalidad.shtml",
+          "imgPrompt": "Chilean Chamber of Deputies in session with legislators at semicircular wooden desks, Chilean flag and official coat of arms visible in the background, tense political debate atmosphere, wide shot"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Bolivia exige explicaciones a Chile por la 'narcomadera' que resultó un falso positivo",
+          "dek": "Laboratorios de Chile y Brasil descartaron la presencia de droga en más de 1.000 toneladas de madera boliviana retenida en Arica; el gobierno boliviano reclama respuestas formales.",
+          "more": "El caso surgió en junio cuando un fiscal chileno ordenó la retención de embarques en el Puerto de Arica ante sospechas de cocaína impregnada en la madera. Las pericias del IDIF boliviano y de organismos internacionales no hallaron ninguna sustancia controlada. La Fiscalía boliviana cerró la investigación tras certificar el falso positivo, y el gobierno calificó la acusación inicial de apresurada y sin sustento técnico, anunciando que solicitará explicaciones formales a Chile por la vía diplomática. Santiago aún no entregó una respuesta oficial.",
+          "source": "https://www.panamericana.bo/articulo/internacional/giro-180-grados-caso-narcomaderas-fiscalia-cierra-investigacion-confirmarse-falso-positivo/20260716203120016471.html",
+          "imgPrompt": "cargo trucks loaded with stacked timber logs queued at a Chilean port inspection checkpoint, customs officers in uniform examining cargo manifests, industrial port facilities in background, daylight"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "Senapred: lo peor del tren atmosférico podría llegar este sábado a la zona central",
+          "dek": "El organismo llama a evitar desplazamientos innecesarios; algunas cuencas podrían acumular más de 150 mm en pocas horas, con riesgo de desbordamientos en ríos ya crecidos.",
+          "source": "https://www.vlnradio.cl/noticias/nacional/2026/07/16/sistema-frontal-deja-tres-fallecidos-y-231-albergados-senapred-advierte-que-lo-peor-aun-no-llega/"
+        },
+        {
+          "eyebrow": "Educación",
+          "title": "Clases suspendidas este viernes en nueve regiones, desde Atacama hasta La Araucanía",
+          "dek": "La medida incluye todos los niveles y dependencias; el Mineduc evalúa extenderla al lunes si el tren frontal persiste con la misma intensidad.",
+          "source": "https://www.latercera.com/nacional/noticia/sistema-frontal-revisa-las-regiones-en-que-se-suspendieron-clases-para-este-viernes-17-de-julio/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Sismo de magnitud 4.1 sacude San Antonio en la madrugada",
+          "dek": "El movimiento ocurrió a las 01:15 horas a 74 kilómetros de la localidad y a 249 km de profundidad, sin daños ni alerta de tsunami.",
+          "source": "https://www.infobae.com/noticias/2026/07/17/tiembla-en-chile-sismo-de-magnitud-41-sacude-san-antonio-este-17-de-julio/"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "Kast sale a defender la megarreforma ante la ofensiva opositora: 'No hay vicios de constitucionalidad'",
+          "dek": "El Presidente confió en que el Tribunal Constitucional, si interviene, respaldará los artículos tributarios más cuestionados por la centroizquierda.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/16/no-hay-vicios-de-constitucionalidad-kast-sale-a-defender-megarreforma-ante-ofensiva-opositora/"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Final Argentina-España: cómo y dónde verla en Chile este domingo",
+          "dek": "Chilevisión y TNT Sports transmitirán el duelo desde el MetLife Stadium; el partido está programado para las 15:00 horas chilenas del domingo 19 de julio.",
+          "source": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/spain-v-argentina-live-stream-team-news-tickets-and-more"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El dólar observado se mantiene en torno a los $929 en Chile",
+          "dek": "El tipo de cambio registra leve presión al alza vinculada al repunte del crudo y las tensiones en Ormuz, factores que pesan sobre las monedas de economías emergentes.",
+          "source": "https://www.bcentral.cl/en/"
+        }
+      ]
+    }
+  }
+}
