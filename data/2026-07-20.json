@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-20",
+  "dateLabel": "Lunes 20 de julio de 2026",
+  "edition": "020",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España es campeona del mundo: Ferrán Torres anotó en la prórroga y venció a Argentina 1-0",
+          "dek": "La Roja conquistó su segundo título mundial en Nueva Jersey; Argentina disputó los últimos 30 minutos con diez jugadores tras la expulsión de Enzo Fernández.",
+          "more": "España suma así dos Copas del Mundo: Sudáfrica 2010 y este martes en territorio norteamericano. Miles de aficionados aguardan hoy en Madrid la llegada del plantel: la rúa comenzará a las 19:00 horas, con recepción en la Casa Real a las 16:30 y festejo en Cibeles previsto para las 21:00. El rey Felipe VI y Pedro Sánchez asistieron a la final desde la tribuna VIP del MetLife Stadium. El espectáculo del entretiempo reunió a Coldplay, Madonna, Shakira, Justin Bieber y BTS.",
+          "source": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
+          "imgPrompt": "Spanish football team celebrating with the FIFA World Cup trophy at MetLife Stadium New Jersey, players lifting the golden trophy in blue and red jerseys, confetti rain and stadium floodlights, night scene wide shot"
+        },
+        {
+          "eyebrow": "Guerra con Irán",
+          "title": "EE.UU. completa su novena jornada de bombardeos sobre Irán y el nuevo líder supremo califica de \"inútil\" el alto el fuego",
+          "dek": "El Comando Central atacó instalaciones militares, de defensa aérea y redes de comunicaciones; Mojtaba Khamenei —sucesor de su padre, muerto en los ataques— declaró que cualquier cese al fuego carece de valor.",
+          "more": "Irán suspendió el 18 de julio sus compromisos bajo el memorando de entendimiento que había puesto fin a la primera ronda de hostilidades. El Ministerio de Salud iraní reporta al menos 50 muertos desde la reanudación de los ataques. La Guardia Revolucionaria afirma haber interceptado un dron MQ-9 estadounidense. Como represalia, Teherán lanzó misiles y drones contra bases de EE.UU. en el Golfo Pérsico. Legisladores demócratas en el Congreso impulsan una resolución para limitar los poderes de guerra de Trump contra Irán.",
+          "source": "https://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes",
+          "imgPrompt": "US military aircraft releasing bombs over Iranian military installations at night, orange flames and smoke near a coastal defense facility, Persian Gulf dark coastline in the background"
+        },
+        {
+          "eyebrow": "Guerra en Ucrania",
+          "title": "Ucrania lanza 400 drones sobre Moscú y Rusia responde con misiles contra los puertos de Odesa",
+          "dek": "El masivo ataque nocturno ucraniano alcanzó un depósito de petróleo y un centro logístico en la región de Moscú; las fuerzas rusas respondieron con misiles de precisión y drones kamikaze contra infraestructura portuaria en Odesa.",
+          "more": "Las defensas aéreas rusas interceptaron 381 de los drones ucranianos disparados sobre diversas provincias. Zelenskyy informó que sus fuerzas también atacaron dos buques de la \"flota fantasma\" y cuatro cargueros en el Mar Negro para degradar la capacidad rusa de eludir las sanciones petroleras. Los ataques cruzados de la víspera dejaron al menos 16 muertos en ambos países. Rusia lanzó además 94 drones de largo alcance sobre territorio ucraniano durante la noche.",
+          "source": "https://www.euronews.com/2026/07/20/ukraine-fires-400-drones-at-moscow-as-russia-steps-up-ballistic-missile-attacks",
+          "imgPrompt": "Ukrainian military drone launch operation at night, multiple attack drones taking off from a field, dark sky with distant fire and smoke on the horizon, military operators in the foreground"
+        },
+        {
+          "eyebrow": "Reino Unido",
+          "title": "Andy Burnham asume hoy como primer ministro británico tras reunirse con el rey Carlos III",
+          "dek": "El exalcalde de Manchester reemplaza a Keir Starmer, que renunció en junio; fue elegido líder laborista con el apoyo de 379 de los 403 diputados de su partido.",
+          "more": "Burnham llega al poder con la promesa de devolver la esperanza a los británicos, golpeados por el deterioro de los servicios públicos, la desigualdad regional y el descontento con la gestión de la inmigración. Es considerado más popular y hábil políticamente que su antecesor, aunque ha dado pocos detalles sobre sus planes de gobierno. Se convierte en el séptimo primer ministro del Reino Unido en una sola década.",
+          "source": "https://www.ksat.com/news/world/2026/07/20/andy-burnham-will-become-uk-prime-minister-after-a-meeting-with-king-charles-iii/",
+          "imgPrompt": "Andy Burnham arriving at 10 Downing Street in formal suit, press photographers and television cameras lining the street, British flag above the iconic black door, daylight"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "Un tribunal de Nueva York sentencia hoy a cadena perpetua a Ismael \"El Mayo\" Zambada, cofundador del Cártel de Sinaloa",
+          "dek": "El capo mexicano de 76 años escucha la condena ante el juez Brian Cogan en Brooklyn; la fiscalía solicitó además el decomiso de 15 mil millones de dólares.",
+          "more": "Zambada se declaró culpable en agosto de 2025 de encabezar una empresa criminal continua bajo la ley RICO y de narcotráfico. Fue detenido en julio de 2024 tras aterrizar en Nuevo México junto a Joaquín Guzmán López, hijo de \"El Chapo\". Su defensa pidió que sea enviado a un centro penitenciario con servicios médicos adecuados. Con esta condena cierra un proceso judicial que pone fin a cinco décadas de liderazgo del cartel más poderoso de México.",
+          "source": "https://www.infobae.com/mexico/2026/07/20/la-ultima-aparicion-publica-de-el-mayo-zambada-que-pasara-hoy-en-su-audiencia-de-sentencia-en-eeuu/",
+          "imgPrompt": "exterior of a federal courthouse in Brooklyn New York, security barriers and media television vans parked outside, American flag on the building facade, clear daytime sky"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Sánchez visita Argelia en su primer viaje al país en seis años para sellar la reconciliación bilateral",
+          "dek": "El presidente español se reúne con el mandatario Abdelmayid Tebboune con el objetivo de ampliar el suministro de gas argelino y reencauzar una relación dañada por la disputa sobre el Sáhara Occidental.",
+          "more": "La agenda incluye también la gestión de la inmigración irregular y nuevas oportunidades de inversión para empresas españolas. España estuvo sin acceso al gas argelino a través del gasoducto Magreb-Europa durante el período más álgido de la crisis, que estalló en 2022 tras el respaldo español al plan de autonomía marroquí para el Sáhara. Sánchez está acompañado por el ministro de Exteriores, José Manuel Albares, y la vicepresidenta tercera, Sara Aagesen.",
+          "source": "https://www.infobae.com/espana/agencias/2026/07/20/sanchez-sellara-la-plena-reconciliacion-con-argelia-con-el-gas-como-pieza-clave-bilateral/",
+          "imgPrompt": "Pedro Sánchez and Algerian president Tebboune at an official bilateral meeting, Spanish and Algerian flags flanking a formal conference table, government officials seated in a ceremonial room"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Irán",
+          "title": "Irán responde a los bombardeos con ataques a bases estadounidenses en el Golfo Pérsico",
+          "dek": "Teherán lanzó misiles y drones contra instalaciones militares de EE.UU. en la región mientras el nuevo líder supremo Mojtaba Khamenei rechaza cualquier negociación de cese al fuego.",
+          "source": "https://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes"
+        },
+        {
+          "eyebrow": "Incendios en España",
+          "title": "Incendios forestales consumen más de 15.000 hectáreas en Zaragoza y 13.000 en Guadalajara",
+          "dek": "Las llamas forzaron la evacuación de varios municipios en ambas provincias; la magnitud de los focos dificultó las tareas de extinción y obligó a desplazar a cientos de residentes.",
+          "source": "https://www.eldiario.es/sociedad/ultima-hora-incendios-espana-incendio-cinco-villas-supera-15-000-hectareas_133_13389919.html"
+        },
+        {
+          "eyebrow": "Patrimonio Mundial",
+          "title": "La UNESCO examina en Busan 30 candidaturas para incorporar a la Lista del Patrimonio Mundial",
+          "dek": "El Comité del Patrimonio Mundial celebra su 48ª sesión anual en la ciudad surcoreana, donde decidirá qué nuevos sitios pasan a ser bienes protegidos de la humanidad.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/20/lunes-20-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Kiev también atacó buques de la \"flota fantasma\" rusa y cargueros en el Mar Negro",
+          "dek": "Zelenskyy confirmó que la operación apunta a degradar la capacidad naviera con la que Rusia elude sanciones internacionales sobre el petróleo.",
+          "source": "https://www.euronews.com/2026/07/20/ukraine-fires-400-drones-at-moscow-as-russia-steps-up-ballistic-missile-attacks"
+        },
+        {
+          "eyebrow": "EE.UU.",
+          "title": "La esposa del vicepresidente JD Vance dio a luz al cuarto hijo de la pareja, un varón",
+          "dek": "El propio Vance anunció el nacimiento el domingo mientras aún se disputaba la final del Mundial en Nueva Jersey.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/20/lunes-20-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "India",
+          "title": "El movimiento 'Partido de las Cucarachas' marcha hasta el Parlamento para exigir la renuncia del ministro de Educación",
+          "dek": "Semanas de protestas y huelgas de hambre culminaron en una marcha pacífica hasta Nueva Delhi; el nombre es una sátira política contra la clase dirigente india.",
+          "source": "https://lapatilla.com/2026/07/19/portadas-de-la-prensa-internacional-de-este-lunes-20-de-julio-de-2026/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia climática",
+          "title": "Un nuevo sistema frontal descarga lluvia sobre Chile este lunes y un río atmosférico llega el martes: el temporal ya suma cinco muertos",
+          "dek": "El primer frente de la semana dejará entre 25 y 35 milímetros en Santiago durante la mañana; Valparaíso recibirá más de 50 mm con vientos de hasta 57 km/h. El martes llega un segundo sistema como \"río atmosférico de categoría 1\". El balance del temporal acumula cinco muertos, 5.400 viviendas dañadas y 1.181 personas aisladas.",
+          "more": "El número de hogares sin electricidad bajó de 400.000 a 153.000 a medida que avanzan los equipos de reposición, con Valparaíso aún como la región más afectada (78.000 hogares). SENAPRED mantiene alertas vigentes en varias regiones. El segundo sistema frontal del martes traerá entre 10 y 15 mm adicionales en la capital antes de que el tiempo comience a mejorar paulatinamente desde mediados de semana. Las autoridades llaman a extremar precauciones ante la acumulación consecutiva de precipitaciones.",
+          "source": "https://www.latercera.com/servicios/noticia/sistema-frontal-revisa-las-regiones-que-seguiran-con-lluvias-y-fuertes-vientos-este-lunes/",
+          "imgPrompt": "heavy rain falling on flooded streets in Santiago Chile on a winter morning, commuters with umbrellas walking through large puddles, gray overcast sky, buses and cars in wet urban setting"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La oposición presenta hoy su requerimiento al Tribunal Constitucional contra la megarreforma",
+          "dek": "Los senadores de izquierda ingresan la impugnación con las 13 firmas mínimas requeridas, centrando el recurso en los artículos de invariabilidad tributaria y las Resoluciones de Calificación Ambiental.",
+          "more": "Los dos ejes del requerimiento son la cláusula de invariabilidad tributaria para grandes inversiones —que la oposición considera inconstitucional— y la incorporación de normas sobre Resoluciones de Calificación Ambiental (RCA). Si el TC acoge el recurso a trámite, la promulgación del proyecto quedará suspendida hasta el fallo. El senador De Urresti (PS) encabeza la presentación. La oposición planea presentar recursos adicionales sobre otras normas aunque el TC rechace este primer requerimiento.",
+          "source": "https://www.theclinic.cl/2026/07/17/el-plazo-que-fijo-la-izquierda-para-recurrir-al-tc-por-la-megarreforma-y-cuales-son-las-materias-a-impugnar/",
+          "imgPrompt": "exterior of Chile's Constitutional Tribunal building in Santiago, formal judicial architecture with columns and Chilean coat of arms, national flag flying, clear winter daylight"
+        },
+        {
+          "eyebrow": "Congreso",
+          "title": "La Cámara de Diputados inicia la semana con el tercer trámite de la megarreforma y el PDG otra vez como factor decisivo",
+          "dek": "Los diputados revisarán los cambios introducidos por el Senado; si los ratifican, la ley queda lista para promulgarse, pero la bancada de cuatro diputados de Demócratas Globales sigue siendo el pivote entre el oficialismo y la oposición.",
+          "more": "El gobierno espera que la Cámara apruebe el proyecto por un margen mayor que el del Senado, donde pasó de justeza con 26-24. Los ejes intactos de la reforma incluyen la rebaja del impuesto corporativo del 27% al 23%, la exención de contribuciones de bienes raíces para mayores de 65 años y un nuevo régimen de invariabilidad tributaria para inversiones. Si los diputados rechazan alguno de los cambios del Senado, se formará una comisión mixta para resolver las diferencias.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/16/lo-que-debes-saber-megarreforma-vuelve-a-la-camara-con-ajustes-clave-y-reservas-de-constitucionalidad.shtml",
+          "imgPrompt": "Chilean Chamber of Deputies session in progress, lawmakers at their assigned desks in the semicircular hemicycle, voting display boards illuminated, Santiago congressional building interior"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España arrebató el título a Argentina y Chile cerró el torneo con la final más vista de la historia del fútbol",
+          "dek": "La Roja se impuso 1-0 en la prórroga con un gol de Ferrán Torres; en Chile, millones siguieron el partido por Chilevisión, muchos de ellos en bares con generadores propios por los cortes de luz del temporal.",
+          "more": "Argentina llegó a la final como el equipo más goleador del torneo con 19 goles, pero no pudo con España, la mejor defensa con apenas un gol en contra durante todo el campeonato. Enzo Fernández fue expulsado en el segundo tiempo y Argentina jugó la prórroga con diez. Para Chile, la final cerró un Mundial que el país siguió masivamente desde la primera ronda.",
+          "source": "https://www.elespanol.com/deportes/futbol/mundial/20260720/celebracion-espana-resultado-reacciones-gol-campeona-mundial-2026-directo-hoy-horario-cibeles-madrid-jugadores-fiesta-campeones-mundo/1003744326989_10.html",
+          "imgPrompt": "Chileans watching the World Cup final together in a bar, fans cheering in front of a large television screen, winter clothing and football jerseys, warm indoor lighting and excited expressions"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Temporal",
+          "title": "El gobierno decreta suspensión de clases en regiones afectadas y eleva el balance a cinco fallecidos",
+          "dek": "Las autoridades mantienen las medidas de emergencia mientras continúan las labores de rescate y la reposición del suministro eléctrico en las zonas más golpeadas.",
+          "source": "https://www.paislobo.cl/2026/07/gobierno-reporta-cinco-fallecidos.html"
+        },
+        {
+          "eyebrow": "Agua potable",
+          "title": "Cortan el agua potable en La Serena, Coquimbo, Huasco y Freirina por alta turbiedad en las redes",
+          "dek": "Las autoridades instalaron puntos de distribución para que los vecinos pudieran abastecerse; proyectaban restablecer el suministro desde el lunes en la mañana.",
+          "source": "https://www.latercera.com/servicios/noticia/sistema-frontal-revisa-las-regiones-que-seguiran-con-lluvias-y-fuertes-vientos-este-lunes/"
+        },
+        {
+          "eyebrow": "Vialidad",
+          "title": "Rutas cortadas en la zona centro-norte esperan ser despejadas esta semana si el temporal cede",
+          "dek": "El desborde de ríos y esteros interrumpió el tránsito en caminos de Coquimbo, Valparaíso y la Región Metropolitana, dejando comunidades aisladas que las autoridades priorizan para restablecer el acceso.",
+          "source": "https://www.cnnchile.com/pais/dos-nuevos-sistemas-frontales-llegan-a-santiago-desde-cuando-y-cuanto-llovera-en-la-capital/"
+        },
+        {
+          "eyebrow": "Megarreforma",
+          "title": "Gobierno confía en que la Cámara apruebe la ley por mayoría más amplia que la del Senado",
+          "dek": "El Ejecutivo defiende las rebajas tributarias, la exención de contribuciones para adultos mayores y los incentivos a la inversión como urgentes ante la debilidad de la actividad económica.",
+          "source": "https://www.latercera.com/politica/noticia/del-pdg-a-libertarios-las-dudas-que-tensionan-la-aprobacion-de-la-megarreforma-en-su-fase-final/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registró actividad sísmica habitual durante el fin de semana del temporal, sin reportes de daños adicionales",
+          "dek": "Los movimientos telúricos de las últimas 24 horas no superaron magnitud moderada y ninguno activó alertas de tsunami ni agravó la emergencia climática.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El peso chileno sigue debilitado frente al dólar mientras los mercados globales abren la semana",
+          "dek": "La divisa local se mantiene en zona de presión por el diferencial de tasas de la Reserva Federal y la debilidad de la actividad económica doméstica.",
+          "source": "https://www.bloomberglinea.com/quote/USDCLP:CUR/"
+        }
+      ]
+    }
+  }
+}
