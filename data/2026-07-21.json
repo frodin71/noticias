@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-21",
+  "dateLabel": "Martes 21 de julio de 2026",
+  "edition": "021",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Conflicto",
+          "title": "EEUU completa su décima noche de ataques sobre Irán mientras el Estrecho de Ormuz permanece cerrado",
+          "dek": "Los bombardeos alcanzaron por primera vez zonas cercanas a Teherán; Irán respondió con ataques sobre Kuwait y Jordania, y la Guardia Revolucionaria declaró cerrado el paso marítimo al comercio.",
+          "more": "Cerca de 100 militares estadounidenses resultaron heridos desde el inicio del conflicto, y tres perdieron la vida en los últimos días, lo que motivó la advertencia directa de Trump a Teherán. Kuwait interceptó 32 drones iraníes en una sola jornada; Jordania derribó misiles sobre su territorio y las sirenas de alarma sonaron en Bahréin. EEUU refuerza su presencia aérea en la región con decenas de aviones cisterna desplegados en Israel.",
+          "source": "https://www.cnn.com/2026/07/20/world/live-news/iran-war-trump",
+          "imgPrompt": "fighter jets launching from an aircraft carrier at night, explosions visible on the horizon, dark sea, military operation"
+        },
+        {
+          "eyebrow": "Reino Unido",
+          "title": "Burnham completa su gabinete y promete reconstruir el Reino Unido desde las regiones",
+          "dek": "El nuevo primer ministro laborista nombró a Ed Miliband en Exteriores, descartó a los allegados de Starmer y se convirtió en el séptimo jefe de gobierno británico en una década.",
+          "more": "Burnham, exalcalde de Manchester conocido como el 'Rey del Norte', asumió el lunes tras recibir el encargo del rey Carlos III y prometer un plan de diez años contra la crisis del costo de vida. John Healey ocupará el cargo de ministro de Finanzas; Angela Rayner vuelve al ejecutivo y Louise Haigh dirige la Oficina del Gabinete como primera secretaria de Estado.",
+          "source": "https://es.mercopress.com/2026/07/20/burnham-estrena-gobierno-en-el-reino-unido-nuevo-canciller-miliband-en-exteriores-y-un-giro-a-lo-social",
+          "imgPrompt": "a man in a dark suit giving a speech outside 10 Downing Street London, reporters and cameras, daylight"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "España es campeona del mundo por segunda vez al doblegar a Argentina 1-0 en prórroga",
+          "dek": "Ferrán Torres anotó en el minuto 106 el único gol de la final disputada en el estadio de Nueva Jersey. La Albiceleste terminó con diez hombres tras la expulsión de Enzo Fernández.",
+          "more": "La selección española, dirigida por Luis de la Fuente, conquistó su segundo título mundial dieciséis años después de Sudáfrica 2010. Argentina, con Messi como capitán, no pudo defender el campeonato obtenido en Qatar 2022. Messi cierra el torneo con doce asistencias en la historia de los Mundiales, un récord absoluto.",
+          "source": "https://cnnespanol.cnn.com/2026/07/19/deportes/live-news/espana-argentina-final-mundial-2026-en-vivo-resultado-goles-orix",
+          "imgPrompt": "Spanish soccer players celebrating with the FIFA World Cup trophy, confetti raining down, night stadium, New Jersey USA"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "El brote de ébola en el Congo supera los 930 muertos en el de más rápido crecimiento del que haya registro",
+          "dek": "En apenas dos meses se confirmaron más de 2.300 casos; el virus Bundibugyo, que afecta también a Uganda, no cuenta con vacuna ni tratamiento aprobados.",
+          "more": "Declarado el 15 de mayo en el este del Congo, el brote suma en promedio 272 casos y 111 muertes por semana, con una aceleración marcada en julio. Decenas de trabajadores sanitarios figuran entre los fallecidos. Más de 700 pacientes permanecen en aislamiento y los esfuerzos de respuesta se intensifican en las zonas de salud más afectadas.",
+          "source": "https://www.proceso.com.mx/internacional/2026/7/20/al-menos-930-personas-han-muerto-de-ebola-en-el-congo-incluyendo-decenas-de-trabajadores-sanitarios-376471.html",
+          "imgPrompt": "health workers in full protective hazmat gear treating patients in a field hospital in central Africa, Ebola response"
+        },
+        {
+          "eyebrow": "Hambre mundial",
+          "title": "La ONU advierte que 645 millones de personas padecen hambre, aunque la cifra se redujo en 2025",
+          "dek": "El informe SOFI 2026, presentado hoy en Roma, señala que el costo de una dieta saludable sigue siendo la principal barrera para erradicar la desnutrición.",
+          "more": "La FAO, el PMA, la OMS, el FIDA y la UNICEF publicaron el reporte en el marco de la 30ª sesión del Comité de Agricultura de la FAO. Pese a la leve mejoría en 2025, el ritmo de avance es insuficiente para alcanzar el objetivo de hambre cero en 2030 establecido en los ODS.",
+          "source": "https://holanews.com/onu-el-hambre-afecta-a-645-millones-de-personas-en-el-mundo-aunque-se-redujo-en-2025-2/",
+          "imgPrompt": "delegates seated at a large UN conference table in Rome, FAO headquarters interior, food security summit"
+        },
+        {
+          "eyebrow": "Desastre",
+          "title": "Venezuela supera los 5.200 muertos por los terremotos del 24 de junio y decreta siete días de duelo",
+          "dek": "Los sismos dobles de magnitud 7,2 y 7,5 siguen acumulando víctimas; organismos internacionales estiman en 50.000 la cifra de desaparecidos.",
+          "more": "La presidenta encargada Delcy Rodríguez decretó el duelo nacional. Las zonas más golpeadas son La Guaira, Caracas y el Distrito Capital, donde 6,8 millones de personas habitan el área afectada. La OMS advirtió que el número total de fallecidos seguirá aumentando a medida que avancen los trabajos de rescate. La ONU coordina la asistencia humanitaria internacional.",
+          "source": "https://es.wikipedia.org/wiki/Terremotos_de_Venezuela_de_2026",
+          "imgPrompt": "rescue workers searching through collapsed concrete buildings in Caracas Venezuela, earthquake aftermath, dust and rubble"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Atletismo",
+          "title": "El keniata Wanyonyi pulveriza el récord mundial de los 1.000 metros en la Liga Diamante de Mónaco",
+          "dek": "Emmanuel Wanyonyi corrió en 2:11,83 en el Herculis, superando un récord de 27 años que también pertenecía a Kenia.",
+          "source": "https://worldathletics.org/news/report/herculis-monaco-diamond-league-2026"
+        },
+        {
+          "eyebrow": "Mundial 2026",
+          "title": "Messi cierra el Mundial con 12 asistencias en total en Copas del Mundo, récord histórico absoluto",
+          "dek": "El capitán argentino superó a Maradona, Pelé y Neymar y distribuye esas asistencias entre seis Mundiales distintos.",
+          "source": "https://www.cronica.com.ar/depo/mundial2026/messi-alcanzo-las-10-asistencias-en-mundiales-y-sumo-otro-record-historico/"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Los hutíes anuncian un bloqueo naval a Arabia Saudita en el marco del conflicto con Irán",
+          "dek": "El grupo yemení suma presión al frente bélico en momentos en que el Estrecho de Ormuz está cortado al tráfico de petróleo.",
+          "source": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "EEUU comienza a enviar el primer cargamento de ayuda humanitaria a Cuba por 100 millones de dólares",
+          "dek": "El paquete se distribuirá a través de la Iglesia Católica y organizaciones independientes, sin intermediación del gobierno de Díaz-Canel.",
+          "source": "https://oncubanews.com/cuba-ee-uu/ayuda-de-100-millones-lista-para-distribuirse-este-mes-en-cuba-segun-funcionario-del-departamento-de-estado/"
+        },
+        {
+          "eyebrow": "Deportes",
+          "title": "República Dominicana ultima los preparativos para los Juegos Centroamericanos y del Caribe, que arrancan el 24 de julio",
+          "dek": "Los XXV Juegos se celebran en Santo Domingo hasta el 8 de agosto y reunirán a miles de deportistas de la región.",
+          "source": "https://lapatilla.com/2026/07/20/portadas-de-la-prensa-internacional-de-este-martes-21-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Conflicto",
+          "title": "Kuwait interceptó 32 drones iraníes en un solo día; Bahréin activó sirenas de alarma",
+          "dek": "La tensión en el Golfo Pérsico alcanza su punto más alto desde el inicio del conflicto, con ataques e intercepción de misiles en múltiples países.",
+          "source": "https://abcnews.com/International/live-updates/iran-live-updates-kuwait-attacked-bahrain-sounds-sirens/?id=134907987"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "Temporal histórico en el norte deja 10 muertos y 100.000 aislados; Kast decreta catástrofe con cinco días de retraso",
+          "dek": "Las regiones de Coquimbo y Atacama, inusuales para lluvias de esta magnitud, suman más de 1.100 viviendas destruidas y cuatro personas desaparecidas.",
+          "more": "El meteorológico comenzó el 15 de julio y en algunas localidades llovió en una hora lo que normalmente cae en un mes. Los ríos se desbordaron y los aluviones cortaron rutas, dejando decenas de comunidades sin acceso terrestre. Cerca de 150.000 hogares quedaron sin suministro eléctrico. El director de Senapred cifró en 2.200 las personas en situación de damnificadas.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/21/chile-declaro-el-estado-de-catastrofe-tras-un-temporal-que-dejo-al-menos-10-muertos-y-mas-de-1100-viviendas-destruidas/",
+          "imgPrompt": "flooding and mudslides in a Chilean desert town, damaged roads and bridges, emergency workers, Atacama Coquimbo region"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Críticas transversales al gobierno por su tardía y descoordinada respuesta al temporal",
+          "dek": "Parlamentarios de derecha e izquierda cuestionan que el estado de catástrofe se decretara recién el día cinco de la emergencia, y que el ministro de Defensa estuviera de viaje en Hawái.",
+          "more": "Según informes técnicos y parlamentarios, la respuesta estatal presentó una coordinación deficiente entre municipios y gobernaciones, lentitud en la toma de decisiones y una aparente priorización de la agenda legislativa por sobre la urgencia del desastre. El gobierno respondió que el ministro de Interior estuvo a cargo desde el inicio y que las medidas fueron oportunas dada la magnitud del fenómeno.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/21/lentitud-en-medio-del-desastre-tras-5-dias-de-emergencia-gobierno-decreta-estado-de-excepcion/",
+          "imgPrompt": "government officials at a press conference in Chile, serious expressions, reporters with microphones, Santiago"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Kast convoca a los diputados a aprobar la megarreforma económica en su votación de hoy en la Cámara",
+          "dek": "El proyecto, que el Senado validó el 16 de julio por el margen mínimo, rebaja el impuesto corporativo del 27% al 23% y ofrece estabilidad tributaria por 20 años a grandes inversiones.",
+          "more": "La coalición de gobierno controla la Cámara con mayoría propia, lo que hace prever una aprobación más holgada que en el Senado. El presidente Kast impulsó la aprobación del texto incluso desde el Regimiento de La Serena durante su visita a la zona catastrófica, gesto que generó nuevas críticas de opositores al mezclar la emergencia con la agenda legislativa.",
+          "source": "https://www.latercera.com/nacional/noticia/kast-llama-a-aprobar-megarreforma-en-la-camara-y-afirma-que-chile-requiere-mas-inversion-y-certeza-juridica/",
+          "imgPrompt": "interior of the Chilean Chamber of Deputies during a vote, lawmakers at their desks, Chilean flag, Santiago"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Senapred bajo la lupa: comunas de Coquimbo denuncian que el organismo tardó en responder a sus pedidos de apoyo",
+          "dek": "Municipios de ambos lados del espectro político reportaron demoras en la asistencia de la agencia de gestión de riesgos, abriendo un debate sobre la capacidad del sistema nacional de emergencias.",
+          "more": "La Alerta Roja se activó en la Región de Coquimbo, pero varios alcaldes señalaron que los recursos y el personal especializado llegaron con retraso. La dirección de Senapred defendió su actuación y argumentó que la intensidad del evento superó los parámetros históricos para esa zona geográfica.",
+          "source": "https://www.elmostrador.cl/aqui-coquimbo/2026/07/20/alerta-roja-criticas-por-lento-accionar-de-senapred/",
+          "imgPrompt": "rescue workers and volunteers distributing food and water to flood victims in a northern Chilean town, daylight"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Infraestructura",
+          "title": "Cerca de 150.000 hogares del norte siguen sin electricidad y cuatro personas permanecen desaparecidas",
+          "dek": "Los cortes de caminos dificultan el acceso a instalaciones dañadas; las empresas distribuidoras trabajan en la reposición del servicio.",
+          "source": "https://www.lanacion.com.ar/el-mundo/kast-decreta-el-estado-de-catastrofe-por-un-temporal-y-hay-casi-100000-personas-aisladas-nid20072026/"
+        },
+        {
+          "eyebrow": "Gobierno",
+          "title": "El ministro de Defensa viajó a Hawái durante los días más críticos del temporal y regresó tras el decreto de catástrofe",
+          "dek": "Fernando Barros volvió al país una vez oficializada la emergencia, sumando otro flanco de presión al gobierno de Kast.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/20/alvarado-responde-a-criticas-por-emergencia-el-gobierno-esta-tranquilo-con-las-medidas-tomadas.shtml"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Sismo de magnitud 4,1 sacudió la zona de Quintero en la madrugada del lunes",
+          "dek": "El Centro Sismológico Nacional ubicó el epicentro a 77 kilómetros de la ciudad, sin reportes de daños ni víctimas.",
+          "source": "https://www.infobae.com/noticias/2026/07/21/temblor-hoy-en-chile-se-registra-sismo-de-magnitud-41-en-quintero-este-20-de-julio/"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "Fanáticos de BTS protestan en Santiago por la cancelación de los conciertos del grupo de K-pop",
+          "dek": "Las manifestaciones se concentraron en el barrio multicultural del Parque Bustamante, con decenas de seguidores exigiendo reprogramación.",
+          "source": "https://www.mediabanco.com/pauta-mediabanco-primera-edicion-martes-21-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "El Senado ya aprobó la megarreforma con el voto mínimo; hoy le toca a la Cámara Baja ratificarla",
+          "dek": "Si la Cámara aprueba el texto sin modificaciones, la ley entrará en vigencia sin necesidad de comisión mixta.",
+          "source": "https://www.france24.com/es/minuto-a-minuto/20260716-el-senado-aprueba-la-megarreforma-econ%C3%B3mica-de-kast-en-chile"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El Banco Central proyecta un crecimiento del 2,3% para Chile en 2026, apoyado en la minería del cobre",
+          "dek": "La baja recaudación tributaria no minera sigue como factor de alerta para las finanzas públicas a mediano plazo.",
+          "source": "https://noticiaclave.cl/economia-chilena-2026-crecimiento-recaudacion/"
+        }
+      ]
+    }
+  }
+}
