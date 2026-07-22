@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-22",
+  "dateLabel": "Miércoles 22 de julio de 2026",
+  "edition": "022",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Conflicto",
+          "title": "Rubio advierte en la cumbre de la ASEAN que el control iraní del Estrecho de Ormuz amenaza la economía global",
+          "dek": "El secretario de Estado participó en la reunión de cancilleres en Manila mientras Irán lanzaba nuevos drones contra la base Camp Doha en Kuwait; los países asiáticos exigen la reapertura inmediata del estrecho.",
+          "more": "Rubio reafirmó que Washington está dispuesto a negociar con Teherán, pero acusó a Irán de no tomarse en serio las conversaciones y de incumplir compromisos previos. Los cancilleres de la ASEAN emitieron una declaración conjunta llamando al cese inmediato de las hostilidades; el Sureste Asiático, con más de 680 millones de personas, depende del petróleo del Golfo y ha sido golpeado duramente por los efectos energéticos del conflicto. Kuwait, Bahréin y Jordania informaron la intercepción de nuevos ataques aéreos iraníes durante la jornada del miércoles.",
+          "source": "https://www.usnews.com/news/world/articles/2026-07-22/irans-demands-over-the-strait-of-hormuz-would-set-a-dangerous-precedent-rubio-tells-asean-leaders",
+          "imgPrompt": "US Secretary of State at an ASEAN foreign ministers summit in Manila Philippines, large conference room, Asian flags, serious diplomatic atmosphere"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Zelensky destituye al general Syrskyi y nombra a Drapatyi como nuevo comandante en jefe del ejército",
+          "dek": "El relevo llega tras varios días de protestas en ciudades ucranianas que exigían la salida del jefe militar y la restitución del ministro de Defensa Fedorov, destituido en enero tras alertar de sus conflictos con Syrskyi.",
+          "more": "Mykhailo Drapatyi, de 43 años, asume como comandante de las fuerzas combinadas y reemplaza a Syrskyi, quien había sido designado en febrero de 2024 en sustitución de Zaluzhnyi. Fedorov había denunciado públicamente sus fricciones con Syrskyi y pedido su remoción, pero Zelensky lo rechazó en su momento; su propio despido como ministro de Defensa encendió las protestas que terminaron por forzar el cambio de mando. Zelensky agradeció a Syrskyi por defender Kyiv y dirigir múltiples operaciones ofensivas.",
+          "source": "https://meduza.io/en/feature/2026/07/22/zelensky-appoints-mykhailo-drapatyi-as-ukraine-s-new-commander-in-chief-dismissing-oleksandr-syrskyi",
+          "imgPrompt": "Ukrainian president at a military headquarters flanked by generals in uniform, Ukrainian flag, serious expressions, command room"
+        },
+        {
+          "eyebrow": "Economía global",
+          "title": "El FMI rebaja al 3% su previsión de crecimiento mundial para 2026 por el impacto de la guerra en Oriente Medio",
+          "dek": "El organismo advierte que el conflicto actúa como un choque negativo de oferta que encarece la energía y bloquea rutas comerciales clave; la inteligencia artificial emerge como principal factor compensatorio.",
+          "more": "El Fondo revisó al alza su proyección de inflación y estimó que el comercio mundial se desacelerará del 5% de crecimiento en 2025 al 3,5% en 2026. Las economías importadoras de energía son las más vulnerables; las integradas a cadenas tecnológicas globales pueden compensar parcialmente vía productividad impulsada por IA. La proyección de crecimiento para 2027 se mantiene en 3,4%.",
+          "source": "https://www.imf.org/es/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026",
+          "imgPrompt": "IMF headquarters building in Washington DC, wide shot, daylight, large institutional facade with flags"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "Trabajadores de un centro de tratamiento de ébola en el Congo van a huelga por salarios impagos mientras el brote supera los 930 muertos",
+          "dek": "El paro en el noreste del Congo se declara en plena epidemia de virus Bundibugyo, la de más rápido crecimiento registrada, con 2.344 casos confirmados y sin vacuna ni tratamiento aprobados.",
+          "more": "La huelga por bonificaciones y sueldos atrasados amenaza con agravar una crisis sanitaria que la OMS ya declaró emergencia de salud pública internacional en mayo. El lunes se registraron 37 nuevas muertes en 24 horas, uno de los balances más altos desde el inicio del brote. El virus afecta también a Uganda y las zonas remotas del este del Congo dificultan el acceso de los equipos de respuesta.",
+          "source": "https://www.proceso.com.mx/internacional/2026/7/20/al-menos-930-personas-han-muerto-de-ebola-en-el-congo-incluyendo-decenas-de-trabajadores-sanitarios-376471.html",
+          "imgPrompt": "health workers in full protective hazmat suits at an Ebola treatment center in northeastern Congo Africa, crisis response, field hospital"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Rusia-Ucrania",
+          "title": "Ucranianos compran libros y donan fondos para reconstruir editoriales tras ataque ruso que destruyó 1,5 millones de volúmenes",
+          "dek": "Un bombardeo arrasó con importantes imprentas del país; la respuesta ciudadana de solidaridad busca preservar el patrimonio editorial ucraniano.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/22/miercoles-22-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "El Louvre reabre la Galería de Apolo sin las Joyas de la Corona robadas hace nueve meses",
+          "dek": "El icónico recinto de París volvió a abrir sus puertas con la galería vaciada de sus piezas más valiosas, que permanecen desaparecidas tras el robo.",
+          "source": "https://www.euronews.com/video/2026/07/22/latest-news-bulletin-july-22nd-2026-midday"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El S&P 500 repuntó 0,89% y cortó una racha de tres bajas impulsado por los semiconductores",
+          "dek": "El índice cerró cerca de los 7.509 puntos; el barril Brent trepó a 91,24 dólares por las amenazas hutíes y la tensión en el Estrecho de Ormuz.",
+          "source": "https://www.riotimesonline.com/global-economy-briefing-july-22-2026/"
+        },
+        {
+          "eyebrow": "Espacial",
+          "title": "La NASA avanza en una misión inédita para rescatar el telescopio Swift y evitar su reentrada descontrolada",
+          "dek": "El organismo busca salvar la nave espacial cuya caída incontrolada sobre la Tierra está prevista para finales de este año, en una operación sin precedentes.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/22/miercoles-22-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "La FIL Lima inaugura su trigésima edición con Ecuador como país invitado de honor",
+          "dek": "La Feria Internacional del Libro de Lima, una de las mayores de América Latina, abre con un extenso programa cultural y editorial.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/22/miercoles-22-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Asia",
+          "title": "Japón endurece las visas de negocios y deja al borde del cierre a restaurantes extranjeros con décadas de historia",
+          "dek": "La nueva normativa hundió el 96% de las solicitudes en los meses anteriores y amenaza con alterar el tejido comercial extranjero arraigado en el país.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/22/miercoles-22-de-julio-de-2026-0700-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "El temporal alcanza Valparaíso: alerta roja por riesgo de aluviones del Aconcagua y clases suspendidas en la región",
+          "dek": "Un nuevo frente frontal llegó a la zona central mientras el norte suma 13 muertos, cuatro desaparecidos y más de 104.000 personas aisladas; Limache, Quintero, Concón y Quillota enfrentan riesgo crítico.",
+          "more": "La Dirección General de Aguas reportó un incremento sostenido del caudal del río Aconcagua que motivó la alerta roja en cuatro comunas de Valparaíso. Entre la noche del martes y la madrugada del miércoles se acumularon entre 23 y 61 milímetros de lluvia en distintos sectores de la región. La Ruta F-30-E en Puchuncaví y el camino Los Pinos en Reñaca quedaron cortados por socavones. En todo el país suman 2.281 damnificados, 1.031 personas en albergues y más de 150.000 hogares sin suministro eléctrico.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/22/temporal-en-chile-las-autoridades-decretaron-alerta-roja-y-suspendieron-clases-en-valparaiso/",
+          "imgPrompt": "flooded streets in a Chilean coastal city, mud and debris, hillside neighborhood, emergency workers in orange vests, overcast sky"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La Cámara aprueba la megarreforma de Kast por 85 votos a 59; un artículo va a comisión mixta",
+          "dek": "El proyecto, que rebaja el impuesto corporativo del 27% al 23% y otorga estabilidad tributaria por 20 años a grandes inversiones, supera su etapa más importante y queda a un paso de convertirse en ley.",
+          "more": "Un artículo sobre compensaciones municipales deberá resolverse en una comisión mixta entre la Cámara y el Senado antes de que el texto sea promulgado. La Cámara respaldó el proyecto con mayor margen que el Senado, que lo había aprobado la madrugada del 16 de julio por el mínimo. El gobierno celebró el resultado como la victoria legislativa más relevante desde que Kast asumió en marzo. Kast sostuvo que la norma acercará la carga tributaria de Chile al promedio de los países de la OCDE.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/22/chile-dio-luz-verde-a-la-reforma-de-kast-bajan-los-impuestos-a-las-empresas-y-se-congela-la-carga-fiscal-para-grandes-inversiones/",
+          "imgPrompt": "Chilean Chamber of Deputies in session during a key vote, lawmakers at their desks raising hands, Chilean flag, Santiago"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "La oposición tilda la megarreforma de \"caballo de Troya\" que beneficia al 1% más rico y reduce el gasto social",
+          "dek": "Diputados de izquierda y centroizquierda acusaron en el debate de hoy que la norma reduce el financiamiento de salud, educación y pensiones para favorecer a las grandes corporaciones.",
+          "more": "Los parlamentarios opositores argumentaron que la reducción del impuesto corporativo del 27% al 23% priorizará a empresas de gran tamaño en detrimento de la recaudación que financia programas sociales. Señalaron además que el bloqueo tributario a las grandes inversiones por 20 años limita la capacidad del Estado de ajustar su política fiscal ante eventuales crisis. El gobierno rebatió que la medida busca atraer inversión y reactivar una economía que acumula trimestres de bajo crecimiento.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/22/diputados-de-oposicion-califican-megarreforma-como-caballo-de-troya-que-beneficia-al-1-mas-rico.shtml",
+          "imgPrompt": "opposition lawmakers speaking at microphones in the Chilean Chamber of Deputies, serious debate, legislators at podium"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Sismo de magnitud 5,0 sacudió la madrugada del martes la localidad de Cuya, en la Región de Tarapacá",
+          "dek": "El movimiento telúrico se registró a las 22:03 horas del martes a 32 kilómetros de profundidad, según el Centro Sismológico Nacional, sin reportes de víctimas ni daños materiales significativos.",
+          "more": "",
+          "source": "https://www.infobae.com/noticias/2026/07/22/temblor-en-chile-se-registra-sismo-de-magnitud-5-con-epicentro-en-cuya/",
+          "imgPrompt": "northern Chile Atacama desert landscape at night, remote seismic monitoring station, starry sky, arid terrain"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "DGA reporta incremento sostenido del caudal del Aconcagua; comunas ribereñas activan planes de evacuación preventiva",
+          "dek": "Las autoridades monitorean el río en tiempo real; el riesgo de desborde mantiene en alerta a miles de vecinos en Quillota y sus alrededores.",
+          "source": "https://www.latercera.com/nacional/noticia/declaran-alerta-roja-para-la-region-de-valparaiso-por-sistema-frontal/"
+        },
+        {
+          "eyebrow": "Educación",
+          "title": "Clases suspendidas este miércoles en Valparaíso por alerta roja ante posible desborde del Aconcagua",
+          "dek": "Las autoridades regionales decretaron la suspensión preventiva para resguardar la seguridad de los estudiantes ante el riesgo hídrico en la región.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/22/temporal-en-chile-las-autoridades-decretaron-alerta-roja-y-suspendieron-clases-en-valparaiso/"
+        },
+        {
+          "eyebrow": "Norte",
+          "title": "Más de 104.000 personas siguen aisladas en la zona de catástrofe y 150.000 hogares permanecen sin electricidad",
+          "dek": "El norte del país acumula cuatro desaparecidos, más de 2.800 viviendas dañadas o destruidas y 1.031 damnificados en albergues de emergencia.",
+          "source": "https://www.mdzol.com/mundo/temporal-chile-sube-cuatro-el-numero-fallecidos-y-declararon-alerta-roja-valparaiso-n1568325"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "Artículo sobre compensaciones municipales impide la promulgación inmediata de la megarreforma",
+          "dek": "El punto en disputa debe resolverse en una comisión mixta entre la Cámara y el Senado; el núcleo del proyecto ya está despachado.",
+          "source": "https://www.latercera.com/politica/noticia/megarreforma-es-despachada-en-tercer-tramite-en-la-camara-y-pasa-a-comision-mixta/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El Congreso aprueba la megarreforma: Chile reducirá su impuesto corporativo al nivel promedio de la OCDE",
+          "dek": "La tasa bajará del 27% al 23% en forma gradual hacia 2029 y grandes proyectos de inversión tendrán estabilidad tributaria garantizada por dos décadas.",
+          "source": "https://www.elfinancierocr.com/internacionales/el-congreso-de-chile-aprueba-megarreforma/3SUEMVUMMVH7PN53J6UGCFIDPA/story/"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Senado cita a ministros del Interior y de Obras Públicas a explicar la gestión de la emergencia ante la comisión de Constitución",
+          "dek": "Los legisladores buscan establecer responsabilidades en la respuesta tardía al temporal que afecta al país desde el 15 de julio.",
+          "source": "https://www.24horas.cl/actualidad/politica/camara-aprueba-megarreforma-pero-envia-a-comision-mixta-votos"
+        }
+      ]
+    }
+  }
+}
