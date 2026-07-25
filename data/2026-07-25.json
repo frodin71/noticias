@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-25",
+  "dateLabel": "Sábado 25 de julio de 2026",
+  "edition": "025",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Guerra en Oriente Medio",
+          "title": "Trump amenaza con un 'ataque masivo' a Irán mientras los hutíes hunden petroleros saudíes y el crudo supera los 100 dólares",
+          "dek": "Los hutíes bloquearon el Mar Rojo y atacaron dos tanqueros de Saudi Aramco, empujando el barril a su mayor nivel en años. Trump declaró que evalúa una ofensiva 'más grande que nunca' y responsabilizó a Teherán por los ataques yemeníes.",
+          "more": "Estados Unidos lleva más de trece noches consecutivas de bombardeos sobre objetivos militares iraníes, incluyendo la provincia de Sistán y Baluchistán. El Pentágono reconoce cerca de 100 militares heridos y el secretario de Defensa Pete Hegseth cifró el costo de la campaña en 37.500 millones de dólares. Arabia Saudita suspendió temporalmente sus envíos de crudo por el estrecho de Bab el-Mandeb. Irán rechazó una tregua de diez días propuesta por mediadores iraquíes. Los hutíes también lanzaron cinco ataques contra la refinería de Saudi Aramco. En Irán, el precio de los alimentos se ha triplicado desde el inicio del conflicto.",
+          "source": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+          "imgPrompt": "oil tanker on fire at sea in the Red Sea, thick black smoke billowing from the burning vessel, sunset light reflecting on the water, naval patrol boats circling nearby"
+        },
+        {
+          "eyebrow": "India",
+          "title": "Modi rompe su silencio ante la 'Revolución de las Cucarachas' y promete castigos severos",
+          "dek": "El primer ministro respondió por primera vez a las protestas masivas que sacuden al país tras la filtración del examen de Medicina. El líder opositor Rahul Gandhi fue detenido brevemente frente a su residencia.",
+          "more": "El movimiento Cockroach Janta Party surgió en redes sociales y se convirtió en la mayor amenaza política interna de Modi en años. El detonante fue la anulación del examen nacional NEET-UG por una filtración masiva que dejó a miles de aspirantes en el limbo. Jóvenes tomaron el centro de Nueva Delhi, Bombay, Bangalore y Calcuta. El 21 de julio, Gandhi se sentó frente a la residencia de Modi exigiendo la dimisión del premier y sus ministros de Interior y Educación; fue detenido junto a decenas de manifestantes. La policía utilizó porras y gases lacrimógenos, y más de 150 personas requirieron atención médica.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/23/narendra-modi-prometio-castigos-severos-tras-la-filtracion-de-examenes-que-desato-las-protestas-del-movimiento-cucaracha-en-india/",
+          "imgPrompt": "massive street protest in India with thousands of young people marching through a wide urban avenue, colorful signs held high, police line visible in the background, New Delhi daytime"
+        },
+        {
+          "eyebrow": "Espacio",
+          "title": "SpaceX logra el amerizaje más suave de la historia del Starship en su decimotercer vuelo",
+          "dek": "El cohete más grande jamás construido despegó este viernes desde Boca Chica y cumplió todos los objetivos: desplegó los primeros 20 satélites Starlink V3, encendió un motor en el vacío y acuatizó con una suavidad sin precedentes en el Índico.",
+          "more": "El lanzamiento se realizó a las 18:51 EDT del viernes 24, tras dos intentos abortados el 16 y el 23 de julio por fallas en motores Raptor. SpaceX declaró estar 'over the moon' con los resultados. El propulsor Super Heavy también amerizó controlado en el Golfo de México. Los 20 satélites Starlink V3 son los primeros de una nueva generación con mayor capacidad de transmisión; la compañía planea desplegar hasta 100.000 unidades de este tipo en órbita baja. Es el primer vuelo de Starship desde que SpaceX debutó en bolsa.",
+          "source": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-makes-the-softest-splashdown-ever-after-launching-next-gen-starlink-satellites-in-flight-13-test-video",
+          "imgPrompt": "SpaceX Starship giant rocket launching from Boca Chica Texas at dusk, bright engine exhaust illuminating the flat coastal landscape, clear sky, wide angle"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "Keiko Fujimori asume la presidencia del Perú el martes en una ceremonia con reyes y presidentes de toda la región",
+          "dek": "En tres días, la primera mujer elegida por voto popular en la historia peruana tomará posesión. El rey Felipe VI de España y los presidentes de Chile, Argentina, Bolivia, Ecuador, Honduras, Panamá, Paraguay y Uruguay asistirán el 28 de julio.",
+          "more": "Keiko Fujimori venció en segunda vuelta el 7 de junio. El viernes, 60 senadores y 130 diputados juraron sus cargos en el nuevo Congreso bicameral, presidido por Fuerza Popular. Hereda un país con 193 conflictos sociales activos, alta percepción de corrupción y el peor lugar entre 69 economías en el índice IMD. El PP español, Alberto Núñez Feijóo, también viajará a Lima.",
+          "source": "https://www.biobiochile.cl/noticias/internacional/america-latina/2026/07/23/keiko-fujimori-y-la-cuenta-regresiva-para-que-asuma-en-peru-los-detalles-del-cambio-de-mando.shtml",
+          "imgPrompt": "Peruvian Congress chamber filled with legislators in formal attire during an official swearing-in ceremony, national flags and official crest visible in a semicircular hall, Lima"
+        },
+        {
+          "eyebrow": "Reino Unido",
+          "title": "Andy Burnham descarta elecciones anticipadas en su primera semana como primer ministro",
+          "dek": "El exalcalde de Mánchester asumió el cargo el 20 de julio tras ganar la elección interna laborista con el 94% de los votos de los diputados. Trump lo atacó llamando a Gran Bretaña 'un desastre empobrecido'.",
+          "more": "Es el séptimo premier británico en diez años. Burnham sucede a Keir Starmer, quien renunció el 22 de junio por falta de confianza parlamentaria. Exministro durante los gobiernos Blair y Brown, representa el ala más izquierdista del laborismo. Trump lo calificó de 'comunista'. Burnham respondió que seguirá 'sirviendo a los trabajadores británicos' y descartó convocar elecciones porque el Parlamento ya fue elegido por los ciudadanos.",
+          "source": "https://www.cnbc.com/2026/07/20/uk-prime-minister-burnham-trump-poverty-stricken-disaster.html",
+          "imgPrompt": "new UK Prime Minister speaking at a podium outside 10 Downing Street London, Union Jack flag visible, gathered press photographers, overcast sky"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Petróleo",
+          "title": "Arabia Saudita suspende sus exportaciones de crudo por el estrecho de Bab el-Mandeb",
+          "dek": "La decisión es consecuencia directa de los ataques hutíes. El cierre del paso, que conecta el Mar Rojo con el océano Índico, agrava la crisis de suministro y empuja el precio del barril.",
+          "source": "https://www.cnbc.com/2026/07/22/houthis-red-sea-bab-el-mandeb-saudi-oil-iran.html"
+        },
+        {
+          "eyebrow": "Asia",
+          "title": "Banco Mundial asciende a Filipinas a economía de ingreso medio-alto",
+          "dek": "El país superó el umbral de renta nacional bruta per cápita establecido para el año fiscal 2026, en un hito que refleja años de crecimiento sostenido del PIB.",
+          "source": "https://en.wikipedia.org/wiki/Portal:Current_events/July_2026"
+        },
+        {
+          "eyebrow": "Patrimonio",
+          "title": "UNESCO examina en Busán la candidatura de la Ribeira Sacra española y de dos teatros amazónicos de Brasil",
+          "dek": "El Comité del Patrimonio Mundial sesiona hasta el 29 de julio en Corea del Sur. España aspira a que la comarca gallego-leonesa sea reconocida por su paisaje vitivinícola y patrimonio cultural únicos.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/24/sabado-25-domingo-26-y-lunes-27-de-julio-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Los Juegos Centroamericanos y del Caribe de Santo Domingo entran en su segunda jornada",
+          "dek": "Más de 6.000 atletas de 37 naciones compiten en 40 deportes en la capital dominicana hasta el 8 de agosto.",
+          "source": "https://www.infobae.com/republica-dominicana/2026/07/23/la-ceremonia-inaugural-de-los-juegos-centroamericanos-y-del-caribe-2026-integrara-un-despliegue-tecnologico-en-santo-domingo/"
+        },
+        {
+          "eyebrow": "Asia",
+          "title": "ASEAN cierra su reunión de cancilleres en Manila con llamado multilateral a una salida diplomática al conflicto EEUU-Irán",
+          "dek": "La cita de 59 años del bloque incluyó la reunión Lavrov-Rubio y un tenso debate sobre el Mar del Sur de China; concluyó con una declaración que pide negociaciones urgentes.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/24/viernes-24-de-julio-de-2026-0700-gmt/"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "Cáritas Venezuela despliega red humanitaria nacional tras los devastadores terremotos del 24 de junio",
+          "dek": "La organización coordina ayuda internacional para los más de 1.943 muertos y miles de damnificados que dejó la catástrofe sísmica de hace un mes.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/24/sabado-25-domingo-26-y-lunes-27-de-julio-de-2026-1930-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "Miles de familias del norte retornan a sus hogares mientras los daños del temporal superan los 700 millones de dólares",
+          "dek": "Con el frente de mal tiempo disipado, los damnificados de Coquimbo, Atacama y otras ocho regiones rescatan sus pertenencias entre el fango. Los daños casi duplicaron las primeras estimaciones del gobierno.",
+          "more": "Los perjuicios totales ascienden a más de 700 millones de dólares, distribuidos entre infraestructura (US$400 M), viviendas (US$200 M) y sectores productivos. El temporal dejó 13 muertos, 24.459 viviendas afectadas y al menos 63.000 personas aisladas en su peor momento. Los 3.664 damnificados formales siguen en refugios. Expertos advierten que la reconstrucción tomará al menos un año y alertan sobre los 'riesgos ocultos' de procesos apresurados en zonas donde predominan el adobe y la quincha. Las zonas bajo estado de catástrofe mantienen presencia militar.",
+          "source": "https://www.latercera.com/pulso/noticia/danos-en-infraestructura-viviendas-y-sectores-productivos-suben-a-mas-de-us700-millones-por-efectos-del-temporal/",
+          "imgPrompt": "Chilean family sifting through mud and debris of a damaged home in a northern Chilean town, orange-vested rescuers helping nearby, destroyed furniture visible, overcast sky, wide shot"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Bachelet se planta como 'líder probada' en el primer debate entre los seis candidatos a la Secretaría General de la ONU",
+          "dek": "La ex presidenta chilena participó el jueves en la Asamblea General de Nueva York y confrontó a sus cinco rivales. Los straw polls del Consejo de Seguridad comienzan el miércoles 30 de julio.",
+          "more": "Bachelet declaró que 'ha llegado el momento de que una mujer esté al timón' y apeló a sus dos mandatos presidenciales, su gestión como ministra de Defensa y Salud, y su rol como alta comisionada de DDHH de la ONU. El gobierno de Kast le retiró el respaldo que Boric le había prometido; la candidatura avanza gracias al apoyo de México y Brasil. De ganar, sería la primera mujer latinoamericana al frente de la ONU en sus 80 años de historia.",
+          "source": "https://www.theclinic.cl/2026/07/23/soy-una-lider-probada-michelle-bachelet-enfrenta-su-primer-debate-con-los-cinco-contendores-para-la-secretaria-general-de-la-onu/",
+          "imgPrompt": "Michelle Bachelet speaking confidently at a United Nations press podium, blue UN backdrop with gold emblem, cameras flashing from the press pool, formal attire"
+        },
+        {
+          "eyebrow": "Relaciones exteriores",
+          "title": "El presidente de Corea del Sur llega el martes a Santiago en busca de litio y cobre para su industria de vehículos eléctricos",
+          "dek": "Lee Jae-myung partió este viernes en una gira de diez días por Brasil, Chile y Argentina. Con Kast buscará modernizar el Tratado de Libre Comercio bilateral e impulsar contratos de suministro de minerales críticos.",
+          "more": "Corea del Sur es el cuarto socio comercial de Chile en Asia. Lee llegará a Santiago el 29 y 30 de julio. El país asiático necesita litio y cobre para su acelerado despliegue de vehículos eléctricos y sistemas de almacenamiento de energía. Chile cierra el primer semestre con exportaciones de litio casi triplicadas. Lee también buscará avanzar en un acuerdo comercial Corea-Mercosur del que Chile podría beneficiarse como asociado.",
+          "source": "https://www.biobiochile.cl/noticias/internacional/asia/2026/07/22/presidente-de-corea-del-sur-visitara-chile-para-fortalecer-inversiones-y-modernizar-el-tlc.shtml",
+          "imgPrompt": "South Korean presidential delegation at a formal airport departure ceremony, Korean and Chilean flags, suited officials, government airplane in background, daytime"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "La aprobación de Kast llega a su mínimo histórico de 28,9% en medio de la crisis económica y el impacto del temporal",
+          "dek": "Dos encuestas de julio coinciden en que la imagen presidencial está en su punto más bajo desde el inicio de la gestión, con un 56% de desaprobación. El rumbo económico y el desempleo lideran las preocupaciones ciudadanas.",
+          "more": "Según Pulso Ciudadano (Activa Research, 19 de julio), la aprobación de Kast bajó a 28,9% y la desaprobación trepó a 56,6%. La encuesta Criteria arroja cifras similares: 32% aprueba y 55% desaprueba. Los principales factores son el estancamiento económico —el PIB anota cinco meses consecutivos de caídas hasta mayo— y el desempleo, que se instaló como segunda preocupación ciudadana por primera vez en la actual administración. El gobierno atribuye parte del mal momento al impacto del temporal.",
+          "source": "https://miradasurtv.cl/encuesta-pulso-ciudadano-aprobacion-de-kast-cae-a-289-en-julio/",
+          "imgPrompt": "man reading a newspaper with economic headlines in a Santiago de Chile café, worried expression, city street visible through window, soft daylight"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Las exportaciones chilenas baten el récord semestral con US$60.000 millones impulsados por el litio, que casi triplica su valor",
+          "dek": "El primer semestre de 2026 cerró con un alza del 14,2% respecto al año anterior. Las exportaciones de litio alcanzaron US$3.218 millones, ya superando el total anual de 2025, sin que una sola tonelada provenga de los CEOL.",
+          "more": "Las exportaciones mineras crecieron un 20,4% hasta US$36.900 millones. El cobre representó el 50,1% del total exportado con US$30.200 millones. El gobierno atribuye el boom a la demanda global de minerales para vehículos eléctricos, inteligencia artificial y centros de datos. El precio del cobre se sostiene en US$5,90 por libra. El FMI recortó su proyección de crecimiento para Chile a 1,8%, exigiendo 'esfuerzos fiscales adicionales', mientras el mercado privado lo sitúa aún más abajo, en 1,3%.",
+          "source": "https://www.reporteminero.cl/noticia/noticias/2026/07/exportaciones-litio-chile-se-triplican-2026-demanda-energia",
+          "imgPrompt": "copper and lithium open pit mine in the Atacama desert Chile, heavy machinery working below, clear blue sky, vast arid landscape, aerial perspective"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Economía",
+          "title": "FMI recorta proyección del PIB de Chile a 1,8% y exige ajuste fiscal",
+          "dek": "El Fondo Monetario Internacional bajó su estimación de 2,2% a 1,8% y pide 'esfuerzos fiscales adicionales'. El mercado privado encuestado por el Banco Central proyecta solo 1,3%.",
+          "source": "https://www.latercera.com/pulso/noticia/fmi-recorta-la-proyeccion-de-crecimiento-de-chile-para-este-ano-e-insiste-con-sus-alertas-por-agenda-del-gobierno/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "42 temblores sacuden Chile en las últimas 24 horas; el mayor fue de magnitud 4,9 en Sierra Gorda",
+          "dek": "Otro sismo de 4,8 se registró en Carrizal Bajo, en la zona norte aún sensibilizada por el temporal. No hay alertas de tsunami ni reportes de daños.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Chile compite en los Juegos Centroamericanos y del Caribe de Santo Domingo con meta de récord de medallas",
+          "dek": "La delegación nacional participa en las 40 disciplinas del certamen hasta el 8 de agosto en la capital dominicana.",
+          "source": "https://www.clarosports.com/juegos-centroamericanos/sede-jjcc-2026-santo-domingo/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Fiscalía alerta que el crimen organizado en Chile se ha 'sofisticado de manera alarmante'",
+          "dek": "El informe anual concluye que el país ya no es solo un país de tránsito sino actor activo en redes globales, con estructuras casi empresariales, lavado de dinero y señales de narcoterrorismo.",
+          "source": "https://www.fiscaliadechile.cl/actualidad/noticias/nacionales/fiscalia-nacional-presenta-informe-de-crimen-organizado"
+        },
+        {
+          "eyebrow": "Previsión social",
+          "title": "La cotización adicional del empleador de la reforma previsional entra en vigor en agosto",
+          "dek": "El cargo del 0,9% con cargo al empleador —que sube al 1,5% en agosto de 2027— es la próxima etapa del calendario de la reforma de pensiones.",
+          "source": "https://blog.afpmodelo.cl/calendario-reforma-2026/"
+        },
+        {
+          "eyebrow": "Minería",
+          "title": "Exportaciones de litio chileno superan el total de 2025 sin que un gramo provenga de los CEOL",
+          "dek": "US$3.218 millones en el primer semestre de 2026 reactivan el debate sobre el modelo de desarrollo: apertura privada frente a estatización en un mercado con demanda récord.",
+          "source": "https://www.latercera.com/opinion/noticia/litio-us3218-millones-en-exportaciones-y-ni-una-tonelada-proviene-de-un-ceol/"
+        }
+      ]
+    }
+  }
+}
