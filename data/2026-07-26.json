@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-26",
+  "dateLabel": "Domingo 26 de julio de 2026",
+  "edition": "026",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Guerra EE.UU.-Irán",
+          "title": "EEUU no lanza nuevos ataques sobre Irán por primera vez en dos semanas mientras Omán media una tregua",
+          "dek": "Washington detuvo los bombardeos tras 13 noches consecutivas de strikes. Las negociaciones mediadas por Omán avanzan sobre la reapertura del Estrecho de Ormuz, y Trump dice que Teherán se está poniendo 'más serio'.",
+          "more": "Los ataques estadounidenses comenzaron el 12 de julio y se extendieron por 13 noches seguidas, costando al Pentágono más de 37.500 millones de dólares. La pausa llegó tras una reunión en la Casa Blanca donde el vicepresidente JD Vance y el jefe del Estado Mayor, general Dan Caine, advirtieron sobre los riesgos de escalar el conflicto. El precio del crudo permanece sobre los 100 dólares por barril. Los hutíes atacaron instalaciones sauditas en la costa del Mar Rojo el sábado, y Arabia Saudita respondió con bombardeos sobre objetivos en Yemen. Irán advirtió que podría verse forzado a elevar el precio del combustible subsidiado ante la presión económica de la guerra. Analistas consideran que la pausa puede marcar un giro hacia la diplomacia, aunque Trump mantiene abierta la opción de reanudar los ataques.",
+          "source": "https://abcnews.com/US/wireStory/airstrikes-paused-talks-pressing-forward-us-iran-off-135091184",
+          "imgPrompt": "aerial view of oil tankers transiting through the Strait of Hormuz, blue sea, arid coastline visible on both sides, naval patrol vessels nearby, clear daylight"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Incendios sin precedentes en España y Francia dejan 285.000 evacuados y más de 45.000 hectáreas arrasadas",
+          "dek": "El fuego en Madrid y Ávila es el peor registrado en la historia de la región y forzó el confinamiento de 63.000 personas. En Francia, Gironda y Las Landas suman más de 197.000 desplazados. Sánchez declaró emergencia nacional.",
+          "more": "El incendio en Madrid y Ávila quemó más de 45.000 hectáreas en menos de 72 horas, impulsado por temperaturas superiores a 42°C y vientos de hasta 80 km/h. El gobierno español envió medios militares y solicitó apoyo aéreo internacional. En Francia, el incendio en la Gironda destruyó 140 viviendas y forzó la salida de 167.000 personas. Pedro Sánchez señaló que en lo que va de 2026 se han quemado 150.000 hectáreas en España, seis veces el promedio de 2025, y que la temporada de incendios llegó este año con mucha mayor virulencia. Un incendio previo en Almería había dejado 13 muertos antes de ser extinguido. La ola de calor que azota la cuenca mediterránea es la más intensa registrada en julio desde que existen registros fiables.",
+          "source": "https://mvsnoticias.com/mundo/2026/7/26/golpean-incendios-a-espana-y-francia-con-285-mil-afectados-739660.html",
+          "imgPrompt": "massive wildfire burning through pine forest in Spain, enormous columns of orange and black smoke rising against blue sky, helicopter dropping water from above, panoramic landscape view"
+        },
+        {
+          "eyebrow": "Terrorismo",
+          "title": "Una furgoneta arrolla a la multitud del Pride de Berlín: una muerta, 16 heridos y el agresor prófugo",
+          "dek": "Un conductor embistió intencionalmente a los participantes del Christopher Street Day en el parque Tiergarten el sábado por la noche. La policía identificó al sospechoso como Abdul B., 21 años, vinculado a círculos islamistas berlineses.",
+          "more": "El ataque ocurrió cuando el CSD —uno de los mayores festivales LGBTQ+ de Europa— alcanzaba su punto máximo cerca de la Puerta de Brandeburgo. La furgoneta blanca arremetió a alta velocidad y se detuvo al chocar contra un árbol; el conductor huyó a pie. Varios asistentes también habrían sido apuñalados en el perímetro. La policía lanzó una alerta de búsqueda urgente, advirtiendo que el sospechoso podría estar armado y es peligroso. Las autoridades alemanas investigan el suceso como un presunto atentado terrorista. El ministro del Interior convocó una reunión de emergencia para el domingo. El ataque provocó una ola de consternación en toda Alemania y en capitales europeas.",
+          "source": "https://www.cnn.com/2026/07/25/europe/berlin-pride-car-intl-latam",
+          "imgPrompt": "emergency responders and police at a major outdoor festival scene at night in Berlin Germany, flashing blue lights of ambulances, crime scene tape, Brandenburg Gate visible in the background"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "Lima se llena de mandatarios para la asunción de Keiko Fujimori el martes: ocho presidentes y el rey Felipe VI",
+          "dek": "La primera mujer elegida presidente del Perú en 200 años de república asumirá el 28 de julio con la mayor concentración de líderes regionales de los últimos años. El presidente Kast ya confirmó su viaje.",
+          "more": "Keiko Fujimori venció en segunda vuelta el 7 de junio al candidato progresista Roberto Sánchez por casi 50.000 votos. La ceremonia se realizará en el Congreso, donde 60 senadores y 130 diputados ya juraron sus cargos la semana pasada. Fujimori hereda un país con 193 conflictos sociales activos, alta percepción de corrupción y el peor lugar entre 69 economías en el índice IMD. Los presidentes confirmados son: Milei (Argentina), Paz (Bolivia), Kast (Chile), Noboa (Ecuador), Asfura (Honduras), Mulino (Panamá), Peña (Paraguay) y Orsi (Uruguay), además del rey Felipe VI y el PP español Alberto Núñez Feijóo. Abelardo de la Espriella, presidente electo de Colombia, enviará representantes pero no asistirá.",
+          "source": "https://elcomercio.pe/politica/gobierno/toma-de-mando-de-keiko-fujimori-estos-son-los-jefes-de-estado-y-altos-dignatarios-que-asistiran-a-la-ceremonia-ultimas-noticia/",
+          "imgPrompt": "preparations underway at the Peruvian Congress building in Lima, workers placing national flags and official banners along a formal ceremonial route, colonial architecture, sunny day"
+        },
+        {
+          "eyebrow": "India",
+          "title": "El Movimiento Cucaracha abre negociaciones con el gobierno de Modi pero no detiene las protestas",
+          "dek": "Dos ministros sénior se reunieron el viernes con líderes del Cockroach Janta Party en Nueva Delhi. El activista Sonam Wangchuk puso fin a su huelga de hambre de 26 días, pero el movimiento mantiene sus movilizaciones.",
+          "more": "Las conversaciones se centraron en la filtración masiva del examen NEET-UG, que dejó a miles de aspirantes a Medicina sin posibilidad de calificación. El CJP exige la renuncia de los ministros de Interior y Educación. La reunión no arrojó acuerdos concretos; el portavoz del movimiento dijo que las marchas continuarán. Wangchuk, detenido previamente por el gobierno de Modi, comenzó su huelga el 30 de junio. Las protestas son el mayor desafío político interno para Modi desde que llegó al poder en 2014. Las movilizaciones, nacidas como protesta satírica en redes sociales, se extendieron a las principales ciudades del país y ganaron adhesión de personas de todas las edades.",
+          "source": "https://www.aljazeera.com/news/2026/7/24/indias-cockroach-leaders-hold-talks-with-govt-as-protests-continue",
+          "imgPrompt": "Indian youth protesters marching through a wide avenue in New Delhi, dense crowd holding handmade signs in Hindi and English, police line visible in the distance, daylight"
+        },
+        {
+          "eyebrow": "Colombia",
+          "title": "De la Espriella promete la mayor ofensiva militar contra el narcotráfico en décadas y celebrará su posesión en un cuartel",
+          "dek": "El presidente electo colombiano, respaldado por Trump, derrotó al candidato del Pacto Histórico el 21 de junio con el 49% de los votos. Asumirá el 7 de agosto y prometió un despliegue de las Fuerzas Armadas para recuperar el control del territorio.",
+          "more": "De la Espriella es considerado un outsider que sorprendió a las encuestas al superar a ocho candidatos en primera vuelta con el 43,7% y luego derrotar a Iván Cepeda por apenas 50.000 votos en la segunda vuelta del 21 de junio. Trump lo calificó de 'campeón de la seguridad'. Hereda un país con presencia activa de las disidencias de las FARC, el ELN y redes de cárteles mexicanos. Celebrará su investidura el 7 de agosto en una guarnición militar para honrar a las Fuerzas Armadas, en un gesto simbólico que marca el tono de su gobierno. Su fórmula vicepresidencial es José Manuel Restrepo, exministro de Comercio.",
+          "source": "https://www.eltiempo.com/politica/elecciones-colombia-2026/resultados-segunda-vuelta-presidencial-2026-siga-el-minuto-a-minuto-del-preconteo-de-la-registraduria-nacional-3565893",
+          "imgPrompt": "Colombian president-elect speaking at a victory rally in Bogotá Colombia, Colombian flags in the background, large crowd of supporters gathered in a public square, evening lights"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Los hutíes atacan instalaciones sauditas en el Mar Rojo; Arabia Saudita responde con bombardeos en Yemen",
+          "dek": "Los rebeldes yemeníes lanzaron nuevos misiles contra la costa saudita el sábado, un día después de que Riad ejecutara strikes de represalia. El ciclo de violencia complica los esfuerzos diplomáticos para un alto al fuego.",
+          "source": "https://us.cnn.com/2026/07/26/world/live-news/iran-war-trump"
+        },
+        {
+          "eyebrow": "Economía de guerra",
+          "title": "Irán evalúa subir el precio del combustible subsidiado ante el colapso económico causado por la guerra",
+          "dek": "La inflación disparada, el daño a infraestructura y las sanciones han llevado al gobierno iraní a estudiar el alza de las naftas, que permanecen entre las más baratas del mundo. La medida podría desencadenar protestas internas.",
+          "source": "https://gulfnews.com/world/mena/us-iran-conflict-apparent-airstrike-pause-as-oman-talks-advance-on-strait-of-hormuz-1.500620344"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "Cáritas Venezuela despliega red humanitaria nacional tras los devastadores terremotos del 24 de junio",
+          "dek": "La organización coordina ayuda internacional para los más de 1.943 muertos y miles de damnificados que dejó la catástrofe sísmica de hace un mes. EEUU mantiene sus buques de apoyo en las costas venezolanas.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/24/sabado-25-domingo-26-y-lunes-27-de-julio-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Segunda jornada de los Juegos Centroamericanos en Santo Domingo con más de 6.000 atletas en competencia",
+          "dek": "El certamen que reúne a 37 naciones en 40 deportes en la capital dominicana entra en su segundo día de competencias, con múltiples finales previstas para este domingo.",
+          "source": "https://www.infobae.com/republica-dominicana/2026/07/23/la-ceremonia-inaugural-de-los-juegos-centroamericanos-y-del-caribe-2026-integrara-un-despliegue-tecnologico-en-santo-domingo/"
+        },
+        {
+          "eyebrow": "Patrimonio",
+          "title": "UNESCO examina hoy en Busán la candidatura de la Ribeira Sacra española y teatros amazónicos de Brasil",
+          "dek": "El Comité del Patrimonio Mundial sesiona hasta el 29 de julio en Corea del Sur. España aspira a que la comarca gallego-leonesa sea reconocida por su paisaje vitivinícola y su patrimonio cultural únicos.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/24/sabado-25-domingo-26-y-lunes-27-de-julio-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "Crimen transnacional",
+          "title": "Informe global señala a África Occidental como hub clave del tránsito de cocaína latinoamericana hacia Europa",
+          "dek": "Según la Iniciativa Global contra el Crimen Organizado Transnacional, la región es escala crucial en el flujo de cocaína hacia los mercados europeos, con redes cada vez más sofisticadas y con vínculos directos a cárteles de la región andina.",
+          "source": "https://lapatilla.com/2026/07/25/portadas-de-la-prensa-internacional-de-este-domingo-26-de-julio-de-2026/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Reconstrucción",
+          "title": "Los damnificados del temporal siguen rescatando pertenencias del fango mientras el gobierno alista el plan de reconstrucción",
+          "dek": "Con 13 muertos, más de 4.000 viviendas destruidas o gravemente dañadas y daños que superan los 700 millones de dólares, el norte de Chile afronta meses de reconstrucción. Miles de personas permanecen en refugios.",
+          "more": "La Provincia de Coquimbo, a 460 km al norte de Santiago, concentró los mayores daños. En el peor momento del temporal, más de 100.000 personas quedaron aisladas y 150.000 perdieron el suministro eléctrico. El gobierno estudia un plan de reconstrucción que podría tomar al menos un año, con especial atención a zonas donde predominan el adobe y la quincha. Expertos advierten sobre los 'riesgos ocultos' de una reconstrucción apresurada: fallas estructurales no visibles, contaminación de suelos y riesgos de deslizamiento en zonas con pendiente. Las zonas bajo estado de catástrofe mantienen presencia militar. Los 3.664 damnificados formales registrados siguen en albergues habilitados por el gobierno.",
+          "source": "https://www.infobae.com/america/america-latina/2026/07/23/chile-inicia-la-recuperacion-tras-el-temporal-que-dejo-13-muertos-y-miles-de-viviendas-destruidas/",
+          "imgPrompt": "Chilean family and aid workers clearing thick mud from inside a damaged single-story home in a northern Chile town, destroyed furniture and debris visible outside, volunteers in orange vests, overcast sky"
+        },
+        {
+          "eyebrow": "Diplomacia multilateral",
+          "title": "Bachelet entra en etapa decisiva: el miércoles comienzan los 'straw polls' del Consejo de Seguridad de la ONU",
+          "dek": "Tras participar el jueves en el primer debate oficial entre candidatos a la Secretaría General en Nueva York, la ex presidenta chilena enfrenta esta semana las votaciones informales que históricamente definen quién lidera la ONU.",
+          "more": "Los straw polls son votaciones de prueba donde los 15 miembros del Consejo de Seguridad califican a cada candidato como 'alienta', 'desalienta' o 'sin opinión'. El resultado entre los cinco miembros permanentes —EEUU, China, Rusia, Reino Unido y Francia— es decisivo: cualquier 'desalienta' de un permanente equivale a un veto. Bachelet argumentó en el debate del jueves que 'ha llegado el momento de que una mujer esté al timón' y apeló a sus dos mandatos presidenciales y su experiencia como alta comisionada de DDHH. El gobierno de Kast no le dio el respaldo que Boric le había prometido; su candidatura avanza con el apoyo de México y Brasil. El proceso debe concluir antes del 31 de diciembre, cuando vence el mandato de Guterres.",
+          "source": "https://www.latercera.com/politica/noticia/carrera-de-bachelet-entra-en-etapa-crucial-onu-se-alista-para-primeros-straw-polls-del-consejo-de-seguridad/",
+          "imgPrompt": "Michelle Bachelet speaking at a United Nations podium in a formal conference hall in New York, UN flags and blue backdrop with gold emblem, international delegates seated in rows, cameras from press pool"
+        },
+        {
+          "eyebrow": "Política exterior",
+          "title": "Kast confirma viaje a Lima para la posesión de Keiko Fujimori el martes y refuerza el eje regional de centroderecha",
+          "dek": "El presidente chileno asistirá a la investidura de la primera mujer presidenta del Perú junto a siete jefes de Estado y el rey Felipe VI. La oposición cuestionó que abandone el país en plena emergencia del temporal.",
+          "more": "La invitación fue cursada por la propia Keiko en una videollamada con Kast tras su victoria del 7 de junio. Chile y Perú son los socios más dinámicos de la Alianza del Pacífico; los presidentes también sostendrán una reunión bilateral el martes sobre integración energética y conectividad vial. El martes 29, el presidente de Corea del Sur Lee Jae-myung llegará a Santiago para una visita de Estado de dos días, por lo que Kast deberá regresar de Lima ese mismo día. Legisladores de la oposición señalaron que el viaje envía una señal equivocada cuando miles de chilenos aún esperan soluciones en los refugios del norte.",
+          "source": "https://elperuano.pe/noticia/300099-jose-antonio-kast-confirma-viaje-a-lima-para-la-toma-de-posesion-de-keiko-fujimori",
+          "imgPrompt": "Chilean and Peruvian presidents shaking hands in front of both countries' flags at an official diplomatic meeting, suited officials, formal government setting, daylight"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "La Fiscalía confirma que el crimen organizado en Chile opera con estructuras 'casi empresariales' y señales de narcoterrorismo",
+          "dek": "El informe anual de la Fiscalía Nacional concluye que el crimen transnacional se ha 'sofisticado de manera alarmante' en la última década, con lavado de activos avanzado, compartimentación de funciones y vínculos con organizaciones globales.",
+          "more": "El informe identifica cuatro vectores principales: el narcotráfico como eje dominante; el tráfico de armas y los homicidios vinculados a él; los delitos predatorios —secuestros y extorsiones— ejecutados por bandas extranjeras; y el lavado de dinero con uso de criptomonedas y empresas fachada. Chile ha dejado de ser únicamente un país de tránsito para convertirse en un actor activo dentro de redes globales. En mayo, el gobierno convocó en Santiago una cumbre de ministros de Seguridad de Argentina, Bolivia, Ecuador, Perú y Chile para coordinar respuestas regionales. La Fiscalía alertó que el fenómeno impacta directamente en la percepción ciudadana de inseguridad, que lidera las encuestas de preocupación pública.",
+          "source": "https://interferencia.cl/articulos/se-extiende-el-crimen-organizado-en-chile-sofistica-lavado-de-dinero-diversifica-mercados-y-aparece-el-narcoterrorismo",
+          "imgPrompt": "Chilean police officers in tactical gear conducting a nighttime anti-narcotics operation in Santiago Chile, flashlights cutting through darkness, officers in formation approaching a building"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Relaciones exteriores",
+          "title": "El presidente de Corea del Sur llega el martes a Santiago: litio, cobre y modernización del TLC en la agenda",
+          "dek": "Lee Jae-myung visita Chile el 29 y 30 de julio en su gira por Brasil, Chile y Argentina. La cancillería confirmó reunión bilateral con Kast, foro empresarial y posible firma de contratos de suministro de minerales críticos.",
+          "source": "https://www.biobiochile.cl/noticias/internacional/asia/2026/07/22/presidente-de-corea-del-sur-visitara-chile-para-fortalecer-inversiones-y-modernizar-el-tlc.shtml"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "Santiago anota 27°C este domingo con cielo 100% nublado, una anomalía térmica propia del invierno más cálido en años",
+          "dek": "El pronóstico del domingo en la capital chilena es de 27°C de máxima y 14°C de mínima, sin lluvias. Meteorólogos vinculan la anomalía a la misma circulación atmosférica que provocó el temporal del norte.",
+          "source": "https://www.vlnradio.cl/noticias/nacional/region-metropolitana/2026/07/25/santiago-pronostico-del-domingo-26-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Previsión social",
+          "title": "El 1 de agosto entra en vigor la cotización adicional del 0,9% del empleador en la reforma previsional",
+          "dek": "Es el primer aumento de una serie escalonada: subirá al 1,5% en agosto de 2027 y continuará ascendiendo hasta completar los aportes establecidos por la ley de pensiones.",
+          "source": "https://blog.afpmodelo.cl/calendario-reforma-2026/"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "42 temblores sacuden Chile en las últimas 24 horas; el mayor, de magnitud 4,9, se registró en Sierra Gorda",
+          "dek": "Otro sismo de 4,8 afectó Carrizal Bajo, en la zona norte aún sensibilizada por el temporal. No hay alertas de tsunami ni reportes de daños.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Chile compite en los Juegos Centroamericanos de Santo Domingo con meta de superar el récord histórico de medallas",
+          "dek": "La delegación nacional participa en las 40 disciplinas del certamen hasta el 8 de agosto. El objetivo oficial es mejorar el medallero conseguido en la edición anterior celebrada en San Salvador.",
+          "source": "https://www.clarosports.com/juegos-centroamericanos/sede-jjcc-2026-santo-domingo/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "FMI fija en 1,8% su proyección de crecimiento para Chile en 2026 y pide esfuerzo fiscal adicional",
+          "dek": "El Fondo bajó su estimación desde el 2,2% anterior. El mercado privado, según la encuesta del Banco Central, proyecta solo un 1,3%, en medio de cinco meses consecutivos de caídas del PIB hasta mayo.",
+          "source": "https://www.latercera.com/pulso/noticia/fmi-recorta-la-proyeccion-de-crecimiento-de-chile-para-este-ano-e-insiste-con-sus-alertas-por-agenda-del-gobierno/"
+        }
+      ]
+    }
+  }
+}
