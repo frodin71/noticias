@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-27",
+  "dateLabel": "Lunes 27 de julio de 2026",
+  "edition": "027",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Guerra EE.UU.-Irán",
+          "title": "EE.UU. e Irán completan tres noches sin ataques mientras Omán intensifica la mediación sobre el Estrecho de Ormuz",
+          "dek": "Washington mantuvo la pausa en los bombardeos por tercer día consecutivo y Teherán no reactivó sus defensas activas, aunque el régimen iraní advirtió que no dejará que Trump 'decida el fin de la guerra'. Los negociadores en Mascate describen las conversaciones como las más sustanciales desde que estalló el conflicto.",
+          "more": "La tregua comenzó el viernes 25 sin ningún ataque aéreo estadounidense y se extendió por tercera noche. El embajador de EE.UU. en la ONU, Mike Waltz, declaró que Trump 'está dando espacio y tiempo a la diplomacia'. Las conversaciones en Omán se centran en los términos para reabrir el Estrecho de Ormuz, que ha permanecido virtualmente bloqueado desde que estalló el conflicto el 12 de julio. El precio del crudo cayó hacia los 97 dólares por barril ante las expectativas de acuerdo. Sin embargo, el Pentágono confirmó que mantiene portaaviones adicionales en el Golfo Pérsico. Los hutíes prosiguieron sus ataques contra instalaciones sauditas en el Mar Rojo, añadiendo presión al proceso negociador.",
+          "source": "https://www.euronews.com/2026/07/27/us-and-iran-hold-fire-for-third-night-as-talks-given-space",
+          "imgPrompt": "US Navy aircraft carrier group at dawn in calm waters near the Persian Gulf, helicopters on flight deck, escort destroyers visible in the distance, orange-pink sunrise sky"
+        },
+        {
+          "eyebrow": "Terrorismo",
+          "title": "La policía de Berlín abate al atacante del Pride tras 24 horas de búsqueda; el gobierno confirma el acto como 'terrorismo islamista'",
+          "dek": "Abdul Ballout, de 21 años y origen libanés, fue baleado por la unidad especial SEK en el distrito de Spandau cuando arremetió con un arma blanca contra los agentes. Murió en el lugar, poniendo fin a la cacería que mantuvo en vilo a la capital alemana.",
+          "more": "El sábado por la noche, Ballout había embestido con una furgoneta a los asistentes del Christopher Street Day en el Tiergarten, matando a una persona y dejando 29 heridos. Huyó a pie tras chocar contra un árbol y permaneció prófugo durante casi 24 horas. La policía lo localizó en un jardín comunitario al oeste de Berlín. El ministro del Interior Alexander Dobrindt calificó el ataque como terrorismo islamista y convocó a los responsables de seguridad de los 16 estados federales. Un ciudadano iraní, sospechoso de haber viajado como cómplice en el asiento del copiloto, permanece detenido. El incidente desencadenó un intenso debate sobre la seguridad en eventos masivos en Alemania y sobre la radicalización islamista en territorio europeo.",
+          "source": "https://www.infobae.com/america/mundo/2026/07/26/el-principal-sospechoso-del-ataque-en-la-fiesta-del-orgullo-lgbt-de-berlin-fue-abatido-por-la-policia/",
+          "imgPrompt": "German police special operations unit in full tactical gear near a park in Berlin at night, bright floodlights illuminating yellow crime scene tape, press cameras visible in the background, quiet residential area"
+        },
+        {
+          "eyebrow": "Emergencia climática",
+          "title": "El incendio de la Sierra Oeste supera las 50.000 hectáreas y se convierte en el peor de la historia de España; la extinción avanza 'positiva pero lentamente'",
+          "dek": "El fuego que une los focos de Madrid y Ávila bate todos los registros españoles. España acumula 172.000 hectáreas quemadas en 2026, seis veces más que en todo el año anterior, mientras en Francia el balance del año también es históricamente alto.",
+          "more": "Las temperaturas permanecen sobre los 40°C en las zonas afectadas y el viento del norte impide el trabajo de los medios aéreos en las laderas de la Sierra de Gredos. El gobierno español activó el mayor dispositivo de extinción de su historia con refuerzo de medios europeos. El número total de evacuados entre España y Francia supera ya los 300.000. La misma ola de calor extiende su impacto a Italia —donde Sicilia superó los 44°C el domingo— y a las Highlands escocesas, ampliando el mapa de crisis climática a toda Europa occidental.",
+          "source": "https://www.comunidad.madrid/seguridad-emergencias-asem-112/incendio-forestal-sierra-oeste-ifsierraoeste-julio-2026",
+          "imgPrompt": "aerial view of a massive wildfire burning across mountain ridges in central Spain, enormous column of black and orange smoke rising against deep blue sky, air tanker aircraft dropping red retardant in the distance"
+        },
+        {
+          "eyebrow": "Escalada",
+          "title": "Ucrania golpea por primera vez la ruta militar Rusia-Irán en el Mar Caspio; Teherán amenaza con represalias y acusa a Israel de instigar el ataque",
+          "dek": "Zelensky confirmó que sus fuerzas atacaron naves iraníes que transportaban material bélico hacia Moscú, matando a un marinero e hiriendo a otro. Irán calificó la acción de 'violación flagrante de la ONU' y convocó al encargado de negocios ucraniano.",
+          "more": "Es la primera vez que Ucrania extiende operaciones de largo alcance al Mar Caspio, el lago interior compartido por Rusia, Irán, Azerbaiyán, Kazajistán y Turkmenistán —todos hasta ahora al margen del conflicto—. Kyiv justificó el ataque argumentando que las naves formaban parte de la ruta de suministro de drones y municiones iraníes hacia Rusia, y que Moscú guiaba los ataques de Irán mediante satélites rusos. El canciller Araghchi acusó a Israel de 'instigar' a Kyiv y reservó el derecho de Teherán a tomar 'medidas de represalia'. La operación añade una nueva dimensión geopolítica a la guerra y complica la tregua que Washington e Irán intentan consolidar.",
+          "source": "https://www.ntn24.com/noticias-actualidad/regimen-de-iran-acusa-a-ucrania-de-atacar-uno-de-sus-barcos-en-el-mar-caspio-636264",
+          "imgPrompt": "Ukrainian long-range naval drone flying low over a calm vast sea at dusk, dark silhouette against orange and purple sky, open water stretching to the horizon"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "Abre en Río de Janeiro la mayor conferencia mundial sobre el sida, marcada por la peor crisis de financiamiento del programa global de VIH en décadas",
+          "dek": "AIDS 2026 reúne a más de 10.000 participantes hasta el 31 de julio bajo el lema 'Repensar. Reconstruir. Avanzar.' Los recortes de ayuda exterior de EE.UU. vaciaron fondos de prevención y tratamiento en países de bajos ingresos.",
+          "more": "La Organización Panamericana de la Salud presentará su 'vitrina del conocimiento' con evidencia científica actualizada sobre la eliminación del VIH en las Américas. El programa PEPFAR, el mayor fondo bilateral contra el sida del mundo, redujo sus desembolsos en más de un 40% en el último año fiscal. La conferencia convoca a investigadores, autoridades sanitarias, organizaciones de la sociedad civil, personas que viven con el virus y representantes de los países financiadores. Río de Janeiro fue elegida para subrayar el liderazgo de América Latina como región con avances concretos en acceso a tratamiento antirretroviral.",
+          "source": "https://sociedad-noticias.com/2026/07/23/ops-impulsa-eliminacion-del-vih-en-las-americas-durante-aids-2026/",
+          "imgPrompt": "large international health conference auditorium in Rio de Janeiro, speaker at podium in front of massive screens, audience of thousands of health professionals and researchers seated in rows, colorful conference banners overhead"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "América Latina",
+          "title": "Ocho presidentes y Felipe VI ya están en Lima para la investidura de Fujimori, que asume mañana como la primera presidenta del Perú",
+          "dek": "La ceremonia en el Congreso peruano se realizará el martes 28 de julio, Día de la Independencia. Milei, Noboa y el rey Felipe VI ya están en la capital peruana; Kast parte esta tarde desde Santiago.",
+          "source": "https://lapatilla.com/2026/07/24/keiko-fujimori-contara-con-un-fuerte-respaldo-internacional-en-su-investidura-como-presidenta-de-peru/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "La Reserva Federal de EE.UU. anuncia su decisión sobre tasas el miércoles; se espera el quinto mantenimiento consecutivo desde diciembre",
+          "dek": "Kevin Warsh preside esta semana su segunda reunión de política monetaria. Las tasas están en el rango 3,5-3,75% y ningún analista prevé cambios ante la incertidumbre del conflicto en el Golfo.",
+          "source": "https://www.jornada.com.mx/2026/07/27/economia/017n2eco"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Alemania refuerza protocolos en eventos masivos y convoca a responsables de seguridad de los 16 estados tras confirmar el atentado islamista en el Pride",
+          "dek": "El ministro del Interior Dobrindt pidió una revisión urgente de los dispositivos de protección en concentraciones públicas previstas en las próximas semanas en todo el país.",
+          "source": "https://www.canal26.com/internacionales/2026/07/26/el-gobierno-aleman-califico-el-atropello-en-la-marcha-del-orgullo-de-berlin-como-un-ataque-terrorista-islamista/"
+        },
+        {
+          "eyebrow": "India",
+          "title": "El Movimiento Cucaracha exige una segunda ronda de negociaciones con el gobierno de Modi; las marchas continúan en las grandes ciudades",
+          "dek": "El Cockroach Janta Party reclama resultados concretos del diálogo del viernes: renuncia del ministro de Educación y revisión total del sistema de exámenes universitarios NEET.",
+          "source": "https://www.aljazeera.com/news/2026/7/24/indias-cockroach-leaders-hold-talks-with-govt-as-protests-continue"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "La ola de calor extiende su alcance: incendios activos también en las Highlands escocesas y en cinco regiones de Italia",
+          "dek": "Sicilia registró 44°C el domingo, nuevo récord histórico para julio. Escocia enfrenta focos activos inusuales para la temporada. La misma circulación atmosférica que devastó España alcanza ahora el norte y el oeste del continente.",
+          "source": "https://lasillarota.com/mundo/2026/7/26/incendios-consumen-mas-110-mil-hectareas-en-espana-francia-610168.html"
+        },
+        {
+          "eyebrow": "Economía global",
+          "title": "El FMI mantiene su proyección de crecimiento mundial en 3,0% para 2026 pero advierte que la guerra penaliza desproporcionadamente a los importadores de energía",
+          "dek": "La actualización de julio del Fondo señala que los países con alta dependencia del petróleo importado enfrentan mayor inflación y menor actividad. Los países integrados en la cadena de IA son los más favorecidos.",
+          "source": "https://www.imf.org/es/publications/weo/issues/2026/07/08/world-economic-outlook-update-july-2026"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "ONU",
+          "title": "Comienza la semana decisiva para Bachelet: el miércoles arrancan los 'straw polls' del Consejo de Seguridad que históricamente definen al próximo secretario general",
+          "dek": "Los 15 miembros del Consejo votarán de forma informal calificando a cada candidato como 'alienta', 'desalienta' o 'sin opinión'. Un veto de cualquiera de los cinco miembros permanentes equivale en la práctica a la eliminación de la ex presidenta chilena.",
+          "more": "Bachelet compite contra cinco candidatos: María Fernanda Espinosa (Ecuador), Rafael Grossi (Argentina), Rebeca Grynspan (Costa Rica), Carolyn Rodrigues-Birkett (Guyana) y Macky Sall (Senegal). El gobierno de Kast retiró el respaldo formal que Boric le había prometido, pero México y Brasil sostienen activamente su candidatura. En el debate del 23 de julio, Bachelet argumentó que 'ha llegado la hora de que una mujer esté al timón' y destacó su experiencia como jefa de Estado y alta comisionada de DDHH. Los analistas consideran que la postura de EE.UU. y China —que guardan silencio público— es la incógnita central. El proceso debe concluir antes del 31 de diciembre y el ganador asumirá el 1 de enero de 2027 en reemplazo del portugués António Guterres.",
+          "source": "https://www.latercera.com/politica/noticia/carrera-de-bachelet-entra-en-etapa-crucial-onu-se-alista-para-primeros-straw-polls-del-consejo-de-seguridad/",
+          "imgPrompt": "Michelle Bachelet speaking at a United Nations podium in the General Assembly hall in New York, rows of world flags visible in the background, formal blue and gold UN setting, international delegates seated below"
+        },
+        {
+          "eyebrow": "Reconstrucción",
+          "title": "El gobierno cifra en hasta US$700 millones el daño del temporal en el norte y advierte que la recuperación total tomará dos años",
+          "dek": "El subsecretario de Obras Públicas entregó el primer balance económico oficial: la cifra incluye tanto reparar los daños del evento climático como corregir déficits históricos de infraestructura que amplificaron su impacto.",
+          "more": "En el peor momento del temporal, que se inició el 15 de julio, unas 100.000 personas quedaron aisladas y se registraron más de 16.000 viviendas dañadas en el norte. Hoy 3.664 familias permanecen en albergues habilitados por el gobierno en las regiones de Coquimbo y Atacama. El gobierno estudia un plan de viviendas de emergencia prefabricadas de corto plazo para descomprimir los albergues, y diseña en paralelo un plan de reconstrucción permanente que contemple la vulnerabilidad de las construcciones de adobe y quincha. Expertos de universidades chilenas advierten sobre los 'riesgos ocultos' de la reconstrucción apresurada: suelos contaminados, inestabilidad de laderas y fallas estructurales no visibles.",
+          "source": "https://www.t13.cl/noticia/el-tiempo/nacional/reconstruccion-tras-temporal-norte-podria-costar-hasta-us700-millones-26-7-2026",
+          "imgPrompt": "government engineers and officials reviewing infrastructure plans beside a collapsed bridge in northern Chile, dry desert landscape in the background, cracked road surface visible, workers in orange safety vests, clear sky"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Kast parte esta tarde a Lima junto al ex presidente Frei, designado embajador en misión especial; la oposición cuestiona el viaje mientras el norte sigue en emergencia",
+          "dek": "El mandatario chileno despega a las 17:00 horas para la investidura de Keiko Fujimori mañana. La presencia de Eduardo Frei Ruiz-Tagle tiene un peso simbólico: fue contemporáneo de Alberto Fujimori en los noventa, período considerado de oro en la relación bilateral.",
+          "more": "Kast y Fujimori acordaron en una videollamada el 10 de julio que la reunión bilateral de mañana se centrará en la Alianza del Pacífico, integración energética y conectividad vial. El mandatario debe regresar el mismo martes, ya que el presidente de Corea del Sur, Lee Jae-myung, arriba a Santiago esa noche para una visita de Estado de dos días. El Partido Republicano defendió el viaje como una señal de cercanía con la región; parlamentarios de oposición lo calificaron de 'prioridades equivocadas' ante la emergencia del norte.",
+          "source": "https://www.emol.com/noticias/Nacional/2026/07/27/1206630/kast-frei-cambio-presidencial-peru.html",
+          "imgPrompt": "Chilean president with official delegation walking toward a government aircraft on the tarmac at Santiago international airport, suited officials, Chilean flag on the fuselage, afternoon sunlight"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Primer semestre 2026: homicidios caen 13% en Chile, pero el crimen organizado sigue concentrando más de un tercio de las muertes violentas",
+          "dek": "Los datos de enero a junio revelan 442 víctimas fatales —65 menos que el año anterior— y una incautación récord de 51,5 toneladas de droga en seis meses, superando todo el resultado de 2025.",
+          "more": "El fiscal Juan Castro Bekios subrayó que 'seguir el dinero del crimen organizado no es una metáfora': el lavado de activos mediante criptomonedas y empresas pantalla se ha sofisticado de manera notable. El 35,3% de los homicidios está vinculado a bandas o redes transnacionales. El Ministerio del Interior destacó que la cooperación con EE.UU., formalizada mediante una enmienda al acuerdo bilateral de control de narcóticos, ha permitido incautaciones coordinadas en rutas del Pacífico. La percepción de inseguridad ciudadana, que encabezó las encuestas de preocupación pública por más de dos años, comenzó a ceder en las mediciones de julio aunque sigue siendo la segunda mayor preocupación, tras el desempleo.",
+          "source": "https://www.biobiochile.cl/noticias/entrevistas-bbcl/entrevista-nacional/2026/07/26/fiscal-juan-castro-bekios-seguir-el-dinero-del-crimen-organizado-no-es-una-metafora.shtml",
+          "imgPrompt": "Chilean Carabineros officers at a press conference in Santiago, stacks of seized drug packages and confiscated firearms displayed on a table in front, law enforcement officials at the podium, institutional backdrop"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Sismología",
+          "title": "Sismo de magnitud 5,6 sacude San Pedro de Atacama este lunes; sin alerta de tsunami ni reportes de daños",
+          "dek": "El Centro Sismológico Nacional localizó el epicentro a 78 km al suroeste de San Pedro de Atacama y a 111 km de profundidad. La zona norte sigue sensibilizada tras el temporal de la semana pasada.",
+          "source": "https://www.latercera.com/servicios/noticia/temblor-hoy-lunes-27-de-julio-en-chile-consulta-epicentro-y-magnitud/"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Chile suma sus primeras medallas en los Juegos Centroamericanos de Santo Domingo y apunta a superar su récord histórico",
+          "dek": "La delegación nacional compite en 40 disciplinas hasta el 8 de agosto en judo, ciclismo de pista, esgrima y gimnasia. México lidera el medallero general en la tercera jornada.",
+          "source": "https://revistamercado.do/empresas/sport-business/medallero-juegos-centroamericanos-2026-en-vivo/"
+        },
+        {
+          "eyebrow": "Relaciones exteriores",
+          "title": "El presidente de Corea del Sur llega mañana a Santiago para una visita de Estado de dos días centrada en litio, cobre y modernización del TLC",
+          "dek": "Lee Jae-myung arriba el martes en su gira latinoamericana. Se prevé reunión bilateral con Kast, foro empresarial y posible firma de contratos de suministro de minerales críticos.",
+          "source": "https://www.biobiochile.cl/noticias/internacional/asia/2026/07/22/presidente-de-corea-del-sur-visitara-chile-para-fortalecer-inversiones-y-modernizar-el-tlc.shtml"
+        },
+        {
+          "eyebrow": "Previsión social",
+          "title": "Quedan cuatro días para que entre en vigor la nueva Cotización con Rentabilidad Protegida del 0,9% a cargo del empleador",
+          "dek": "La CRP rige desde el 1 de agosto y se suma al 1% patronal que ya aplica desde agosto de 2025, elevando el aporte total del empleador a cerca del 2% de la remuneración imponible.",
+          "source": "https://www.latinhumancapital.com/reforma-previsional-chile-2026-rrhh-nomina/"
+        },
+        {
+          "eyebrow": "Alianza del Pacífico",
+          "title": "Kast y Fujimori sostendrán reunión bilateral en Lima sobre integración energética, conectividad vial y libre circulación en el bloque",
+          "dek": "Chile y Perú son los socios más dinámicos de la Alianza del Pacífico. La agenda incluye mecanismos de intercambio energético y proyectos de infraestructura transfronteriza.",
+          "source": "https://diariocorreo.pe/politica/jose-antonio-kast-confirma-visita-a-peru-para-la-toma-de-posesion-de-keiko-fujimori-noticia/"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Levantemos Chile advierte que la reconstrucción del norte tomará 'al menos un año' y pide plan habitacional de emergencia para 3.664 familias en albergues",
+          "dek": "La fundación que coordina la ayuda humanitaria en Coquimbo y Atacama alerta sobre el riesgo de que miles de familias permanezcan en refugios por meses sin una solución habitacional transitoria antes del próximo invierno.",
+          "source": "https://www.cooperativa.cl/noticias/pais/desastres-naturales/inundaciones/temporales-desafio-levantemos-chile-advierte-que-la-reconstruccion/2026-07-22/200457.html"
+        }
+      ]
+    }
+  }
+}
