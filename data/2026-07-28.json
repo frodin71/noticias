@@ -1,0 +1,175 @@
+{
+  "date": "2026-07-28",
+  "dateLabel": "Martes 28 de julio de 2026",
+  "edition": "028",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Perú",
+          "title": "Keiko Fujimori jura como la primera presidenta electa de Perú, con Kast, Milei, Noboa y el rey Felipe VI en la ceremonia de Lima",
+          "dek": "La investidura en el Congreso peruano —Día de la Independencia— marca el regreso del fujimorismo al poder casi 26 años después de que su padre dejara la presidencia. Fujimori, que gobernará hasta 2031, es la mandataria número 132 del país.",
+          "more": "Fujimori prestó juramento ante el Congreso a las 12:15 horas locales con su discurso inaugural centrado en tres ejes: seguridad, economía y la amenaza climática del fenómeno de El Niño. La ceremonia en el hemiciclo congregó a más de una docena de jefes de Estado y dignatarios, entre ellos el rey de España Felipe VI, el presidente argentino Javier Milei, el ecuatoriano Daniel Noboa y el chileno José Antonio Kast, quien sostuvo una reunión bilateral con Fujimori antes de la ceremonia. La agenda acordada con Chile se centró en la Alianza del Pacífico, integración energética y proyectos de conectividad vial transfronteriza.",
+          "source": "https://gestion.pe/peru/politica/keiko-fujimori-asume-la-presidencia-en-fiestas-patrias-en-vivo-los-detalles-de-la-toma-de-mando-28-de-julio-noticia/",
+          "imgPrompt": "Keiko Fujimori taking the presidential oath at the Peruvian Congress in Lima, surrounded by legislators and foreign dignitaries in formal attire, Peruvian national flag prominently displayed behind the podium, ceremonial interior, bright lights"
+        },
+        {
+          "eyebrow": "Crisis climática",
+          "title": "Macron alerta que Francia atraviesa 'la peor situación desde la Segunda Guerra Mundial' mientras una nueva ola de calor avanza sobre Europa",
+          "dek": "El presidente francés recorrió los focos activos en Gironda y advirtió que el martes 'será más complicado que ayer'. Entre España y Francia acumulan más de 300.000 evacuados y cerca de 290.000 hectáreas quemadas en lo que va del año.",
+          "more": "La contaminación del aire en Burdeos superó seis veces los límites seguros establecidos por la OMS. El mayor incendio de España, en la Sierra de Ávila, ya supera las 50.000 ha y bate todos los registros históricos del país. Francia registra en 2026 unas 3,4 veces más incendios que su promedio histórico; España 1,7 veces más, con 172.000 ha consumidas en el año. Esta semana llega una cuarta ola de calor que llevará las temperaturas por encima de los 40°C en Burdeos el miércoles. Ingenieros militares trabajan junto a los bomberos en Gironda. Los efectos de la misma circulación atmosférica alcanzan también las Highlands escocesas —con focos inusuales para la temporada— y cinco regiones de Italia, donde Sicilia registró 44°C el domingo.",
+          "source": "https://cnnespanol.cnn.com/2026/07/28/mundo/incendios-forestales-francia-espana-orix",
+          "imgPrompt": "aerial view of massive wildfires engulfing hills in southwestern France, towering columns of dark smoke rising against a hazy orange sky, air tanker aircraft dropping red fire retardant, parched summer landscape stretching to the horizon"
+        },
+        {
+          "eyebrow": "Guerra EE.UU.-Irán",
+          "title": "La tregua EE.UU.-Irán se extiende al cuarto día pero Teherán rechaza nuevas negociaciones y Trump amenaza con retomar 'acción militar contundente'",
+          "dek": "La pausa en los bombardeos estadounidenses continúa mientras Omán media sobre el Estrecho de Ormuz. El Brent cae por debajo de los US$91 ante expectativas de distensión, aunque Irán insiste en que controla el paso y descarta volver a la mesa.",
+          "more": "Trump suspendió los bombardeos el viernes 25 sin anuncio previo tras 13 días de ataques consecutivos, pero el domingo advirtió que retomará una 'acción militar contundente' si Irán no accede a un acuerdo rápido. Los viceministros de Relaciones Exteriores de Irán y Omán se reunieron en Teherán durante el fin de semana para discutir la gestión del tránsito de embarcaciones. El crudo Brent cayó 6,82% a US$90,18 y el WTI retrocedió 6,35% a US$83,66. Pese a la pausa aérea, Arabia Saudita, Jordania e Irak reportaron ataques de drones durante el fin de semana, lo que complica la consolidación del alto el fuego.",
+          "source": "https://www.bloomberglinea.com/mundo/estados-unidos/eeuu-e-iran-prorrogan-la-tregua-mientras-oman-celebra-conversaciones-sobre-el-estrecho-de-ormuz/",
+          "imgPrompt": "US Navy warship sailing through the Strait of Hormuz at dusk, oil tanker vessels visible in the background, calm gray-blue sea, orange-purple horizon, escort helicopter hovering above the flight deck"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Zelenski en Portsmouth: el nuevo primer ministro británico Burnham promete apoyo 'inquebrantable' y cede a Kyiv la tecnología de guerra electrónica 'Stone Cloak'",
+          "dek": "En la primera visita de un líder extranjero al sucesor de Keir Starmer, Ucrania recibió la propiedad intelectual de un sistema que impide la detección de drones propios. Zelenski viajará luego a Washington para pedir mayor asistencia militar a la administración Trump.",
+          "more": "Zelenski se reunió con más de 200 militares ucranianos que completaron un entrenamiento de tres semanas en el Reino Unido enfocado en operaciones en el Mar Negro y contramedidas ante minas. El Ministerio de Defensa ruso e iraní mantiene contacto diplomático sobre el ataque de Kiev a una nave iraní en el Mar Caspio la semana pasada, episodio que añade tensión a la tregua entre Washington y Teherán. El gobierno ucraniano espera que la visita a Washington le permita reactivar la asistencia de largo alcance que la administración Trump ha venido condicionando a avances en las negociaciones de paz.",
+          "source": "https://www.rferl.org/a/zelenskyy-ukraine-burnham-britain-russia-trump/33813436.html",
+          "imgPrompt": "Ukrainian president and British prime minister at a naval base in Portsmouth, Royal Navy warships docked in the background, both leaders in formal dark suits, overcast British sky, press camera flashes"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Israel intensifica la operación militar en el norte de Cisjordania: francotiradores, cortes de agua y destrucción de cultivos en aldeas palestinas cerca de Nablus",
+          "dek": "La campaña antiterrorista anunciada tras un choque mortal con colonos se profundiza. Todas las vías de acceso al norte de Cisjordania fueron cerradas por el ejército israelí y Netanyahu anuncia la creación de nuevos asentamientos en la zona.",
+          "more": "Los residentes de Tell y las aldeas aledañas a Nablus reportan cortes de agua, destrucción de cultivos y presencia de francotiradores militares desde posiciones fijas. El incidente desencadenante dejó cuatro palestinos y dos israelíes muertos en los alrededores del asentamiento de Havat Gilad. El primer ministro Netanyahu anunció que su gobierno 'acelerará la legalización de los asentamientos agrícolas y el establecimiento de otros nuevos' en Cisjordania. El secretario general saliente de la ONU, António Guterres, instó a Israel a cesar sus acciones y exigió apoyo internacional masivo para Siria.",
+          "source": "https://www.eltiempo.com/mundo/medio-oriente/israel-alista-una-operacion-militar-en-cisjordania-tras-choque-que-dejo-seis-muertos-versiones-contradictorias-aumentan-la-tension-3573631",
+          "imgPrompt": "Israeli armored military vehicles and soldiers at a checkpoint in the occupied West Bank, barbed wire fence and concrete barriers, Palestinian village with stone houses visible on the hillside, harsh midday desert sunlight"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Drones iraníes atacan el Kurdistán iraquí y generan grandes incendios en los alrededores de Erbil",
+          "dek": "Varios aparatos no tripulados golpearon las zonas de Khalifan y Soran, al noreste de Erbil. La defensa antiaérea del consulado estadounidense permaneció en alerta. El ataque agrega tensión al proceso negociador de Omán sobre la tregua.",
+          "source": "https://www.republicworld.com/world-news/explosions-rock-erbil-and-khalifan-as-iranian-drones-target-northern-iraq-near-us-consulate-2026-07-27-133594"
+        },
+        {
+          "eyebrow": "Economía global",
+          "title": "El petróleo Brent cae a US$90 por barril, su nivel más bajo desde que estalló el conflicto en el Golfo Pérsico",
+          "dek": "La perspectiva de un acuerdo sobre el Estrecho de Ormuz impulsa la baja del crudo. El WTI también retrocede hasta los US$83,66, con implicancias directas en la inflación global y en las negociaciones de paz.",
+          "source": "https://www.bloomberglinea.com/mundo/estados-unidos/eeuu-e-iran-prorrogan-la-tregua-mientras-oman-celebra-conversaciones-sobre-el-estrecho-de-ormuz/"
+        },
+        {
+          "eyebrow": "ONU",
+          "title": "Guterres pide apoyo 'masivo' a Siria y exige a Israel cesar sus acciones contra el país árabe",
+          "dek": "El secretario general saliente intervino desde Nueva York para instar a la comunidad internacional a financiar la reconstrucción siria y conminó a Israel a respetar la soberanía del país.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/27/martes-28-de-julio-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "Salud global",
+          "title": "AIDS 2026 en Río entra en su segunda jornada con el debate sobre cómo suplir los fondos de VIH que PEPFAR recortó en un 40%",
+          "dek": "Más de 10.000 participantes analizan la peor crisis de financiamiento del programa global contra el sida en décadas. Organizaciones presentarán hoy propuestas para sustituir la ayuda bilateral reducida por EE.UU.",
+          "source": "https://sociedad-noticias.com/2026/07/23/ops-impulsa-eliminacion-del-vih-en-las-americas-durante-aids-2026/"
+        },
+        {
+          "eyebrow": "India",
+          "title": "El Movimiento Cucaracha exige que el gobierno de Modi cumpla los acuerdos del viernes antes de próximas marchas en las grandes ciudades",
+          "dek": "El Cockroach Janta Party reclama la renuncia del ministro de Educación y la revisión completa del sistema de exámenes universitarios NEET. Sin respuestas, convoca nuevas concentraciones masivas.",
+          "source": "https://www.aljazeera.com/news/2026/7/24/indias-cockroach-leaders-hold-talks-with-govt-as-protests-continue"
+        },
+        {
+          "eyebrow": "Reserva Federal",
+          "title": "La Fed anuncia el miércoles su decisión sobre tasas; los mercados anticipan el quinto mantenimiento consecutivo desde diciembre",
+          "dek": "Con tasas en el rango 3,5-3,75%, la baja del petróleo y la incertidumbre en el Golfo, ningún analista espera cambios. La decisión será la segunda del mandato de Kevin Warsh al frente de la Fed.",
+          "source": "https://www.jornada.com.mx/2026/07/27/economia/017n2eco"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "ONU",
+          "title": "Bachelet vive jornada decisiva: expone ante el Consejo de Seguridad completo y los straw polls que definirán la carrera comienzan el jueves",
+          "dek": "La ex presidenta expuso durante hora y media ante los 15 miembros del Consejo —incluidos los cinco con derecho a veto— y calificó el encuentro como 'muy fluido'. Los primeros sondeos reservados históricos del proceso para elegir al sucesor de Guterres arrancan el jueves 30.",
+          "more": "Bachelet centró su presentación en su propuesta de reforma a la ONU, los conflictos armados activos, el cambio climático y el financiamiento para el desarrollo. La postura de Estados Unidos es la mayor incógnita: Washington no se ha pronunciado públicamente a favor ni en contra de su candidatura. Sus rivales en la carrera son la ecuatoriana María Fernanda Espinosa, el argentino Rafael Grossi, la costarricense Rebeca Grynspan, la guyanesa Carolyn Rodrigues-Birkett y el senegalés Macky Sall. Quien resulte ganador asumirá el 1 de enero de 2027.",
+          "source": "https://www.latercera.com/politica/noticia/jornada-clave-bachelet-expondra-este-martes-ante-el-consejo-de-seguridad-de-la-onu-con-foco-en-reforma-al-organismo/",
+          "imgPrompt": "Michelle Bachelet speaking at a formal United Nations Security Council chamber in New York, circular conference table with country nameplates, blue and gold UN decor, international diplomats seated attentively"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Kast se reúne con Fujimori en Lima y regresa esta tarde a Santiago, donde lo espera el presidente de Corea del Sur",
+          "dek": "El mandatario participó en la investidura de la presidenta peruana y acordó una agenda bilateral de integración energética y conectividad vial en la Alianza del Pacífico. Lee Jae-myung aterriza esta noche en Santiago para una visita de Estado de dos días.",
+          "more": "La reunión bilateral Chile-Perú definió metas concretas de intercambio energético y conectividad transfronteriza. Kast debe regresar esta tarde porque el martes por la noche aterriza Lee Jae-myung, presidente de Corea del Sur, en su gira latinoamericana que también incluye Brasil y Argentina. El miércoles se realizará una cumbre bilateral, un foro empresarial con compañías coreanas de minería, baterías, electrónica y energía, y la eventual firma de contratos de suministro de litio y cobre. El TLC Chile-Corea, en vigor desde 2004, se actualizará para incluir comercio digital, servicios y cadenas de suministro de minerales críticos.",
+          "source": "https://www.df.cl/internacional/politica/kast-se-reune-este-martes-con-keiko-fujimori-antes-de-que-jure-como",
+          "imgPrompt": "Chilean president and Peruvian president-elect in formal bilateral meeting, Chilean and Peruvian flags displayed side by side in the background, suited officials at a conference table, press cameras visible"
+        },
+        {
+          "eyebrow": "Corea del Sur",
+          "title": "Lee Jae-myung llega esta noche a Chile: trae agenda de litio, cobre y modernización del TLC con una delegación de industria y energía",
+          "dek": "La visita de Estado del presidente surcoreano es la más relevante en décadas para la relación bilateral. Corea del Sur busca asegurarse cadenas de suministro de minerales críticos y Chile aspira a atraer inversión en baterías, semiconductores y energía limpia.",
+          "more": "Acompañan a Lee Jae-myung delegaciones de empresas de minería y materiales, automotriz, electrónica, naval y defensa, digital y biotecnología. El foro empresarial programado para el miércoles contempla la posible firma de acuerdos de suministro a largo plazo de litio y cobre para la industria de baterías y semiconductores surcoreana. El TLC entre ambos países, vigente desde 2004 y uno de los primeros que Chile firmó con Asia, se modernizará para incorporar disciplinas de comercio digital y nuevas cadenas de valor en minerales estratégicos. Lee también visitará Brasil y Argentina en su gira por el Cono Sur.",
+          "source": "https://www.biobiochile.cl/noticias/internacional/asia/2026/07/22/presidente-de-corea-del-sur-visitara-chile-para-fortalecer-inversiones-y-modernizar-el-tlc.shtml",
+          "imgPrompt": "South Korean and Chilean flags side by side at a formal state reception venue, dignitaries in suits shaking hands, modern conference hall, bright lighting, bilateral summit atmosphere"
+        },
+        {
+          "eyebrow": "Minería",
+          "title": "El boom del cobre traerá a Chile los mayores ingresos fiscales de su historia: minería privada pagará un récord de US$8.039 millones en impuestos en 2026",
+          "dek": "El cobre promedia US$5,95 la libra en lo que va del año, un 38% más que en 2025. Codelco aportará US$3.188 millones al fisco —su mejor cifra en cinco años— con un alza real de 58% respecto a 2025.",
+          "more": "Cochilco elevó su estimación de precio promedio a US$5,55 la libra, aunque el metal ha venido negociándose incluso por sobre ese nivel. Por cada centavo de dólar que sube el precio promedio anual, el Estado recibe entre US$20 y US$25 millones adicionales a través de los excedentes de Codelco, el impuesto específico a la minería y la recaudación general. La caída del petróleo que trajo la tregua en el Golfo también alivia la factura energética de las mineras. Sin embargo, el Gobierno rebajó su proyección de crecimiento para 2026 a 1,8%, por debajo del estimado anterior de 2,1%, ante la debilidad del consumo interno.",
+          "source": "https://www.latercera.com/pulso/noticia/gobierno-preve-que-la-gran-mineria-privada-pagara-en-2026-el-mayor-monto-por-impuestos-de-su-historia-y-codelco-el-mejor-en-cinco-anos/",
+          "imgPrompt": "open-pit copper mine in the Atacama desert, massive terraced walls of reddish rock under blue sky, giant haul trucks visible on spiral roads inside the pit, drone aerial perspective"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "El gobierno evalúa ampliar el estado de catástrofe a Atacama mientras nuevas lluvias cortan rutas y 3.664 familias siguen en albergues",
+          "dek": "Un nuevo frente de lluvia interrumpió el acceso a Vallenar el fin de semana, complicando la logística de reconstrucción. El costo total estimado supera los US$700 millones y el proceso tardará 'al menos dos años', según el Ejecutivo.",
+          "more": "El estado de catástrofe vigente cubre la Región de Coquimbo; el gobierno analiza extenderlo formalmente a Atacama ante la persistencia de fenómenos climáticos. La última estimación oficial de daños asciende a entre US$500 y US$700 millones, incluyendo déficits históricos de infraestructura que amplificaron el temporal. Levantemos Chile advirtió que las 3.664 familias en albergues necesitan soluciones habitacionales transitorias antes del próximo invierno. El Ejecutivo estudia un plan de viviendas prefabricadas de emergencia y diseña en paralelo la reconstrucción permanente, que considerará la vulnerabilidad de las construcciones en adobe y quincha.",
+          "source": "https://www.latercera.com/politica/noticia/corte-de-ruta-por-lluvias-frustra-visita-de-kast-a-vallenar-y-gobierno-evalua-ampliar-el-estado-de-catastrofe-en-atacama/",
+          "imgPrompt": "emergency workers in orange safety vests assessing road damage from flooding in northern Chile, cracked asphalt road with collapsed section, dry desert landscape in the background, government vehicles parked on the roadside, clear sky"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Legislativo",
+          "title": "Solo resta resolver un artículo en comisión mixta para que Kast pueda promulgar la megarreforma económica",
+          "dek": "El Congreso aprobó el grueso de la reforma —que baja el impuesto corporativo de 27% a 23% y exime el IVA a la compra de viviendas nuevas— y el gobierno exige resolverla 'con máxima prontitud'.",
+          "source": "https://www.latercera.com/politica/noticia/kast-destaca-aprobacion-del-corazon-de-la-megarreforma-y-pide-resolver-con-rapidez-el-punto-pendiente-en-comision-mixta/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Chile rebaja su proyección de crecimiento para 2026 a 1,8% ante la debilidad del consumo, pero el boom del cobre atenúa el ajuste fiscal",
+          "dek": "La revisión a la baja refleja el desempleo persistente en 9,4% y la demanda interna contenida, aunque los ingresos excepcionales de la minería mejoran el balance fiscal del año.",
+          "source": "https://www.reporteminero.cl/noticia/noticias/2026/07/chile-rebaja-crecimiento-2026-eleva-precio-cobre-590"
+        },
+        {
+          "eyebrow": "Previsión social",
+          "title": "Quedan cuatro días para que entre en vigor la nueva Cotización con Rentabilidad Protegida del 0,9% a cargo del empleador",
+          "dek": "La CRP rige desde el 1 de agosto y se suma al 1% patronal que ya aplica desde agosto de 2025, elevando el aporte total del empleador a cerca del 2% de la remuneración imponible.",
+          "source": "https://www.latinhumancapital.com/reforma-previsional-chile-2026-rrhh-nomina/"
+        },
+        {
+          "eyebrow": "Deporte",
+          "title": "Chile suma medallas en los Juegos Centroamericanos de Santo Domingo y apunta a superar su récord histórico en el medallero",
+          "dek": "La delegación nacional compite en 40 disciplinas hasta el 8 de agosto. México lidera el medallero general; Chile destaca en judo, esgrima, ciclismo de pista y gimnasia artística.",
+          "source": "https://revistamercado.do/empresas/sport-business/medallero-juegos-centroamericanos-2026-en-vivo/"
+        },
+        {
+          "eyebrow": "Relaciones exteriores",
+          "title": "Alianza Chile-Perú se renueva bajo el signo ideológico de Kast y Fujimori con agenda compartida en seguridad y lucha contra el crimen organizado",
+          "dek": "La relación bilateral alcanza su nivel más cercano en décadas. Los dos mandatarios compartirán estrategia en control de fronteras, combate al narcotráfico y libre circulación de personas en la Alianza del Pacífico.",
+          "source": "https://panampost.com/gabriela-moreno/2026/07/27/claves-de-la-estrecha-alianza-entre-kast-y-fujimori-que-marca-un-acercamiento-en-las-relaciones-chile-peru/"
+        },
+        {
+          "eyebrow": "Política exterior",
+          "title": "El canciller Van Klaveren reitera que el gobierno de Kast no respalda oficialmente la candidatura de Bachelet a la Secretaría General de la ONU",
+          "dek": "El jefe de la diplomacia chilena marcó nuevamente distancia del Ejecutivo respecto de la carrera de la ex presidenta en Nueva York, en el mismo día en que ella expuso ante el Consejo de Seguridad.",
+          "source": "https://www.latercera.com/politica/noticia/bachelet-expone-ante-consejo-de-seguridad-de-la-onu-y-canciller-marca-nuevamente-distancia-de-su-candidatura/"
+        }
+      ]
+    }
+  }
+}
