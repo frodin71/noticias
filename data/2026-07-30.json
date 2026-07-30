@@ -1,0 +1,167 @@
+{
+  "date": "2026-07-30",
+  "dateLabel": "Jueves 30 de julio de 2026",
+  "edition": "030",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Medio Oriente",
+          "title": "EEUU reanuda los bombardeos nocturnos sobre Irán tras un ataque sorpresa de la Guardia Revolucionaria",
+          "dek": "Washington respondió con nuevas ofensivas aéreas a un intento de misiles iraníes contra bases estadounidenses en Jordania. Teherán prometió castigar al agresor.",
+          "more": "Los bombardeos del miércoles por la noche alcanzaron las islas de Qeshm y Kish, y las ciudades de Bandar Abbas, Abadán y Bushehr. El Centcom describió la operación como respuesta directa al ataque sorpresa que la Guardia Revolucionaria lanzó el martes con misiles balísticos —interceptados antes de causar daños— contra tropas estadounidenses desplegadas en la región. La ofensiva rompe una pausa de varios días y reaviva un conflicto que comenzó en febrero con los bombardeos conjunto israelí-estadounidenses sobre territorio iraní.",
+          "source": "https://www.elespanol.com/mundo/oriente-proximo/20260730/guerra-iran-ultima-hora-directo-washington-reanuda-bombardeos-nocturnos-posiciones-militares-iranies-respuesta-ataques-teheran/1003744338573_10.html",
+          "imgPrompt": "a US military jet launching from an aircraft carrier at night in the Persian Gulf, flames and steam, dramatic low angle"
+        },
+        {
+          "eyebrow": "Desastre",
+          "title": "El terremoto de Kumamoto deja 18 muertos, centenares de heridos y casi 200 réplicas en Japón",
+          "dek": "Un sismo de magnitud 7,1 golpeó el suroeste del país el martes y derrumbó varios edificios, incluido un centro comercial con personas atrapadas bajo los escombros.",
+          "more": "El epicentro se localizó a solo 10 kilómetros de profundidad, lo que amplificó considerablemente los daños. Las autoridades emitieron inicialmente una alerta de tsunami para el mar de Ariake y Yatsushiro, levantada horas después. Es el primer sismo en registrar intensidad máxima en la escala japonesa desde el terremoto de la península de Noto el 1 de enero de 2024. La región aspira a convertirse en un polo de semiconductores y varias fábricas reportaron interrupciones de producción. Las réplicas continúan: ya se han registrado 195 temblores superiores a grado 1.",
+          "source": "https://www.emol.com/noticias/Internacional/2026/07/29/1207025/terremoto-japon-muertos-heridos-replicas.html",
+          "imgPrompt": "rescue workers in hard hats searching through rubble of a collapsed building in Kumamoto Japan after the earthquake, daylight, emergency lights"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "EEUU y Rusia declaran muerto el proceso de paz en Ucrania y anuncian que deberá empezar desde cero",
+          "dek": "Moscú y Washington dieron por agotado el marco negociador acordado en la cumbre de Anchorage. Ambas partes culpan a la otra del fracaso.",
+          "more": "El proceso quedó paralizado desde febrero por la escalada del conflicto en Irán y los cambios en el frente ucraniano. Mientras las tropas rusas avanzaron lentamente en Donbás, Kiev intensificó sus ataques con drones sobre infraestructura en territorio ruso, modificando el equilibrio del conflicto. Ambos gobiernos coinciden en que cualquier nueva negociación requerirá una mayor participación europea, aunque las posiciones están hoy más endurecidas que hace seis meses.",
+          "source": "https://laprensaaustral.cl/2026/07/26/rusia-y-estados-unidos-dan-por-terminado-el-proceso-de-paz-en-ucrania-y-anticipan-nuevas-negociaciones-desde-cero/",
+          "imgPrompt": "an empty negotiating table with Russian and American flags on opposite sides in a formal diplomatic room, no people present"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Samsung reporta ganancias récord de 49.000 millones de dólares en el segundo trimestre, impulsado por la IA",
+          "dek": "La división de semiconductores disparó sus utilidades gracias a la demanda de chips para servidores de inteligencia artificial. El margen operativo superó el 52%.",
+          "more": "El beneficio neto del fabricante surcoreano creció un 1.300% respecto al mismo trimestre del año anterior. Los ingresos consolidados alcanzaron 171,5 billones de wones, un nuevo máximo histórico. La división de móviles sí retrocedió un 9%, pero fue ampliamente compensada por el negocio de memoria, que batió récords en ingresos y ganancias. A pesar de los resultados históricos, la acción cayó más de un 7% en bolsa: los inversores esperaban cifras todavía superiores.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/30/samsung-alcanza-ganancias-record-de-49000-millones-de-dolares-en-segundo-trimestre-por-ia/",
+          "imgPrompt": "a gleaming semiconductor chip wafer in a high-tech clean room, blue tinted light, technician in white protective suit"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "El petróleo Brent rebota cerca de 4% hasta 87 dólares por la escalada en el Golfo Pérsico",
+          "dek": "Los nuevos ataques entre EEUU e Irán presionaron al alza el precio del crudo y generaron caídas en las bolsas de Asia y Europa.",
+          "more": "El Brent llegó a tocar los 91 dólares durante la jornada antes de moderar su avance. El índice Kospi de Corea del Sur se desplomó cerca de un 6%, mientras el Ibex 35 español cedió más de un punto porcentual. La Reserva Federal de EEUU se reúne hoy, y el mercado está dividido sobre si su presidente, Kevin Warsh, anunciará señales de endurecimiento monetario ante la persistente inflación agravada por el alza del crudo.",
+          "source": "https://www.euribor.com.es/2026/07/30/analisis-de-mercados-30-de-julio-de-2026-30-julio-2026/",
+          "imgPrompt": "oil tankers sailing through the Strait of Hormuz with a tense orange sky at dawn, no text or logos"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Perú",
+          "title": "Keiko Fujimori presidió el gran desfile por la independencia de Perú",
+          "dek": "La presidenta encabezó el 28 de julio las celebraciones en Lima, su primer gran acto oficial de Estado desde que asumió el cargo.",
+          "source": "https://es-us.noticias.yahoo.com/noticias-29-julio-2026-ma%C3%B1ana-050008606.html"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "La UNESCO cierra su 48.ª sesión del Patrimonio Mundial en Busan, Corea del Sur",
+          "dek": "El comité examinó candidaturas de 30 nuevos sitios y el estado de conservación de 147 ya incluidos en la lista.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/29/temas-del-dia-de-efe-internacional-del-miercoles-29-de-julio-de-2026-1200-gmt/"
+        },
+        {
+          "eyebrow": "Tráfico humano",
+          "title": "EEUU arrestó a 905 personas por tráfico de personas durante el Mundial 2026",
+          "dek": "El Departamento de Seguridad Nacional publicó el balance de la operación: 180 víctimas rescatadas, incluidos 30 menores de edad.",
+          "source": "https://es-us.noticias.yahoo.com/noticias-29-julio-2026-ma%C3%B1ana-050008606.html"
+        },
+        {
+          "eyebrow": "Guerra",
+          "title": "Rusia continúa su lento avance en Donbás pese al creciente costo en bajas",
+          "dek": "Moscú mantiene la presión sobre Kostyantynivka mientras Ucrania intensifica sus ataques con drones sobre infraestructura rusa.",
+          "source": "https://cnnespanol.cnn.com/2026/07/28/mundo/live-news/guerra-israel-iran-estados-unidos-estrecho-de-ormuz-1-trax"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "La Reserva Federal de EEUU se reúne hoy con el mercado dividido sobre el rumbo de las tasas",
+          "dek": "Se espera que Kevin Warsh evalúe si endurecer la política monetaria ante la inflación persistente y el alza del petróleo.",
+          "source": "https://www.euribor.com.es/2026/07/30/analisis-de-mercados-30-de-julio-de-2026-30-julio-2026/"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Eslovaquia y China refuerzan su asociación estratégica con visita del presidente Pellegrini a Pekín",
+          "dek": "Peter Pellegrini amplía los lazos comerciales con China en el marco del acuerdo bilateral elevado a asociación estratégica en noviembre de 2024.",
+          "source": "https://www.infobae.com/america/agencias/2026/07/29/temas-del-dia-de-efe-internacional-del-miercoles-29-de-julio-de-2026-1200-gmt/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Legislativo",
+          "title": "Gobierno de Kast llega sin votos asegurados a la votación definitiva de la megarreforma el 4 de agosto",
+          "dek": "Senadores de Coquimbo condicionan su respaldo a la Ley de Reconstrucción Nacional a que su región sea incorporada en el fondo post-temporal. La Moneda no cede.",
+          "more": "Matías Walker (Demócratas) y Sergio Gahona (UDI) exigen un veto aditivo que incluya Coquimbo y la provincia de Huasco en el fondo de reconstrucción. El ministro de Hacienda, Jorge Quiroz, respondió que no hay tiempo para realizar el catastro de daños que eso requiere y ofreció en cambio una mesa técnica. El gobierno ya postergó una vez la votación —prevista inicialmente para el 22 de julio— al no reunir los 26 votos necesarios en el Senado. Esta ley es la pieza central de la agenda económica de Kast y une medidas de reactivación, rebajas tributarias y normas de reconstrucción.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/27/gobierno-presiona-por-apoyos-y-oposicion-eleva-exigencias-a-dias-de-ultima-votacion-de-la-megarreforma.shtml",
+          "imgPrompt": "the Chilean Senate chamber in Valparaiso during a legislative session, senators at their seats, formal lighting from above"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Banco Central congela la tasa en 4,5% ante la inflación y la volatilidad generada por la guerra en Irán",
+          "dek": "El instituto emisor también rebajó su proyección de crecimiento para 2026 desde el rango de 2%-3% a uno de 1,5%-2,5%.",
+          "more": "La decisión fue unánime. El Banco Central citó el deterioro de la actividad interna, el repunte de la inflación y la volatilidad provocada por el conflicto entre EEUU e Irán para justificar mantener la tasa sin cambio. Las expectativas inflacionarias a dos años siguen ancladas en 3%, lo que da margen para no endurecer la política, pero impide relajarla. El recorte en la proyección de crecimiento fue el segundo en lo que va del año.",
+          "source": "https://www.elmostrador.cl/mercados/2026/07/28/banco-central-congela-la-tasa-de-interes-por-presion-inflacionaria-y-debilidad-economica/",
+          "imgPrompt": "the Banco Central de Chile building in Santiago, neoclassical stone facade, clear winter sky"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "Hacienda advierte que los combustibles podrían encarecerse si el petróleo sostiene su alza",
+          "dek": "El ministro Quiroz reconoció que la escalada del crudo —impulsada por los ataques entre EEUU e Irán— podría traducirse en precios más altos en los surtidores chilenos.",
+          "more": "El barril de petróleo Brent subió cerca de un 4% este jueves, acercándose a los 90 dólares. Chile importa la totalidad del crudo que consume, por lo que es particularmente vulnerable a las fluctuaciones del precio internacional. La advertencia llega en un contexto en que el Banco Central ya anticipa mayor inflación, lo que reduce el margen del gobierno para implementar mecanismos de estabilización del precio de los combustibles.",
+          "source": "https://www.pulzo.com/economia/banco-central-de-chile-mantiene-tasa-de-interes-en-4-5-por-la-inflacion-y-volatilidad-global-PP5258709A",
+          "imgPrompt": "a gas station in Santiago Chile with price boards visible, cars refueling on a gray winter day"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Un sismo de magnitud 4,5 sacude Pozo Almonte en la madrugada del jueves",
+          "dek": "El movimiento se registró a las 02:04 horas, con epicentro a 44 kilómetros de la localidad y a 91 kilómetros de profundidad. No se reportaron daños ni víctimas.",
+          "more": "El Centro Sismológico Nacional (CSN) registró el sismo en la región de Tarapacá, en el extremo norte de Chile. Las autoridades descartaron riesgo de tsunami. La zona concentra actividad sísmica frecuente por su ubicación en el cinturón de fuego del Pacífico.",
+          "source": "https://www.infobae.com/noticias/2026/07/30/sismo-de-magnitud-45-sacude-en-pozo-almonte-este-jueves-30-de-julio/",
+          "imgPrompt": "Atacama desert landscape near Pozo Almonte in the Tarapacá region of northern Chile, salt flats and sparse vegetation, clear sky"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Incendios",
+          "title": "CONAF alerta por inusual aumento de incendios forestales en invierno: 135 versus los 43 del año anterior",
+          "dek": "Entre mayo y junio de 2026 se triplicó el número de siniestros respecto al mismo período de la temporada pasada. La institución refuerza el llamado a la prevención.",
+          "source": "https://www.conaf.cl/conaf-refuerza-llamado-a-la-prevencion-ante-un-invierno-con-inusuales-incendios-forestales/"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Fiscal Castro Bekios: \"Seguir el dinero es la clave para desmantelar el crimen organizado en Chile\"",
+          "dek": "El persecutor especializado afirma que rastrear los flujos financieros ilegales resulta más eficaz que perseguir a los narcotraficantes uno por uno.",
+          "source": "https://www.biobiochile.cl/noticias/entrevistas-bbcl/entrevista-nacional/2026/07/26/fiscal-juan-castro-bekios-seguir-el-dinero-del-crimen-organizado-no-es-una-metafora.shtml"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Las incautaciones de droga en Chile se triplicaron en el último año",
+          "dek": "La cocaína decomisada creció un 334% entre julio de 2025 y julio de 2026, según datos de la Fiscalía, que cuantifica en más de 800 millones de dólares el golpe al crimen organizado.",
+          "source": "https://elamerica.cl/2026/07/14/factura-al-crimen-organizado-avaluo-de-incautaciones-de-drogas-en-la-region-supera-los-800-millones-de-dolares/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El peso chileno y las acciones locales bajo presión por la escalada del precio del petróleo",
+          "dek": "El alza del crudo derivada del conflicto entre EEUU e Irán genera volatilidad en los mercados de la región y complica las cuentas fiscales.",
+          "source": "https://www.infobae.com/economia/2026/07/29/mercados-el-precio-del-petroleo-se-dispara-7-sube-el-riesgo-pais-y-sufren-las-acciones-argentinas/"
+        },
+        {
+          "eyebrow": "Prevención",
+          "title": "Bomberos de Santiago refuerza los consejos anti-incendio domiciliario para el invierno",
+          "dek": "El cuerpo pide revisar calefactores, mantener ventilación y vigilar las instalaciones eléctricas ante el alza de emergencias en la temporada fría.",
+          "source": "https://portalmetropolitano.cl/plan-invierno-2026-bomberos-de-santiago-entrega-recomendaciones-para-prevenir-incendios/"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "El canciller de Chile destaca la alianza regional contra el crimen organizado transnacional",
+          "dek": "El ministro reafirmó el Compromiso Regional de Santiago como herramienta de coordinación entre los países del Cono Sur frente al narcotráfico.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/07/15/canciller-destaca-alianza-regional-contra-crimen-organizado-y-estrategia-para-atraer-inversiones.shtml"
+        }
+      ]
+    }
+  }
+}
