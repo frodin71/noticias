@@ -1,0 +1,159 @@
+{
+  "date": "2026-07-31",
+  "dateLabel": "Viernes 31 de julio de 2026",
+  "edition": "031",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Guerra Irán-EEUU",
+          "title": "El conflicto alcanza Kuwait y Egipto en la escalada más amplia desde el inicio de la guerra",
+          "dek": "Irán atacó una base aérea en Kuwait y drones incendiaron buques en un puerto egipcio, la primera vez que ese país es golpeado. EEUU respondió con una nueva ofensiva nocturna masiva.",
+          "more": "El conflicto, que arrancó el 28 de febrero cuando EEUU e Israel bombardearon Irán y eliminaron al líder supremo Alí Jamenei, lleva cinco meses y sigue arrastrando a nuevos actores regionales. La Guardia Revolucionaria iraní se atribuyó el ataque a la base Ali Al Salem en Kuwait, donde murió una persona. Arabia Saudí anunció además una alianza marítima con 14 naciones para proteger las rutas del mar Rojo. Las esperanzas de un acuerdo diplomático se desvanecieron tras el colapso de las negociaciones.",
+          "source": "https://www.elespanol.com/mundo/oriente-proximo/20260731/guerra-iran-ultima-hora-directo-teheran-bombardea-bases-militares-eeuu-kuwait-respuesta-ofensiva-washington/1003744339893_10.html",
+          "imgPrompt": "military jets launching from an aircraft carrier at night in the Persian Gulf, smoke rising on the horizon, dramatic orange glow"
+        },
+        {
+          "eyebrow": "Crisis migratoria",
+          "title": "España despliega el Ejército en Ceuta tras el cruce masivo de casi 49.000 personas en 24 horas desde Marruecos",
+          "dek": "La avalancha, la mayor registrada en la historia del enclave, dejó al menos 18 muertos. Madrid envió 200 policías especializados y 60 soldados; Italia amenazó con suspender el acuerdo Schengen.",
+          "more": "La Comisión Europea activó el apoyo de Frontex. El presidente Pedro Sánchez viajará a Ceuta este viernes. Francia exigió refuerzo de controles en la frontera con España. La crisis reabrió el debate urgente sobre la política migratoria europea, en medio de tensiones diplomáticas con Marruecos.",
+          "source": "https://www.cbsnews.com/news/spain-deploys-military-ceuta-morocco-border-migrants/",
+          "imgPrompt": "large crowd of people crossing over a border fence into a Spanish enclave on the African coast, military and police presence on the shore, aerial wide shot, daytime"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Trump anuncia un acuerdo de 20 puntos para el desarme de Hamas, pero el grupo no lo ha confirmado",
+          "dek": "El presidente estadounidense aseguró que se llegó a un acuerdo para el \"desarme completo\" de Hamas y la retirada israelí por fases. Ni Hamas ni Israel lo refrendaron de inmediato.",
+          "more": "El anuncio llega nueve meses después del alto el fuego inicial y en medio del impasse sobre la segunda fase del pacto. El plan contempla que una Fuerza Internacional de Estabilización y una nueva policía palestina asuman el control de Gaza. Trump exige la destrucción de la red de túneles. Las negociaciones habían estado trabadas por la exigencia israelí de que Hamas se desarme antes de cualquier retirada de sus tropas.",
+          "source": "https://www.npr.org/2026/07/31/g-s1-136500/trump-hamas-gaza",
+          "imgPrompt": "destroyed buildings and rubble in a Gaza street, ceasefire flags visible, overcast sky, no people, wide shot"
+        },
+        {
+          "eyebrow": "Economía EEUU",
+          "title": "La economía de EEUU creció solo 1,5% en el segundo trimestre, muy por debajo de lo esperado",
+          "dek": "La Oficina de Análisis Económico reportó la cifra anualizada frente al 2,1% proyectado por el mercado. El consumo privado se aceleró con fuerza, pero el alza en importaciones de infraestructura de IA frenó el indicador.",
+          "more": "En el primer trimestre el PIB había crecido un 2,1%. El gasto del consumidor trepó a un ritmo anualizado del 3,2%, el más veloz en casi un año. Los analistas señalan que la desaceleración complica las perspectivas de que la Reserva Federal baje las tasas de interés en el corto plazo. El rendimiento del bono del Tesoro a 30 años alcanzó su nivel más alto en casi dos décadas.",
+          "source": "https://www.cnn.com/2026/07/30/business/us-economy-growth-weaker-gdp",
+          "imgPrompt": "a graph with declining GDP growth bars displayed on a financial screen, Wall Street trading floor in the background"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Tecnología",
+          "title": "Apple reporta ingresos récord de $109.400 millones en el tercer trimestre, un alza del 16%",
+          "dek": "La empresa superó las expectativas de Wall Street con ganancias netas de $29.800 millones. iPhone, Mac y el segmento de Servicios batieron máximos históricos para un trimestre de junio.",
+          "source": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "EEUU y Arabia Saudí atacan milicias proiraníes en Irak; Bagdad rechaza haber dado luz verde",
+          "dek": "Los bombardeos apuntaron a depósitos de armas y logística en el oriente del país. Las Fuerzas de Movilización Popular reportaron al menos 20 muertos entre sus miembros.",
+          "source": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq"
+        },
+        {
+          "eyebrow": "EEUU",
+          "title": "El Senado pospone la votación para confirmar a Todd Blanche como fiscal general",
+          "dek": "Dos senadores republicanos frenaron la nominación del asesor de Trump por el polémico acuerdo que el Departamento de Justicia cerró con la demanda del presidente contra el IRS, que implicó un fondo de 1.800 millones de dólares.",
+          "source": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html"
+        },
+        {
+          "eyebrow": "Seguridad marítima",
+          "title": "Arabia Saudí encabeza una alianza marítima de 14 países para proteger el mar Rojo",
+          "dek": "El reino anunció la coalición defensiva para resguardar las rutas de navegación afectadas por los ataques de grupos aliados de Irán a buques comerciales.",
+          "source": "https://www.elespanol.com/mundo/oriente-proximo/20260730/guerra-iran-ultima-hora-directo-washington-reanuda-bombardeos-nocturnos-posiciones-militares-iranies-respuesta-ataques-teheran/1003744338573_10.html"
+        },
+        {
+          "eyebrow": "Economía Asia",
+          "title": "Taiwán prevé su mayor crecimiento económico en 16 años impulsado por la demanda de IA",
+          "dek": "El gobierno elevó su proyección de PIB al 7,7% para 2026, con exportaciones que subirían casi un 40% gracias al boom de chips y equipos de inteligencia artificial.",
+          "source": "https://www.hl.co.uk/news/taiwan-hikes-2026-economic-growth-forecast-to-77-on-ai-demand"
+        },
+        {
+          "eyebrow": "Justicia",
+          "title": "Condenan al padre del estudiante que cometió el tiroteo escolar de Michigan",
+          "dek": "El tribunal halló al progenitor responsable por facilitar el acceso al arma que su hijo utilizó en el ataque que mató a cuatro estudiantes.",
+          "source": "https://wng.org/podcasts/friday-morning-news-july-31-2026-1785442741"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Comercio exterior",
+          "title": "Chile negocia con EEUU exenciones al arancel del 12,5% que golpea salmón, vino y frutas por más de 900 millones de dólares",
+          "dek": "Una delegación del representante comercial estadounidense (USTR) llegará a Santiago en agosto para tratar la exclusión de productos clave. El cobre, principal exportación, quedó exento.",
+          "more": "Washington aplicó el gravamen citando un \"fracaso\" de Chile en combatir el trabajo forzoso, en una medida que afecta también a Brasil, México, India y la Unión Europea. El impacto estimado en el salmón asciende a 500 millones de dólares y a 400 millones en frutas. La Cancillería coordinó con gremios empresariales una estrategia conjunta para la negociación encabezada por el representante adjunto Jeffrey Goettman.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/27/la-delegacion-de-eeuu-que-visitara-chile-para-negociar-exclusion-de-productos-bajo-arancel-castigo.shtml",
+          "imgPrompt": "fresh salmon fillets and bottles of Chilean wine on a table with Chilean and US flags in the background, trade negotiation setting"
+        },
+        {
+          "eyebrow": "Derechos reproductivos",
+          "title": "Pañuelazo feminista en 26 comunas contra el proyecto que condiciona el aborto a escuchar el latido fetal",
+          "dek": "La Coordinadora Feminista 8M y más de 50 organizaciones salieron a las calles este viernes bajo el lema \"Escucha mi decisión\", en respuesta al proyecto \"Escucha su corazón\" impulsado por la ultraderecha.",
+          "more": "El proyecto presentado por diputados del Partido Nacional Libertario exige que las mujeres que accedan al aborto legal —amparado por las tres causales— escuchen el latido del feto antes del procedimiento, y prohíbe realizarlo si la paciente se niega. Organizaciones de derechos humanos lo califican de \"coacción estatal disfrazada de consentimiento\". Las manifestaciones se realizaron en ciudades desde Iquique hasta Puerto Montt.",
+          "source": "https://radionuevomundo.cl/2026/07/panuelazo-contra-proyecto-escucha-su-corazon-coordinadora-8m-asegura-que-mas-de-50-organizaciones-alistan-movilizaciones-en-todo-chile/",
+          "imgPrompt": "women protesters holding green handkerchiefs in central Santiago, crowd in a city plaza, daytime rally"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Kast y el presidente surcoreano Lee relanzaron el TLC bilateral y acordaron cooperación en minerales críticos",
+          "dek": "La primera cumbre entre ambos países en 11 años acordó reactivar el libre comercio estancado una década y cooperar en litio, energía limpia e inteligencia artificial.",
+          "more": "La reunión en La Moneda fue la segunda parada de la gira latinoamericana del presidente Lee Jae-myung, quien llegó desde Brasil y partió luego hacia Argentina. Ambos gobiernos acordaron convocar por primera vez en diez años la Comisión bilateral del TLC, firmado hace dos décadas. Corea del Sur identificó los minerales críticos chilenos como una prioridad estratégica para diversificar sus cadenas de suministro.",
+          "source": "https://www.koreatimes.co.kr/foreignaffairs/others/20260731/lee-departs-for-argentina-after-summit-with-kast-in-chile",
+          "imgPrompt": "two presidents shaking hands in a formal room with Chilean and South Korean flags displayed side by side, official state visit"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Las incautaciones de drogas en Chile aumentaron 3,7 veces en un año y superan los 800 millones de dólares",
+          "dek": "La Fiscalía reportó alzas del 334% en cocaína y del 194% en ketamina respecto a 2025. El fiscal Juan Castro Bekios identificó el seguimiento del dinero como la herramienta clave.",
+          "more": "El gobierno reforzó la cooperación antinarcóticos con EEUU mediante una enmienda a su acuerdo bilateral, que contempla apoyo técnico y capacitación en ciberdelito y lavado de activos. Las pérdidas diarias para las estructuras criminales por las incautaciones se estiman en 736 millones de pesos.",
+          "source": "https://www.biobiochile.cl/noticias/entrevistas-bbcl/entrevista-nacional/2026/07/26/fiscal-juan-castro-bekios-seguir-el-dinero-del-crimen-organizado-no-es-una-metafora.shtml",
+          "imgPrompt": "Chilean police officers at a press conference with seized drug packages and weapons displayed on a table"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Comercio",
+          "title": "Cancillería y gremios articulan estrategia conjunta para la visita de la USTR en agosto",
+          "dek": "El gobierno busca presentar una posición unificada con el sector exportador para ampliar las exclusiones arancelarias, con énfasis en salmón, frutas, vinos y derivados de la madera.",
+          "source": "https://www.latercera.com/pulso/noticia/arrancan-las-negociaciones-con-eeuu-la-reunion-de-cancilleria-y-los-gremios-con-miras-a-la-visita-de-la-ustr-en-agosto/"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "El proyecto \"Escucha su corazón\" tiene apellido Kaiser: el diputado Urruticoechea es esposo de la senadora Vanessa Kaiser",
+          "dek": "El principal impulsor de la iniciativa antiaborto, Cristóbal Urruticoechea del PNL, está casado con la senadora Vanessa Kaiser, hermana de las conocidas figuras de derecha Johannes y Axel Kaiser.",
+          "source": "https://www.resumenlatinoamericano.org/2026/07/20/chile-el-proyecto-antiaborto-tiene-apellido-politico-urruticoechea-los-kaiser-y-una-mochila-de-cuestionamientos-eticos/"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Corea del Sur amplía compra de litio y minerales chilenos en su estrategia de diversificación",
+          "dek": "Lee Jae-myung identificó los minerales críticos como área estratégica de complementariedad, en un momento en que Seúl busca reducir su dependencia de proveedores asiáticos.",
+          "source": "https://www.koreajoongangdaily.com/korea/lee-talks-trade-critical-minerals-and-kculture-during-chilenbspvisit/12800030"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registra actividad sísmica dispersa en las últimas 24 horas, sin reportes de daños",
+          "dek": "El Centro Sismológico Nacional reportó movimientos de baja a moderada magnitud en distintos puntos del país, en la habitual actividad tectónica de la región.",
+          "source": "https://elcomercio.pe/respuestas/chile/temblor-en-chile-hoy-en-vivo-via-el-csn-y-ultimos-sismos-del-29-30-y-31-de-julio-de-2026-epicentro-magnitud-y-hora-exacta-centro-sismologico-nacional-santiago-socaire-lbposting-noticia/"
+        },
+        {
+          "eyebrow": "Tiempo",
+          "title": "Lluvia intensa cubre Santiago este viernes con hasta 10 mm de precipitaciones",
+          "dek": "La capital enfrenta una jornada lluviosa con temperaturas entre 15 y 18 grados. Se prevén condiciones similares durante el fin de semana invernal.",
+          "source": "https://www.vlnradio.cl/noticias/nacional/region-metropolitana/2026/07/30/el-tiempo-en-santiago-este-viernes-31-de-julio-de-2026/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El sector salmonicultor estima pérdidas de 500 millones de dólares por el arancel estadounidense",
+          "dek": "Las exportadoras de salmón advierten que EEUU es su principal mercado y que el gravamen del 12,5% podría reorientar parte de las ventas a Asia y Europa mientras dure la negociación.",
+          "source": "https://www.theclinic.cl/2026/07/27/los-envios-mas-afectados-con-el-alza-de-arancel-de-ee-uu-impacto-en-salmones-seria-de-us-500-millones-y-de-us-400-millones-en-frutas/"
+        }
+      ]
+    }
+  }
+}
