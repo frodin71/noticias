@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-01",
+  "dateLabel": "Sábado 1 de agosto de 2026",
+  "edition": "032",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Crisis migratoria",
+          "title": "España pide a la UE una reunión de emergencia tras la mayor crisis migratoria en Ceuta: 67 muertos y 50.000 cruces en 24 horas",
+          "dek": "La avalancha desde Marruecos dejó decenas de ahogados, obligó a desplegar al Ejército y provocó que Italia suspendiera temporalmente el Schengen con España. Sánchez exige a Bruselas una cumbre extraordinaria de ministros del Interior.",
+          "more": "El cruce masivo ocurrió el jueves 30 de julio, cuando decenas de miles de personas entraron a nado y por tierra al enclave español. La mayoría regresó a Marruecos al día siguiente, pero el saldo de al menos 67 muertos —muchos de ellos ahogados— conmocionó a Europa. La presidenta de la Comisión Europea, Ursula von der Leyen, calificó las imágenes de 'inaceptables'. Francia reforzó controles en su frontera con España; Portugal, en cambio, rechazó excluir a España del espacio Schengen. Veinticuatro países de la UE respaldaron la solicitud de una reunión urgente de ministros del Interior.",
+          "source": "https://www.infobae.com/espana/2026/08/01/pedro-sanchez-pide-a-la-ue-una-reunion-de-urgencia-de-ministros-del-interior-por-su-seria-preocupacion-ante-la-reaccion-de-algunos-gobiernos-por-la-crisis-migratoria-de-ceuta/",
+          "imgPrompt": "thousands of migrants wading and swimming through the sea toward the Spanish enclave of Ceuta, Spanish military and police on shore, aerial view, bright daylight"
+        },
+        {
+          "eyebrow": "Guerra",
+          "title": "Trump anuncia nuevos bombardeos sobre Irán mientras drones iraníes atacan Kuwait y un buque es alcanzado cerca del estrecho de Ormuz",
+          "dek": "El presidente estadounidense advirtió que golpeará Irán 'con mucha fuerza' en los próximos días. El conflicto, iniciado el 28 de febrero, lleva cinco meses sin señales de tregua y sigue arrastrando a nuevos actores regionales.",
+          "more": "Las autoridades kuwaitíes calificaron de 'agresión iraní' los ataques de drones que golpearon instalaciones en su territorio. Un buque cisterna fue alcanzado por un proyectil frente a las costas de Omán, cerca del estratégico estrecho de Ormuz. La ONU reportó que más de 4.000 niños han muerto o resultaron heridos en seis países de Oriente Medio desde el inicio de la guerra. Funcionarios de la Casa Blanca advirtieron que el alcance y los objetivos de las próximas ofensivas aún no están definidos.",
+          "source": "https://cnnespanol.cnn.com/2026/08/01/mundo/live-news/guerra-ee-uu-iran-medio-oriente-trax",
+          "imgPrompt": "military jets launching from an aircraft carrier at night in the Persian Gulf, orange explosions visible on the horizon, dramatic dark sky"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Trump anuncia acuerdo de 20 puntos para que Hamas se desarme y entregue el control de Gaza, pero el plazo vence este domingo",
+          "dek": "El 'Board of Peace' de Trump dice haber cerrado un plan para que Hamas ceda sus armas y se retire Israel por fases. Hamas dice que lo aceptará solo si Israel cumple compromisos previos; el gobierno israelí se mantiene escéptico.",
+          "more": "El proceso de desarme tomaría entre 200 y 250 días, progresando zona por zona en Gaza. Una Fuerza Internacional de Estabilización y una nueva policía palestina asumirían el control civil. Trump fijó el domingo como fecha límite para que las partes formalicen el acuerdo. Un funcionario del Board of Peace confirmó a Al Jazeera que Hamas y otras facciones armadas entregarían sus armas a un Comité Nacional designado para administrar el territorio.",
+          "source": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html",
+          "imgPrompt": "destroyed buildings and rubble in a Gaza street, ceasefire banners visible, United Nations vehicles in the background, overcast sky, no people, wide shot"
+        },
+        {
+          "eyebrow": "Economía EEUU",
+          "title": "El PIB de EEUU creció solo 1,5% en el segundo trimestre, por debajo de lo esperado, y los bonos del Tesoro escalan a máximos de dos décadas",
+          "dek": "La cifra quedó muy por debajo del 2,1% proyectado por el mercado. El consumo privado aceleró al 3,2%, pero el fuerte aumento en importaciones de infraestructura de inteligencia artificial arrastró el indicador.",
+          "more": "El rendimiento del bono del Tesoro estadounidense a 30 años alcanzó su nivel más alto en casi dos décadas tras la publicación del dato. Analistas advierten que la desaceleración complica las expectativas de que la Reserva Federal recorte tasas en el corto plazo. En el primer trimestre el PIB había crecido un 2,1%. El dato llegó en la misma jornada en que el Senado pospuso la confirmación del fiscal general nominado por Trump.",
+          "source": "https://www.npr.org/2026/07/31/g-s1-136527/up-first-newsletter-trump-hamas-israel-todd-blanche-us-economy",
+          "imgPrompt": "financial trading screen showing declining GDP bar charts in red, Wall Street trading floor in the background, traders looking at screens"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Amazon reporta ingresos históricos de 200.600 millones de dólares en el segundo trimestre: AWS crece al ritmo más veloz en 18 trimestres",
+          "dek": "La empresa superó ampliamente las estimaciones de Wall Street. Amazon Web Services creció un 36,7% impulsado por la demanda de inteligencia artificial. La acción sube un 9% en operaciones fuera de hora.",
+          "more": "Los ingresos operativos treparon un 43% a 27.500 millones de dólares. Amazon elevará su gasto de capital a 220.000 millones de dólares en 2026 para ampliar centros de datos e infraestructura de IA. Los negocios de chips e IA de la compañía ya generan más de 25.000 millones en ingresos anuales, creciendo a ritmo de triple dígito. Empresas como Anthropic y OpenAI son impulsores clave de la expansión en la nube.",
+          "source": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+          "imgPrompt": "rows of blue-lit Amazon data center servers with a technician walking through the aisle, futuristic cloud computing concept, AI technology"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Humanitario",
+          "title": "La crisis en Venezuela supera los 5.300 muertos y seis semanas después el aeropuerto de Maiquetía fija fecha para reactivar vuelos de carga",
+          "dek": "Los terremotos del 24 de junio siguen causando estragos: 53.000 edificios dañados o destruidos y 680.000 niños requieren asistencia urgente en las zonas afectadas.",
+          "source": "https://ayudaenaccion.org/blog/ayuda-humanitaria/terremotos-venezuela/"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Apple reporta ingresos récord de 109.400 millones de dólares en el tercer trimestre con iPhone, Mac y Servicios en máximos históricos",
+          "dek": "La empresa superó las expectativas de Wall Street, con ganancias netas de 29.800 millones de dólares en el trimestre de junio, el mejor de su historia para ese período.",
+          "source": "https://www.macrumors.com/2026/07/30/apple-3q-2026-earnings/"
+        },
+        {
+          "eyebrow": "Economía Asia",
+          "title": "Taiwán eleva su proyección de PIB al 7,7% para 2026, el mayor crecimiento en 16 años, impulsado por la demanda de chips de IA",
+          "dek": "El gobierno elevó el pronóstico gracias a que las exportaciones de semiconductores y equipos de inteligencia artificial subieron casi un 40% en el primer semestre.",
+          "source": "https://www.hl.co.uk/news/taiwan-hikes-2026-economic-growth-forecast-to-77-on-ai-demand"
+        },
+        {
+          "eyebrow": "EEUU",
+          "title": "El Senado pospone la confirmación de Todd Blanche como fiscal general de EEUU",
+          "dek": "Dos senadores republicanos bloquearon la nominación del asesor de Trump por el polémico acuerdo que el Departamento de Justicia firmó con el presidente en la demanda contra el IRS, que implicó un fondo de 1.800 millones de dólares.",
+          "source": "https://www.cnbc.com/2026/07/29/todd-blanche-attorney-general-trump-irs-audit-cornyn.html"
+        },
+        {
+          "eyebrow": "Seguridad marítima",
+          "title": "Arabia Saudí lidera una alianza de 14 naciones para proteger las rutas del mar Rojo ante los ataques de grupos aliados de Irán",
+          "dek": "El reino anunció la coalición defensiva para resguardar el comercio marítimo en el estratégico estrecho de Bab-el-Mandeb, afectado desde el inicio de la guerra con Irán.",
+          "source": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "Gustavo Petro concluye su última gira al exterior antes de entregar el poder en Colombia el próximo domingo",
+          "dek": "El mandatario colombiano cerró una visita simbólica a Cuba, su último viaje oficial al extranjero. Su sucesor asume la presidencia el primer domingo de agosto.",
+          "source": "https://lapatilla.com/2026/07/31/portadas-de-la-prensa-internacional-de-este-sabado-1-de-agosto-de-2026/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia invernal",
+          "title": "Un segundo sistema frontal golpea Chile este sábado con riesgo de más de 200 mm en el sur y alerta roja en el Biobío",
+          "dek": "Senapred mantiene monitoreo activo desde Antofagasta hasta Los Lagos. El primer frente ya dejó daños estimados en entre US$ 400 y 500 millones solo en Coquimbo y la provincia de Huasco. Hay cortes de ruta, postes caídos y hogares anegados.",
+          "more": "La Directora Nacional de Senapred reportó cortes de rutas por deslizamientos y acumulación de agua, caída de postes por fuertes vientos en Valparaíso y alerta roja para Los Ángeles en el Biobío por el aumento en el caudal del río. Las precipitaciones del segundo frente se activarán desde la tarde-noche del sábado y afectarán especialmente las regiones del centro-sur. El Ministerio de Educación suspendió las clases en la Región del Biobío. Meteored proyecta ráfagas de viento que podrían superar los 90 km/h en zonas cordilleranas.",
+          "source": "https://www.t13.cl/noticia/el-tiempo/nacional/sistema-frontal-ultimas-noticias-sobre-lluvias-emergencia-chile-2026",
+          "imgPrompt": "heavy rain flooding a street in a Chilean city center, emergency vehicles with flashing lights, dark storm clouds overhead, winter flooding scene"
+        },
+        {
+          "eyebrow": "Derechos",
+          "title": "Pañuelazo en 26 comunas rechaza el proyecto que obliga a escuchar el latido fetal antes del aborto legal",
+          "dek": "La Coordinadora Feminista 8M y más de 50 organizaciones marcharon este viernes con el lema 'Escucha mi decisión', en respuesta directa al proyecto 'Escucha su corazón' de diputados del Partido Nacional Libertario.",
+          "more": "La iniciativa, impulsada por el diputado Cristóbal Urruticoechea —esposo de la senadora Vanessa Kaiser, pariente de los conocidos ideólogos de derecha Axel y Johannes Kaiser—, exige que las mujeres escuchen el latido fetal antes del procedimiento amparado por las tres causales legales y prohíbe realizarlo si la paciente se niega. Organizaciones de derechos humanos lo califican de 'coacción estatal disfrazada de consentimiento'. Las manifestaciones se realizaron desde Iquique hasta Puerto Montt.",
+          "source": "https://radionuevomundo.cl/2026/07/panuelazo-contra-proyecto-escucha-su-corazon-coordinadora-8m-asegura-que-mas-de-50-organizaciones-alistan-movilizaciones-en-todo-chile/",
+          "imgPrompt": "women protesters holding green handkerchiefs in a central Santiago plaza, large crowd marching with banners and signs, daytime protest rally"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Kast impulsa reforma constitucional para cesar a autoridades que den positivo en pruebas antidrogas",
+          "dek": "El proyecto surgió tras la renuncia del exsubsecretario de Hacienda Juan Pablo Rodríguez, quien dio positivo en un control antidoping. La medida apuntaría a ministros, subsecretarios, senadores, diputados, gobernadores y alcaldes.",
+          "more": "El gobierno presentó la reforma como parte de su estrategia contra la infiltración del crimen organizado en el Estado. Los controles se realizarían al asumir el cargo y de forma periódica, con resultados públicos. El texto cuenta con respaldo transversal: sectores de la oposición han mostrado disposición a apoyarlo, lo que le daría visos de prosperar en el Congreso durante el segundo semestre legislativo.",
+          "source": "https://radio.uchile.cl/2026/07/27/presidente-kast-presenta-reforma-constitucional-para-desvincular-autoridades-ante-consumo-de-drogas/",
+          "imgPrompt": "Chilean president at a formal press conference at La Moneda palace with government ministers, Chilean flag in the background, official setting"
+        },
+        {
+          "eyebrow": "Comercio exterior",
+          "title": "Chile espera en agosto la llegada de negociadores de EEUU para intentar eximir al salmón, las frutas y el vino del arancel del 12,5%",
+          "dek": "Una delegación del representante comercial de EEUU (USTR) visitará Santiago. La Cancillería y los gremios exportadores coordinan una posición conjunta para la negociación.",
+          "more": "El arancel aplicado por Washington impacta principalmente al salmón (pérdidas estimadas en US$ 500 millones) y a las frutas (US$ 400 millones). El cobre, principal exportación de Chile, quedó exento. EEUU citó un supuesto 'fracaso' de Chile en combatir el trabajo forzoso, en una medida que también alcanza a Brasil, México, India y la Unión Europea. El representante adjunto Jeffrey Goettman encabezará la delegación estadounidense.",
+          "source": "https://www.latercera.com/pulso/noticia/arrancan-las-negociaciones-con-eeuu-la-reunion-de-cancilleria-y-los-gremios-con-miras-a-la-visita-de-la-ustr-en-agosto/",
+          "imgPrompt": "fresh salmon fillets and bottles of Chilean wine on a negotiation table with Chilean and US flags in the background, formal trade meeting setting"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registra 46 sismos en las últimas 24 horas, con el mayor de magnitud 4,9 al sur de Puerto Williams",
+          "dek": "El Centro Sismológico Nacional reportó movimientos dispersos a lo largo del país, sin alertas de tsunami ni reportes de daños en ninguna de las regiones afectadas.",
+          "source": "https://elcomercio.pe/respuestas/chile/temblor-hoy-en-chile-en-vivo-epicentro-hora-magnitud-y-intensidad-del-ultimo-sismo-reportado-el-1-y-2-de-agosto-de-2026-segun-el-csn-centro-sismologico-nacional-santiago-socaire-lbposting-noticia/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Nuevo informe revela que el Tren de Aragua opera ya en casi todo el territorio nacional, salvo cuatro regiones",
+          "dek": "El análisis de la UNAB muestra que la banda venezolana ha construido una estructura jerárquica con presencia en la mayoría de las regiones, con un portafolio que incluye extorsión, narcotráfico, trata de personas y lavado de activos.",
+          "source": "https://www.latercera.com/nacional/noticia/tren-de-aragua-duro-de-matar-la-fase-de-expansion-de-esta-estructura-criminal-en-chile/"
+        },
+        {
+          "eyebrow": "Invernal",
+          "title": "Mineduc suspende clases en el Biobío; Senapred declara alerta roja en Los Ángeles por desbordamiento de río",
+          "dek": "Las autoridades activaron el protocolo de emergencia ante el alza del caudal del río Biobío y el pronóstico de intensas precipitaciones para el sábado y el fin de semana en el centro-sur del país.",
+          "source": "https://www.latercera.com/nacional/noticia/de-temporal-en-temporal-lluvias-vuelven-a-tensionar-al-pais/"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "La Fiscalía confirma que las incautaciones de drogas aumentaron 3,7 veces en un año y superan los 800 millones de dólares",
+          "dek": "El fiscal Juan Castro Bekios destacó alzas del 334% en cocaína y del 194% en ketamina, y subrayó que seguir el dinero del crimen organizado es la principal herramienta de persecución penal.",
+          "source": "https://www.biobiochile.cl/noticias/entrevistas-bbcl/entrevista-nacional/2026/07/26/fiscal-juan-castro-bekios-seguir-el-dinero-del-crimen-organizado-no-es-una-metafora.shtml"
+        },
+        {
+          "eyebrow": "Exportaciones",
+          "title": "El sector salmonicultor estima pérdidas de 500 millones de dólares por el arancel estadounidense mientras espera la visita del USTR",
+          "dek": "Las exportadoras de salmón advierten que EEUU es su principal mercado y que el gravamen del 12,5% podría reorientar parte de las ventas a Asia y Europa mientras dure la negociación bilateral.",
+          "source": "https://www.biobiochile.cl/noticias/economia/actualidad-economica/2026/07/27/la-delegacion-de-eeuu-que-visitara-chile-para-negociar-exclusion-de-productos-bajo-arancel-castigo.shtml"
+        },
+        {
+          "eyebrow": "Cultura",
+          "title": "Lollapalooza Chicago 2026 se transmite en vivo este fin de semana y los fanáticos chilenos podrán seguirlo en línea",
+          "dek": "El icónico festival estadounidense se realiza en Chicago con Tyler, the Creator, Chappell Roan y Sabrina Carpenter en el cartel, y contará con transmisión disponible para todo el mundo.",
+          "source": "https://los40.cl/2026/07/30/la-unica-forma-de-ver-lollapalooza-chicago-2026-en-vivo-desde-chile-asi-podras-seguir-el-festival/"
+        }
+      ]
+    }
+  }
+}
