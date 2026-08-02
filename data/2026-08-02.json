@@ -1,0 +1,173 @@
+{
+  "date": "2026-08-02",
+  "dateLabel": "Domingo 2 de agosto de 2026",
+  "edition": "033",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Crisis migratoria",
+          "title": "67 muertos y Europa fracturada: la crisis de Ceuta sacude a la UE",
+          "dek": "Entre 50.000 y 60.000 migrantes cruzaron hacia el enclave español desde Marruecos en pocos días. Casi todos regresaron, pero la tragedia —67 muertos— y la división entre socios europeos marcan el momento.",
+          "more": "El primer ministro Pedro Sánchez visitó Ceuta y fustigó la respuesta «asimétrica» de algunos aliados. Italia amenazó con suspender el acceso de España al espacio Schengen; otros países ofrecieron solidaridad. En respuesta, 22 líderes europeos convocaron una cumbre de emergencia. España comenzó a instalar una barrera flotante de 500 metros en el rompeolas del Tarajal para cumplir un fallo del Tribunal Supremo. El ministro del Interior, Fernando Grande-Marlaska, afirmó que la situación estaba «casi totalmente revertida».",
+          "source": "https://www.euronews.com/my-europe/2026/08/01/situation-in-ceuta-almost-entirely-reversed-as-death-toll-climbs-to-67-spain-says",
+          "imgPrompt": "large crowd of migrants on a rocky coastal breakwater between border fences, Spanish patrol boats visible in the Mediterranean, overcast sky, wide shot"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Trump proclama un acuerdo «histórico» para desarmar a Hamás, pero nadie quiere ir primero",
+          "dek": "EEUU presentó un plan por fases para el desarme total de Hamás y la retirada israelí de Gaza. Hamás exige que Israel actúe antes; Israel no ha respaldado el acuerdo públicamente.",
+          "more": "El Consejo de Paz impulsado por Trump, junto a mediadores de Egipto, Catar, Turquía y EEUU, trazó una hoja de ruta de siete a ocho meses con pasos recíprocos y verificados de forma independiente. Desde que entró en vigor el cese el fuego el 10 de octubre de 2025, al menos 1.100 palestinos murieron en ataques israelíes, según organizaciones humanitarias. El dirigente de Hamás Ghazi Hamad declaró que no entregarán las armas mientras Israel mantenga tropas en Gaza.",
+          "source": "https://www.washingtonpost.com/world/2026/08/01/trump-gaza-deal-hamas-disarms-israel-withdraws-neither-wants-go-first/",
+          "imgPrompt": "diplomatic meeting with US, Egyptian and Qatari officials at a formal table, flags of multiple nations in the background, press cameras"
+        },
+        {
+          "eyebrow": "Guerra con Irán",
+          "title": "La tregua EEUU-Irán vuelve a romperse y Trump amenaza con reanudar los ataques",
+          "dek": "El conflicto abierto desde febrero entre Washington, Israel y Teherán entró en nueva fase de escalada, con intercambio de ataques y amenazas cruzadas mientras el Estrecho de Ormuz permanece en tensión.",
+          "more": "Kuwait interceptó drones iraníes el sábado. Irán amenazó con atacar países que alberguen bases militares de EEUU. Trump, que había pausado los bombardeos a pedido de Teherán, advirtió que los reanudará si no se alcanza un nuevo acuerdo. El Departamento de Estado renovó sus alertas a ciudadanos estadounidenses en todo Oriente Medio y recomendó estar preparados ante posibles cancelaciones de vuelos y cierres de espacio aéreo.",
+          "source": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump",
+          "imgPrompt": "US Navy warships in the Persian Gulf near the Strait of Hormuz, fighter jets on flight deck, hazy blue sky, wide angle"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Rusia lanza uno de sus mayores ataques del año: 9 muertos en Kiev",
+          "dek": "Moscú disparó 35 misiles balísticos y cerca de 190 drones contra Ucrania en la noche del 1 al 2 de agosto. Nueve personas murieron en la capital y 40 resultaron heridas.",
+          "more": "Las defensas ucranianas derribaron 109 de las 133 aeronaves no tripuladas y destruyeron la mayoría de los misiles, pero varios impactos golpearon zonas residenciales de Kiev y Járkov. En represalia, Ucrania atacó la base aérea de Engels y una refinería en Sarátov. El presidente Zelenski aprovechó el ataque para presionar a Europa y EEUU a transferir sus reservas disponibles de misiles Patriot. El Estado Mayor ucraniano cifra en 42.860 las bajas rusas solo en julio, la cifra mensual más alta del año.",
+          "source": "https://kyivindependent.com/",
+          "imgPrompt": "nighttime aerial photo of Kyiv with anti-aircraft fire trails streaking across the dark sky, city lights visible below, emergency lights"
+        },
+        {
+          "eyebrow": "Astronomía",
+          "title": "A 10 días del primer eclipse solar total sobre Europa continental en 27 años",
+          "dek": "El 12 de agosto la franja de totalidad cruzará España de oeste a este. Se esperan hasta 10 millones de visitantes y las reservas hoteleras en el corredor del eclipse se han disparado un 830%.",
+          "more": "El recorrido del eclipse pasará por A Coruña, Oviedo, León, Bilbao, Zaragoza y Valencia, donde la oscuridad durará hasta 2 minutos y 18 segundos. Madrid y Barcelona verán un 99% de cobertura del sol. Portugal tendrá visibilidad parcial en casi todo el país y totalidad solo en una franja remota del extremo noreste, cerca de Bragança. La demanda de alojamiento en el corredor ha generado precios de hasta 1.000 euros por noche.",
+          "source": "https://www.eldiario.es/economia/turismo-aprovecha-eclipse-12-agosto-reservas-disparadas-precios-1-000-euros-noche_1_13002068.html",
+          "imgPrompt": "total solar eclipse with corona visible above a Spanish hilltop landscape, crowd of spectators wearing protective glasses, warm dusk light"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Ceuta",
+          "title": "22 líderes europeos piden una cumbre de emergencia por la crisis migratoria",
+          "dek": "La fractura entre estados miembros se profundiza: Italia pide suspender el acceso de España al Schengen, mientras otros países ofrecen solidaridad a Madrid.",
+          "source": "https://www.euronews.com/my-europe/2026/08/01/22-eu-leaders-call-for-emergency-talks-over-ceuta-migrant-crisis"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "Kuwait interceptó drones iraníes mientras crece el riesgo de extensión del conflicto al Golfo",
+          "dek": "El incidente del sábado reaviva el temor a que la guerra EEUU-Israel-Irán se propague a otros estados de la región.",
+          "source": "https://www.cnn.com/2026/08/01/world/live-news/iran-war-trump"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Hamas condiciona su desarme a que Israel retire primero a sus tropas de Gaza",
+          "dek": "El acuerdo anunciado por Trump enfrenta el mismo escollo que los anteriores: ninguna de las partes quiere ser la primera en cumplir sus compromisos.",
+          "source": "https://www.cnbc.com/2026/07/31/trump-hamas-disarmament-conditions.html"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Zelenski presiona a Occidente para que transfiera sus stocks disponibles de misiles Patriot",
+          "dek": "El presidente ucraniano afirmó que los sistemas antibalísticos «existen en el mundo» y que sus aliados solo necesitan tomar la decisión política de enviarlos.",
+          "source": "https://news-pravda.com/world/2026/08/02/2487056.html"
+        },
+        {
+          "eyebrow": "Líbano",
+          "title": "Israel y Líbano reanudan negociaciones de paz en Roma el 4 de agosto",
+          "dek": "Las delegaciones se reunirán bajo mediación estadounidense para avanzar en un acuerdo que consolide el cese de hostilidades entre ambos países.",
+          "source": "https://www.aol.com/articles/latest-trump-pulls-back-threats-043331582.html"
+        },
+        {
+          "eyebrow": "Economía global",
+          "title": "China crece 4,3% en el segundo trimestre, por debajo de las expectativas",
+          "dek": "La desaceleración de la segunda economía del mundo presiona los mercados de materias primas y complica las perspectivas del comercio global.",
+          "source": "https://www.euronews.com/news/international"
+        },
+        {
+          "eyebrow": "Rusia",
+          "title": "Rusia sufrió en julio sus mayores pérdidas de personal del año: 42.860 bajas",
+          "dek": "El Estado Mayor ucraniano reportó que el mes pasado fue el más mortífero para las fuerzas rusas en términos de soldados muertos o heridos desde el inicio de la invasión.",
+          "source": "https://kyivindependent.com/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Emergencia",
+          "title": "Un nuevo temporal golpea el centro-sur: dos muertos y más de 2.000 personas aisladas",
+          "dek": "Lluvias intensas y vientos de hasta 100 km/h dejaron dos fallecidos en Los Ríos, 347 damnificados y 2.052 personas sin comunicación vial. El Senapred emitió 13 alertas de evacuación.",
+          "more": "Los dos muertos perdieron la vida cuando un árbol cayó sobre su vehículo en la región de Los Ríos. El balance preliminar registra 11 viviendas destruidas, 107 con daño mayor y 1.007 con daño menor, en un arco que va desde el Maule hasta Los Lagos, con comunas en alerta en Biobío, La Araucanía, Ñuble y Los Ríos. El sistema frontal de agosto llegó apenas semanas después del peor temporal en tres décadas: el de julio dejó 13 muertos, más de 3.000 damnificados, cerca de 2.800 casas destruidas y obligó al gobierno a declarar Estado de Catástrofe.",
+          "source": "https://www.infobae.com/america/america-latina/2026/08/02/temporal-en-chile-al-menos-dos-muertos-y-mas-de-300-afectados-por-las-fuertes-lluvias-y-rafagas-de-100-kmh/",
+          "imgPrompt": "flooded street in a southern Chilean city at night, fire trucks and rescue workers with flashlights, heavy rain, dark sky"
+        },
+        {
+          "eyebrow": "Gobierno",
+          "title": "Kast instruye al oficialismo a concentrarse en seguridad y empleo y frenar otras iniciativas",
+          "dek": "El presidente pidió a los partidos de la coalición que posterguen proyectos propios no prioritarios para el Ejecutivo. El ministerio de la Segpres respaldó el llamado al ordenamiento legislativo.",
+          "more": "Las prioridades declaradas para el segundo semestre incluyen la ampliación del plazo de flagrancia policial de 12 a 24 horas, el refuerzo de las facultades de Carabineros, el control de fronteras y nuevas herramientas contra el crimen organizado. El llamado llega a cinco meses de gobierno, tras una primera etapa marcada por el cambio de ministro de Seguridad a los 69 días —el reemplazo ministerial más rápido desde el retorno a la democracia en 1990.",
+          "source": "https://radiopaulina.cl/2026/08/01/segpres-respalda-llamado-de-kast-a-priorizar-seguridad-y-empleo-sobre-otros-debates-legislativos/",
+          "imgPrompt": "Chilean president at official press conference at La Moneda, ministers standing behind, podium with Chilean flag, formal interior"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "El Tren de Aragua triplicó los secuestros en Santiago y el gobierno promete respuesta dura",
+          "dek": "La organización criminal venezolana pasó de 19 a 63 casos de secuestro anuales en la capital desde su llegada. Habría extraído más de 13 millones de dólares de Chile.",
+          "more": "Para enfrentar la amenaza, el gobierno creó un Observatorio de Secuestros y anunció intervenciones en barrios críticos, refuerzo de la PDI y mejoras en el sistema de expulsiones. La lucha contra el crimen organizado es una de las banderas centrales de la agenda de Kast para el segundo semestre, junto con reformas procesales que amplíen las facultades policiales.",
+          "source": "https://www.swissinfo.ch/spa/chile-saca-pecho-contra-el-crimen-organizado-tras-captura-de-l%C3%ADder-del-tren-de-aragua/88546719",
+          "imgPrompt": "Chilean police officers in tactical gear conducting an anti-gang operation in a Santiago neighborhood, marked police vehicles, night scene"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Un sismo de magnitud 4,5 sacudió la zona de Socaire en la madrugada",
+          "dek": "El movimiento se registró a las 4:49 horas a 67 kilómetros de Socaire y a 215 km de profundidad. No se reportaron daños ni víctimas.",
+          "more": "",
+          "source": "https://www.infobae.com/noticias/2026/08/02/se-siente-sismo-de-magnitud-45-este-domingo-2-de-agosto-en-socaire/",
+          "imgPrompt": "seismograph machine recording wave patterns on a paper roll, scientific monitoring equipment in a lab, close-up"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Temporal",
+          "title": "Decenas de miles de hogares sin electricidad en varias regiones por el temporal",
+          "dek": "Los cortes afectan a Valparaíso, Viña del Mar, Maule, Coquimbo y la Región Metropolitana, mientras las empresas trabajan en el restablecimiento del suministro.",
+          "source": "https://kchcomunicacion.com/2026/08/02/chile-dos-fallecidos-y-centenares-de-damnificados-por-intenso-temporal/"
+        },
+        {
+          "eyebrow": "Temporal",
+          "title": "La DGA monitorea ríos en umbral rojo por riesgo de desbordes adicionales",
+          "dek": "La Dirección General de Aguas mantiene en alerta máxima los principales cauces del centro y sur del país ante la posibilidad de inundaciones adicionales durante el domingo.",
+          "source": "https://www.abc.com.py/internacionales/2026/08/01/chile-es-afectado-por-nuevo-temporal-y-se-ordenan-evacuaciones-en-varias-zonas-del-pais/"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "El gobierno busca ampliar la flagrancia policial de 12 a 24 horas",
+          "dek": "La medida es una de las principales reformas del paquete de seguridad que el gobierno de Kast quiere aprobar en el Congreso en el segundo semestre.",
+          "source": "https://radiopaulina.cl/2026/08/01/segpres-respalda-llamado-de-kast-a-priorizar-seguridad-y-empleo-sobre-otros-debates-legislativos/"
+        },
+        {
+          "eyebrow": "Clima",
+          "title": "Valdivia registró en julio la mayor cantidad de lluvia en un mes de toda su historia",
+          "dek": "La estación Pichoy contabilizó 849,8 mm en julio, superando el récord anterior de 591 mm de 1978, como parte del devastador temporal que declaró Estado de Catástrofe.",
+          "source": "https://es.wikipedia.org/wiki/Temporal_de_Chile_de_2026"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Chile registró actividad sísmica menor continua en las últimas 24 horas",
+          "dek": "Además del 4,5 en Socaire, el Centro Sismológico Nacional reportó movimientos de baja magnitud en varios puntos del territorio durante el sábado y la madrugada del domingo.",
+          "source": "https://www.volcanodiscovery.com/es/terremotos/chile.html"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "La desaceleración china presiona el precio del cobre, principal exportación de Chile",
+          "dek": "El crecimiento del PIB de China cayó al 4,3% en el segundo trimestre, debilitando la demanda del metal rojo en los mercados internacionales.",
+          "source": "https://www.latercera.com/pulso/noticia/las-tres-oportunidades-y-los-tres-riesgos-para-la-economia-chilena-en-2026/"
+        }
+      ]
+    }
+  }
+}
