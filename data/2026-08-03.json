@@ -1,0 +1,167 @@
+{
+  "date": "2026-08-03",
+  "dateLabel": "Lunes 3 de agosto de 2026",
+  "edition": "034",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Guerra con Irán",
+          "title": "Trump frena el «mayor ataque desde la Segunda Guerra» y anuncia negociaciones con Irán para hoy",
+          "dek": "El presidente de EEUU suspendió una ofensiva masiva contra Irán a pedido de Arabia Saudita, Emiratos y Catar, y declaró que las conversaciones de paz comenzarían el lunes. Teherán lo desmintió de inmediato.",
+          "more": "Trump describió el ataque cancelado como «el mayor desde la Segunda Guerra Mundial» y señaló que los países del Golfo lo instaron a frenarlo porque «consideran que hay un acuerdo». Según el mandatario, el primer punto a resolver sería la gestión del Estrecho de Ormuz, y luego vendría la desnuclearización de Irán. Sin embargo, el portavoz del Ministerio de Exteriores iraní desmintió que existan conversaciones bilaterales: solo Omán actúa como intermediario en el tema del Estrecho. Qatar y Pakistán también ejercen de mediadores. El domingo, la Guardia Revolucionaria iraní derribó un dron de origen desconocido sobre Ormuz, elevando la tensión.",
+          "source": "https://www.aljazeera.com/news/2026/8/3/trump-says-new-iran-negotiations-starting-what-we-know",
+          "imgPrompt": "US negotiators and Gulf diplomats in a formal meeting room with flags of Saudi Arabia, UAE, Qatar and United States, serious expressions, bright daylight"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Israel bombardea Gaza pese al acuerdo de desarme de Hamás; 18 palestinos muertos",
+          "dek": "Horas después de que Hamás aceptara condicionalmente un plan de Trump para su desarme y la retirada israelí, el Ejército de Israel intensificó los ataques y mató al menos a 18 personas. El ministro Ben Gvir rechazó el acuerdo.",
+          "more": "Los bombardeos alcanzaron la ciudad de Gaza en el norte, Deir al-Balah en el centro y Khan Younis en el sur, con el mayor número de muertos diarios en semanas. Hamás condicionó su aceptación a que Israel cese las hostilidades, se retire completamente de Gaza, permita la entrada del Comité Nacional de Administración y garantías internacionales, y avance hacia un Estado palestino. El ministro de Seguridad Nacional, Itamar Ben Gvir, calificó el acuerdo anunciado por Trump de «inaceptable» y el gabinete israelí no lo respaldó públicamente. El acuerdo fue mediado por Egipto, Catar, Turquía y EEUU.",
+          "source": "https://www.france24.com/es/medio-oriente/20260802-israel-mata-a-15-palestinos-en-gaza-y-no-cesa-sus-bombardeos-pese-al-plan-de-desarme-de-ham%C3%A1s",
+          "imgPrompt": "destroyed buildings in Gaza with smoke rising, Palestinian civilians moving through rubble, emergency workers searching the debris, overcast sky"
+        },
+        {
+          "eyebrow": "Crisis migratoria",
+          "title": "La UE convoca para el martes una cumbre de emergencia por Ceuta mientras Italia suspende el Schengen a España",
+          "dek": "Los ministros del Interior de la Unión Europea se reunirán el martes para abordar la crisis desatada por el cruce masivo de la frontera de Ceuta. Italia impuso controles fronterizos a España, fracturando el espacio europeo de libre circulación.",
+          "more": "La presidencia irlandesa del Consejo de la UE fijó la cumbre extraordinaria tras la llegada de entre 50.000 y 60.000 personas desde Marruecos en pocos días. El presidente español Pedro Sánchez calificó la reacción de algunos aliados de «egoísta y poco solidaria» y reclamó una respuesta común. Italia argumentó que la crisis desbordaba la capacidad de gestión española y restableció controles en aeropuertos. Cientos de migrantes comenzaron a retornar voluntariamente a Marruecos ante la falta de servicios básicos y en el marco de un acuerdo de repatriación entre Madrid y Rabat. EEUU elevó a nivel 3 su alerta de viaje para Ceuta.",
+          "source": "https://www.infobae.com/espana/2026/08/01/la-union-europea-busca-las-lecciones-aprendidas-para-mejorar-su-fronteras-tras-la-crisis-en-ceuta-tenemos-un-sistema-solido-pero-necesita-ser-fortalecido-aun-mas/",
+          "imgPrompt": "EU interior ministers arriving at a government building in Brussels, journalists and camera crews outside, European flags, cloudy day"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Drones ucranianos golpean Crimea en múltiples puntos; Rusia sigue avanzando en Zaporiyia",
+          "dek": "Las Fuerzas de Sistemas No Tripulados de Ucrania atacaron en la noche del domingo al lunes objetivos en Saky, Feodosia, Simferopol y Kerch. En el frente, Rusia tomó Lyubitske y presiona hacia el sur de Kupiansk.",
+          "more": "Los drones ucranianos también destruyeron una columna de camiones cisterna rusos con combustible en la localidad de Prymors'k, en el territorio ocupado de Zaporiyia. En el frente de Járkov, las fuerzas rusas avanzan hacia Borova y realizaron una nueva infiltración en dirección a Kupiansk-Vuzlovyi. El Estado Mayor ucraniano cifró en 1.390 los soldados rusos dados de baja solo en las últimas 24 horas, elevando las pérdidas totales desde febrero de 2022 a más de 1.446.000. Las ciudades ocupadas de Alchevsk y Perevalsk quedaron sin agua tras averías en su red de abastecimiento.",
+          "source": "https://spanish.news-pravda.com/world/2026/08/03/1053354.html",
+          "imgPrompt": "Ukrainian drone operator launching a UAV at dusk in a field, Ukrainian flag patch on uniform, military equipment nearby, horizon view"
+        },
+        {
+          "eyebrow": "Astronomía",
+          "title": "Faltan nueve días para el eclipse solar total sobre España, el primero en Europa continental en 27 años",
+          "dek": "El 12 de agosto la franja de totalidad cruzará la Península Ibérica de oeste a este, con hasta 2 minutos y 18 segundos de oscuridad. La ESA, el IGN y el Gobierno de España aceleran los preparativos finales.",
+          "more": "La franja de totalidad incluye A Coruña, Oviedo, León, Bilbao, Zaragoza y Valencia. Madrid y Barcelona verán una cobertura del 99% del sol. La ESA retransmitirá el fenómeno en directo desde el Observatorio Astrofísico de Javalambre en Teruel y organiza actividades públicas en León. El Instituto Geográfico Nacional ofrece un visualizador interactivo que calcula la hora exacta del eclipse para cada municipio. Las reservas hoteleras en el corredor del eclipse se han disparado hasta un 830% y se esperan hasta 10 millones de visitantes. Será el primer eclipse total visible desde la España peninsular desde 1905.",
+          "source": "https://www.ciencia.gob.es/Noticias/2026/julio/cuenta_atras_primer_eclipse_solar.html",
+          "imgPrompt": "total solar eclipse corona visible above a Spanish hilltop with spectators wearing protective eclipse glasses in a festive outdoor setting, warm August light"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Irán",
+          "title": "Teherán desmiente negociaciones con EEUU; solo Omán media en el tema de Ormuz",
+          "dek": "El portavoz de Exteriores iraní afirmó que el país «no recibirá ni visitará a ninguna delegación en estos días», contradiciéndose directamente con el anuncio de Trump sobre conversaciones bilaterales.",
+          "source": "https://www.cnbc.com/amp/2026/08/03/trump-iran-us-negotiations-peace-proposals-.html"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Ben Gvir llama «inaceptable» el plan de Trump y el gabinete israelí no lo ha respaldado",
+          "dek": "El ministro de Seguridad Nacional, conocido por su postura ultranacionalista, rechazó públicamente el acuerdo anunciado por la Casa Blanca sobre el desarme de Hamás y la retirada del IDF.",
+          "source": "https://www.publico.es/internacional/israel-incrementa-ataques-mata-18-gazaties.html"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Hamás: entregaremos armas solo con retirada israelí, reconstrucción y aval de Estado palestino",
+          "dek": "El movimiento islamista condicionó su aceptación del plan de Trump a cinco requisitos simultáneos, haciendo improbable una aplicación inmediata del acuerdo de desarme.",
+          "source": "https://www.latribuna.com.py/mundo/2026/08/01/hamas-acepta-desarmarse-y-abre-la-puerta-al-retiro-israeli/"
+        },
+        {
+          "eyebrow": "Ceuta",
+          "title": "Cientos de migrantes regresan voluntariamente a Marruecos ante la falta de servicios básicos",
+          "dek": "El acuerdo de repatriación entre España y Marruecos y la ausencia de condiciones de acogida aceleran los retornos espontáneos, reduciendo la presión sobre el enclave español.",
+          "source": "https://www.elespanol.com/espana/20260802/crisis-migratoria-ceuta-melilla-marruecos-hoy-en-directo-ultima-hora-entrada-inmigrantes-invasion/1003744341468_10.html"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Drones ucranianos destruyen columna de camiones cisterna rusos en el sur de Zaporiyia",
+          "dek": "Las Fuerzas de Sistemas No Tripulados golpearon el convoy de suministro de combustible en Prymorsk, en el territorio ocupado, afectando la logística de las tropas rusas en ese sector.",
+          "source": "https://spanish.news-pravda.com/world/2026/08/03/1053354.html"
+        },
+        {
+          "eyebrow": "Irán",
+          "title": "Guardia Revolucionaria iraní derriba un dron sobre el Estrecho de Ormuz",
+          "dek": "El incidente del domingo, con el aparato de origen no identificado, ocurrió mientras Trump anunciaba negociaciones inminentes y mantiene elevada la tensión en una vía marítima clave para el petróleo global.",
+          "source": "https://www.cbsnews.com/live-updates/iran-war-us-trump-strait-of-hormuz-kuwait-jordan-air-base/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Economía",
+          "title": "El Banco Central publica hoy el Imacec de junio: economistas esperan el primer dato positivo del año",
+          "dek": "Las proyecciones apuntan a un crecimiento de alrededor del 2% anual en junio, lo que marcaría los primeros «brotes verdes» de la economía chilena tras cinco meses consecutivos de caídas.",
+          "more": "El Índice de Producción Industrial de junio ya anticipó el giro: creció 1,3% anual, la primera alza después de ocho meses en terreno negativo. El Índice de Actividad del Comercio avanzó 4,8% y las ventas minoristas subieron 5,1%. Sin embargo, el segundo trimestre en conjunto podría cerrar con una variación levemente negativa (-0,1%) frente al mismo período de 2025. El dato llega en un momento clave: el Senado vota esta semana la reforma económica estrella del gobierno de Kast, y la peor encuesta de aprobación presidencial hasta ahora coincide con esta jornada.",
+          "source": "https://www.latercera.com/pulso/noticia/tras-cifras-sectoriales-economistas-anticipan-imacec-de-junio-en-torno-a-2/",
+          "imgPrompt": "Chilean central bank building in Santiago, exterior shot with economists entering for a press conference, morning light, government signage visible"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Kast enfrenta su semana más dura: encuesta mínima histórica y votación clave de su reforma en el Senado",
+          "dek": "El Ejecutivo lleva al Senado esta semana el proyecto económico misceláneo que en la Cámara pasó por un solo voto. La coincidencia con los peores índices de aprobación presidencial desde el 11 de marzo añade presión.",
+          "more": "El gobierno apuesta a que la reforma —llamada «ley de reconstrucción económica»— destrabe inversión y actúe como señal de que la coalición puede gobernar. Para reducir el ruido, Kast convocó a las directivas de los partidos del oficialismo y les pidió postergar iniciativas propias no prioritarias para el Ejecutivo. La agenda legislativa del segundo semestre prioriza seguridad, empleo y medidas pro-inversión. En paralelo, el 3 de agosto el Banco Central publica el Imacec de junio, un dato que podría complicar o aliviar el semestre económico.",
+          "source": "https://www.lanacion.com.ar/el-mundo/kast-llega-a-su-semana-mas-dura-la-peor-encuesta-de-su-gobierno-coincide-con-la-votacion-clave-de-su-nid11072026/",
+          "imgPrompt": "Chilean Senate chamber session in Valparaíso, lawmakers voting by hand with tense expressions, official chamber lighting, wide angle"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "El segundo temporal en un mes deja 180.000 hogares sin electricidad y acelera el cansancio social",
+          "dek": "El sistema frontal de agosto agrava la situación de un país que aún no termina de recuperarse del peor temporal en tres décadas: en julio quedaron 13 muertos, más de 60.000 damnificados y miles de casas destruidas.",
+          "more": "Los cortes afectaron a Valparaíso, Coquimbo, la Región Metropolitana, el Maule y regiones del sur. El Senapred registra 347 personas damnificadas por el nuevo temporal y 2.052 aisladas por cortes de caminos. Las empresas distribuidoras trabajan en el restablecimiento del suministro. El Estado de Catástrofe decretado en julio sigue vigente en varias regiones, y las organizaciones de reconstrucción como Movidos x Chile advierten que una parte significativa de los afectados del primer temporal aún no ha recibido apoyo suficiente.",
+          "source": "https://larepublica.pe/mundo/2026/08/02/chile-enfrenta-su-segundo-temporal-en-semanas-con-2-fallecidos-180000-personas-sin-luz-y-alerta-roja-en-varias-regiones-172932",
+          "imgPrompt": "electrical utility workers repairing power lines in the rain in southern Chile, orange vests, flooded road below, dark stormy sky"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Chile y Venezuela acuerdan normalizar relaciones consulares, interrumpidas desde 2024",
+          "dek": "Ambos países anunciaron el inicio de un proceso de restablecimiento de vínculos diplomáticos y consulares. Es el primer acercamiento formal entre Santiago y Caracas bajo el gobierno de Kast.",
+          "more": "El acuerdo implica retomar las relaciones suspendidas el año pasado, en un contexto en que Chile alberga una de las mayores comunidades venezolanas de la región. La vicepresidenta venezolana Delcy Rodríguez llamó a Kast a «marchar juntos» con una agenda de cooperación. El gobierno chileno no ha dado detalles sobre los términos del acuerdo ni sobre plazos para la reapertura de consulados.",
+          "source": "https://laverdad.com/delcy-rodriguez-llama-a-kast-a-marchar-juntos-con-una-agenda-de-cooperacion/",
+          "imgPrompt": "Chilean and Venezuelan flags side by side at a formal diplomatic meeting table, government officials shaking hands, official press room setting"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Seguridad",
+          "title": "Datos contradictorios sobre homicidios: gobierno dice que bajaron 10%, Ministerio Público reporta alza de 36,8%",
+          "dek": "La Subsecretaría de Prevención del Delito y la Fiscalía miden períodos distintos, pero la divergencia refleja el debate sobre si las políticas de seguridad de Kast están dando resultados.",
+          "source": "https://www.cnnchile.com/pais/gobierno-reporta-reduccion-del-10-en-homicidios-durante-2026-registran-343-casos-durante-el-ano/"
+        },
+        {
+          "eyebrow": "Temporal",
+          "title": "Más de 60.000 damnificados del temporal de julio aún esperan soluciones definitivas de vivienda",
+          "dek": "Organizaciones de apoyo alertan que, mientras llega el segundo sistema frontal, miles de familias afectadas por el temporal de julio siguen sin respuesta concreta del Estado para reconstruir sus hogares.",
+          "source": "https://www.diariosustentable.com/2026/07/mas-de-60-mil-damnificados-por-el-temporal-movidos-x-chile-abre-campana-para-llegar-con-ayuda-temprana/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El cobre se mantiene firme pese a tensiones geopolíticas, apuntalando al peso chileno",
+          "dek": "El metal rojo sostuvo sus niveles esta semana gracias a la demanda estructural ligada a la electrificación e inteligencia artificial, actuando como ancla del tipo de cambio en Chile.",
+          "source": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/el-dolar-en-chile-se-debilita-con-cobre-firme-y-foco-en-inflacion-de-ee-uu"
+        },
+        {
+          "eyebrow": "Sismología",
+          "title": "Un sismo de magnitud 3,9 sacudió la zona de Pica en la madrugada; sin daños reportados",
+          "dek": "El movimiento se registró a las 02:56 horas a 32 km al norte de Pica y a 98 km de profundidad. El Centro Sismológico Nacional no informó daños ni víctimas.",
+          "source": "https://www.latercera.com/servicios/noticia/temblor-hoy-lunes-3-de-agosto-en-chile-consulta-epicentro-y-magnitud/"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "El Senado analiza hoy la ampliación de la flagrancia policial de 12 a 24 horas",
+          "dek": "La comisión correspondiente sesiona en el primer día hábil de agosto con esta medida clave del paquete de seguridad del gobierno de Kast, que busca darle más herramientas a Carabineros y la PDI.",
+          "source": "https://www.mediabanco.com/pauta-mediabanco-actividad-legislativa-lunes-03-de-agosto-de-2026/"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Kast llama al orden a partidos del oficialismo y exige concentrarse en la agenda del gobierno",
+          "dek": "El Presidente convocó a las directivas de la coalición y les pidió no instalar debates que «no aportan» al ejecutivo, en un tirón de orejas a aliados que empujaban iniciativas propias en el Congreso.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/31/tiron-de-orejas-oficialista-presidente-kast-acusa-instalacion-de-agenda-que-no-aportaal-gobierno/"
+        }
+      ]
+    }
+  }
+}
