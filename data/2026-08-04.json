@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-04",
+  "dateLabel": "Martes 4 de agosto de 2026",
+  "edition": "035",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Irán",
+          "title": "Trump lanza ultimátum a Irán y amenaza con ataque si Teherán no negocia",
+          "dek": "El presidente de EEUU calificó su oferta como «la última oportunidad antes de la decapitación» y acusó a los ayatolás de «hipocresía» por negar que existan negociaciones directas con Washington sobre el estrecho de Ormuz.",
+          "more": "Trump canceló la semana pasada lo que describió como «el mayor ataque desde la Segunda Guerra Mundial» contra Irán, a instancias de Arabia Saudita, Emiratos y Catar. Desde entonces insiste en que hay conversaciones bilaterales en marcha, pero Teherán lo desmiente: solo reconoce tratar con Omán el tema del Estrecho. Los mercados reaccionaron: el crudo Brent cayó cerca de un 4,6% el lunes hasta los 84 dólares por barril, ante la expectativa de reapertura de Ormuz. Trump aseguró que el desbloqueo podría ocurrir «literalmente mañana», pero que la desnuclearización «podría tardar un poco».",
+          "source": "https://www.elespanol.com/mundo/oriente-proximo/20260804/guerra-iran-ultima-hora-directo-trump-da-oportunidad-decapitacion-hipocrita-sentarse-negociar/1003744343110_10.html",
+          "imgPrompt": "Donald Trump speaking at a White House podium with military officials behind him, serious expression, American flags in background, press corps in foreground"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Israel escala bombardeos en Gaza pese al plan de desarme de Hamás; al menos 19 muertos",
+          "dek": "Un día después de que Hamás aceptara condicionalmente el plan de Trump para su desarme, el Ejército israelí intensificó los ataques en el norte, centro y sur de la Franja, con al menos 19 palestinos muertos.",
+          "more": "El acuerdo mediado por Egipto, Catar, Turquía y EEUU contempla que Hamás entregue sus armas en fases a cambio de la retirada israelí, la entrada de un comité de administración y garantías para avanzar hacia un Estado palestino. Sin embargo, el ministro de Seguridad Nacional israelí Itamar Ben Gvir lo calificó de «inaceptable» y el gabinete no lo respaldó públicamente. Hamás condicionó su aceptación a cinco requisitos simultáneos, entre ellos el cese completo de hostilidades, haciendo improbable una aplicación inmediata del pacto.",
+          "source": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan",
+          "imgPrompt": "destroyed apartment buildings in Gaza city with rescue workers searching rubble, smoke rising in background, Palestinian civilians walking through devastated street, overcast sky"
+        },
+        {
+          "eyebrow": "Migraciones",
+          "title": "La UE celebra cumbre de emergencia por Ceuta; Italia suspendió el Schengen a España",
+          "dek": "Los ministros del Interior europeos se reunieron en Bruselas tras el cruce masivo de unas 60.000 personas desde Marruecos. España defendió su política migratoria con una rebaja del 42% en llegadas irregulares en 2025.",
+          "more": "La crisis provocó que Italia suspendiese el acuerdo Schengen con España, restaurando controles en sus aeropuertos y generando tensiones diplomáticas dentro de la UE. Al menos 72 personas murieron al intentar cruzar, algunas ahogadas y otras aplastadas en el rompeolas. La mayoría de los migrantes retornó voluntariamente a Marruecos por falta de servicios básicos. Madrid y Rabat mantienen un acuerdo de repatriación activo. EEUU elevó a nivel 3 su alerta de viaje para Ceuta. Los ministros acordaron al final del encuentro aumentar la ayuda financiera a Marruecos para control de fronteras.",
+          "source": "https://www.infobae.com/espana/2026/08/03/ultima-hora-de-la-crisis-migratoria-de-ceuta-y-el-cruce-masivo-de-la-frontera-en-directo-marruecos-reconoce-40000-entradas-de-migrantes-a-territorio-espanol-mientras-achaca-la-crisis-a-mafias-desinformacion-y-malentendidos-sobre-la-sentencia-del-supremo/",
+          "imgPrompt": "EU interior ministers arriving at a government building in Brussels with European flags outside, journalists and cameras gathered, formal diplomatic setting, cloudy day"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Zelenski apuesta a terminar la guerra antes del invierno; Rusia avanza en Kramatorsk y Kupiansk",
+          "dek": "El presidente ucraniano anunció que harán «todo lo posible» para cerrar el conflicto en otoño mediante presión militar y sanciones. En el frente, Rusia intensificó la ofensiva en el Donbás y el norte.",
+          "more": "Rusia lanzó 181 drones de largo alcance en dos días contra ciudades como Kiev, Sumy, Dnipró y Zaporiyia. Ucrania respondió atacando refinerías e instalaciones logísticas en suelo ruso y en territorios ocupados, incluida una columna de camiones cisterna en el sur de Zaporiyia. Zelenski reconoció que es imposible predecir con certeza el momento exacto, pero subrayó que un nuevo invierno en guerra sería devastador para la infraestructura energética del país. Las bajas rusas acumuladas desde febrero de 2022 superarían 1.446.000, según el Estado Mayor ucraniano.",
+          "source": "https://spanish.news-pravda.com/world/2026/08/04/1055192.html",
+          "imgPrompt": "Ukrainian soldiers in a defensive trench at dawn with military equipment, mist over fields, helmets and rifles visible, tense military atmosphere"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "Colombia se prepara para la posesión de De la Espriella el viernes en Cali; Kast y Milei entre los asistentes",
+          "dek": "Abelardo de la Espriella asumirá la presidencia de Colombia el 7 de agosto en Cali —primera inauguración presidencial fuera de Bogotá—, con la presencia de los mandatarios de Chile, Argentina, España, Ecuador y Paraguay.",
+          "more": "De la Espriella derrotó al candidato izquierdista Iván Cepeda del Pacto Histórico por cerca de 250.000 votos el 21 de junio. La ceremonia, en la Arena USC de la Universidad Santiago de Cali, contará con 6.326 uniformados de seguridad. Su gobierno de derecha marca el fin de cuatro años del progresismo de Gustavo Petro y el inicio del período 2026-2030. El presidente electo ya anunció una revisión de alianzas y acercamiento a El Salvador, y señaló que su posesión no será transmitida por la televisión pública estatal.",
+          "source": "https://www.vanguardia.com/colombia/2026/08/02/posesion-de-la-espriella-invitados-internacionales-seguridad-y-los-detalles-que-marcaran-el-7-de-agosto/",
+          "imgPrompt": "Colombian presidential inauguration venue decorated with national flags and floral arrangements, diplomats and guests in formal attire arriving at a large auditorium"
+        },
+        {
+          "eyebrow": "Astronomía",
+          "title": "Ocho días para el eclipse solar total sobre España: el primero en la Península en 121 años",
+          "dek": "El 12 de agosto la franja de totalidad cruzará la Península Ibérica de oeste a este con hasta 2 minutos y 18 segundos de oscuridad, y se esperan hasta 10 millones de visitantes en el corredor del evento.",
+          "more": "La franja de totalidad incluye A Coruña, Oviedo, León, Bilbao, Zaragoza y Valencia. Madrid y Barcelona verán una cobertura del 99% del sol. La ESA retransmitirá en directo desde el Observatorio Astrofísico de Javalambre en Teruel y organiza actividades públicas en León. Las reservas hoteleras en el corredor se han disparado un 830%. La Comunidad de Madrid repartirá gratuitamente gafas certificadas. Será el primer eclipse total visible desde la España peninsular desde 1905.",
+          "source": "https://www.esa.int/Space_in_Member_States/Spain/La_ESA_prepara_el_eclipse_solar_total_del_12_de_agosto",
+          "imgPrompt": "total solar eclipse corona visible above the Spanish countryside with crowds of spectators wearing protective glasses in an open field, warm summer day, festive atmosphere"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Irán",
+          "title": "Petróleo cae 4,6% ante expectativa de reapertura del Estrecho de Ormuz",
+          "dek": "El crudo Brent retrocedió a cerca de 84 dólares por barril el lunes al interpretar los mercados que las señales de negociación entre EEUU e Irán podrían desbloquear el paso vital para el 20% del petróleo mundial.",
+          "source": "https://www.bloomberglinea.com/mundo/estados-unidos/trump-dice-que-iran-tiene-una-ultima-oportunidad-de-negociar-pero-teheran-niega-conversaciones/"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Ben Gvir rechaza el plan de Trump; el gabinete israelí no lo ha respaldado",
+          "dek": "El ministro de Seguridad Nacional ultranacionalista calificó el acuerdo de «inaceptable» y el gobierno de Netanyahu no emitió ningún respaldo público, dejando en el aire la viabilidad del pacto de desarme.",
+          "source": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know"
+        },
+        {
+          "eyebrow": "Ceuta",
+          "title": "UE incrementa ayuda a Marruecos para evitar una nueva crisis migratoria",
+          "dek": "Tras la cumbre extraordinaria, los ministros europeos acordaron reforzar la financiación a Rabat para control de flujos y colaboración con países de origen como Mauritania, Senegal y Gambia.",
+          "source": "https://cnnespanol.cnn.com/2026/08/02/espana/ceuta-crisis-migratoria-frontera-marruecos-ap"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Rusia lanza 181 drones en dos días sobre ciudades ucranianas",
+          "dek": "Los ataques de largo alcance se dirigieron contra Kiev, Sumy, Dnipró y Zaporiyia, mientras las fuerzas rusas presionan en tierra desde el Donbás hasta el frente de Járkov.",
+          "source": "https://spanish.news-pravda.com/world/2026/08/04/1055164.html"
+        },
+        {
+          "eyebrow": "Colombia",
+          "title": "Petro cierra su mandato con un festival masivo de defensa de la educación pública",
+          "dek": "El presidente saliente de Colombia encabezó su último acto masivo, un festival cultural y político en Bogotá, a tres días de entregar el poder al presidente electo Abelardo de la Espriella.",
+          "source": "https://www.infobae.com/america/agencias/2026/08/03/martes-4-de-agosto-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "CEPAL",
+          "title": "CEPAL lanza informe sobre cómo prosperar en la nueva era geopolítica",
+          "dek": "La Comisión Económica para América Latina y el Caribe presentó este martes «Rupturas y oportunidades», con propuestas para que la región navegue el nuevo escenario de tensiones comerciales y reorganización de cadenas globales de valor.",
+          "source": "https://www.infobae.com/america/agencias/2026/08/03/martes-4-de-agosto-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "Beirut",
+          "title": "Líbano conmemora seis años de la explosión del puerto; familias exigen justicia",
+          "dek": "El 4 de agosto de 2020, una de las mayores explosiones no nucleares de la historia mató a más de 200 personas. Los familiares de las víctimas siguen reclamando responsables ante la parálisis judicial.",
+          "source": "https://es.euronews.com/video/2026/08/04/ultimas-noticias-04-agosto-2026-manana"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Economía",
+          "title": "Imacec de junio creció 2,4% y Chile aleja el riesgo de recesión técnica",
+          "dek": "El indicador de actividad de junio duplicó las expectativas de los economistas y puso fin a cinco meses consecutivos de cifras negativas. El segundo trimestre cerró con una expansión del 0,1%, descartando formalmente dos trimestres seguidos en rojo.",
+          "more": "El Banco Central publicó el dato el lunes: la serie desestacionalizada subió 0,6% respecto a mayo y 1,4% en doce meses. La recuperación fue impulsada por la minería, los servicios y el comercio. El ministro de Hacienda, Jorge Quiroz, mantuvo la proyección de crecimiento anual en 1,8%. El resultado llegó en un momento político clave: la megarreforma económica de Kast vuelve esta semana al Congreso para su despacho definitivo.",
+          "source": "https://www.emol.com/noticias/Economia/2026/08/03/1207411/imacec-de-junio-banco-central.html",
+          "imgPrompt": "Chilean economist presenting economic data on a large screen at the Banco Central de Chile press conference room in Santiago, graphs showing upward trend, official institutional setting"
+        },
+        {
+          "eyebrow": "Legislativo",
+          "title": "La megarreforma económica de Kast vuelve al Congreso esta semana para su despacho definitivo",
+          "dek": "La comisión mixta resolvió el último artículo pendiente y el proyecto regresa a las salas de Diputados y Senado. La oposición ya anunció recurso al Tribunal Constitucional si se despacha.",
+          "more": "La reforma fue aprobada por el Senado el 16 de julio en una sesión de casi 12 horas, pero la Cámara la devolvió a comisión mixta por el artículo de compensaciones a municipios por la exención de contribuciones para mayores de 65 años. Si ambas cámaras ratifican el informe, Kast logrará convertir en ley su principal apuesta legislativa: rebaja del impuesto corporativo del 27% al 23%, estatuto de invariabilidad tributaria de 10 a 20 años según el monto de inversión, y la exención de contribuciones. El Frente Amplio y otros partidos de oposición prometieron ir al TC para intentar bloquearlo.",
+          "source": "https://www.elmostrador.cl/noticias/pais/2026/07/22/objetivo-despacharla-hoy-definen-integrantes-de-la-comision-mixta-para-la-megarreforma/",
+          "imgPrompt": "Chilean Chamber of Deputies plenary session in Valparaíso with lawmakers at their desks debating, official legislative hall with Chilean coat of arms, tense voting atmosphere"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Segundo temporal del mes deja 2 muertos y más de 6.000 damnificados en Chile",
+          "dek": "El sistema frontal de agosto provocó la muerte de dos personas en Los Ríos, dejó a 6.183 damnificados y mantuvo a 461 personas aisladas. Más de 180.000 hogares llegaron a estar sin electricidad en el momento más crítico.",
+          "more": "Ambas víctimas fallecieron al caer un árbol sobre el vehículo en que viajaban en la región de Los Ríos. Los cortes de luz afectaron Coquimbo, Valparaíso, la Metropolitana, el Maule y el sur. El Estado de Catástrofe del temporal de julio —que dejó 13 muertos y más de 60.000 damnificados— sigue vigente en varias regiones. Organizaciones como Movidos x Chile advierten que miles de familias afectadas por el primer temporal aún no reciben soluciones definitivas de vivienda.",
+          "source": "https://www.df.cl/economia-y-politica/pais/sistema-frontal-en-chile-mas-de-400-damnificados-y-al-menos-2-fallecidos",
+          "imgPrompt": "utility workers in orange vests repairing power lines in heavy rain in southern Chile, flooded road below, dark stormy sky overhead, emergency vehicles nearby"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Kast viajará a Cali el viernes para la posesión del nuevo presidente colombiano De la Espriella",
+          "dek": "El mandatario chileno asistirá junto a Milei, Noboa y el rey Felipe VI a la inauguración del gobierno de derecha de Abelardo de la Espriella, primera ceremonia presidencial colombiana fuera de Bogotá.",
+          "more": "La presencia de Kast refuerza el alineamiento del bloque de gobiernos de derecha en América del Sur. De la Espriella derrotó en junio al candidato izquierdista Iván Cepeda del Pacto Histórico e inicia su mandato 2026-2030. La inauguración se realizará en la Arena USC de la Universidad Santiago de Cali con un despliegue de más de 6.300 uniformados de la Policía Nacional. Por primera vez en la historia de Colombia, la ceremonia no se celebrará en la capital.",
+          "source": "https://www.portafolio.co/economia/gobierno/quienes-iran-a-la-posesion-presidencial-de-de-la-espriella-estos-son-lideres-que-han-confirmado-su-asistencia-499367",
+          "imgPrompt": "presidents and heads of state in formal attire gathered for an official ceremony in Latin America, flags of Chile, Colombia and Argentina visible, formal handshakes, press pool"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Economía",
+          "title": "Q2 crece 0,1%: Chile descarta formalmente la recesión técnica",
+          "dek": "El Imacec de junio completó un segundo trimestre con expansión mínima pero positiva, evitando dos trimestres seguidos de caída. El ministro Quiroz mantuvo la proyección anual en 1,8%.",
+          "source": "https://www.cooperativa.cl/noticias/economia/crecimiento/imacec-de-junio-supero-las-expectativas-y-chile-evita-la-recesion/2026-08-03/083646.html"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Oposición llevará la megarreforma al Tribunal Constitucional si es despachada",
+          "dek": "Senadores del Frente Amplio y otros partidos anunciaron que recurrirán al TC para impugnar la reforma económica y tributaria de Kast si Diputados y Senado ratifican esta semana el informe de la comisión mixta.",
+          "source": "https://gestion.pe/mundo/internacional/senado-de-chile-aprueba-con-cambios-la-mega-reforma-economica-y-tributaria-de-kast-noticia/"
+        },
+        {
+          "eyebrow": "Temporal",
+          "title": "Más de 60.000 damnificados del temporal de julio aún esperan soluciones de vivienda",
+          "dek": "Mientras llega un nuevo sistema frontal, miles de familias afectadas por el peor temporal en tres décadas aún no han recibido respuesta concreta del Estado para reconstruir sus hogares.",
+          "source": "https://www.baenegocios.com/mundo/temporal-en-chile-dos-muertos-347-damnificados-y-mas-de-2-000-personas-aisladas-904/"
+        },
+        {
+          "eyebrow": "Crimen organizado",
+          "title": "Indicador revela alza de 45% en delitos de crimen organizado en Chile desde 2022",
+          "dek": "El nuevo informe nacional identificó 85 comunas con niveles críticos y detectó un aumento del 7.400% en extorsiones en la última década. El ministro Arrau reconoció que Chile no puede seguir «mirando esta amenaza desde lejos».",
+          "source": "https://www.latercera.com/nacional/noticia/ministro-arrau-en-foro-internacional-de-crimen-organizado-durante-mucho-tiempo-chile-creyo-que-podia-mirar-esta-amenaza-desde-lejos/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "El cobre se mantiene firme y apuntala al peso chileno pese a la incertidumbre global",
+          "dek": "El metal rojo sostuvo sus niveles gracias a la demanda estructural vinculada a la electrificación y la inteligencia artificial, funcionando como ancla del tipo de cambio en una semana de alta volatilidad geopolítica.",
+          "source": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/el-dolar-en-chile-se-debilita-con-cobre-firme-y-foco-en-inflacion-de-ee-uu"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Chile y Venezuela avanzan en la normalización de relaciones consulares",
+          "dek": "El proceso de restablecimiento de vínculos anunciado la semana pasada entre Santiago y Caracas continúa. Es el primer acercamiento formal bajo el gobierno de Kast, en un contexto en que Chile alberga una de las mayores comunidades venezolanas de la región.",
+          "source": "https://laverdad.com/delcy-rodriguez-llama-a-kast-a-marchar-juntos-con-una-agenda-de-cooperacion/"
+        }
+      ]
+    }
+  }
+}
