@@ -1,0 +1,181 @@
+{
+  "date": "2026-08-05",
+  "dateLabel": "Miércoles 5 de agosto de 2026",
+  "edition": "036",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Irán",
+          "title": "Trump anuncia acuerdo para reabrir el Estrecho de Ormuz «para hoy o mañana»",
+          "dek": "El presidente de EEUU y el secretario del Tesoro Bessent señalaron que las negociaciones con Irán y Omán están en su fase final y que un pacto podría formalizarse el miércoles o jueves. El Brent cayó a 78 dólares por barril ante la expectativa.",
+          "more": "El acuerdo en discusión contempla que los barcos entren al Golfo Pérsico por una ruta controlada por Irán y salgan por otra bajo jurisdicción de Omán. El secretario de Estado Marco Rubio admitió avances significativos, pero aclaró que aún no hay pacto firmado. Irán, que sigue negando negociaciones directas con Washington, afirmó estar en la fase final de conversaciones con Omán sobre la navegación en el Estrecho. En paralelo, el Pentágono reconoció que EEUU ha consumido cerca del 80% de sus interceptores antimisiles durante el conflicto, nivel que analistas califican como peligrosamente bajo. El Brent cotiza en 78,43 dólares por barril, frente a los 84 dólares del inicio de semana.",
+          "source": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html",
+          "imgPrompt": "a large oil tanker ship navigating through a narrow strategic waterway at dawn, rocky coastline on both sides, calm sea, aerial perspective, no visible text or flags"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "El mayor ataque ruso del verano golpea Kyiv: 17 muertos y 44 heridos en una noche",
+          "dek": "Rusia disparó 24 misiles balísticos, cuatro hipersónicos y 115 drones contra la región de la capital ucraniana durante la noche del martes al miércoles. Zelenski denunció que los blancos —una cervecería, almacenes civiles y una estación ferroviaria— no tenían relación con la guerra.",
+          "more": "Además del ataque sobre Kyiv, Rusia bombardeó la ciudad de Sumy, donde murieron una anciana y dos niños. Moscú afirmó haber golpeado centros de logística militar. Por su parte, la campaña ucraniana de drones ha atacado instalaciones petroleras en Samara, Leningrado, Moscú y Nizhny Nóvgorod, neutralizando según estimaciones ucranianas el 40% de la capacidad refinera de Rusia. Un bombardero estratégico Tu-95MS fue destruido en la base de Engels. Zelenski describió el patrón de ataques nocturnos masivos como casi rutinario durante este verano.",
+          "source": "https://www.washingtonpost.com/world/2026/08/05/ukraine-war-russia-kyiv-patriot-ballistic-missile/03aab2ca-9092-11f1-9fdc-0a725c989a7b_story.html",
+          "imgPrompt": "emergency workers with helmets and flashlights searching the rubble of a destroyed warehouse building at night in a city, dust and smoke rising, ambulances and fire trucks in background"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Plan de desarme de Hamás permanece bloqueado a seis días del anuncio de Trump",
+          "dek": "Israel no ha dado su aval al pacto anunciado el 30 de julio y los ataques sobre Gaza continúan. Un enviado especial visitó esta semana a Netanyahu para urgirle a aceptar, sin resultados. La reconstrucción del enclave parece cada vez más lejana.",
+          "more": "El acuerdo mediado por Egipto, Catar, Turquía y EEUU contempla el desarme gradual de Hamás a cambio de la retirada israelí. Sin embargo, el ministro de Seguridad Nacional Ben Gvir lo calificó de inaceptable y el gobierno de Netanyahu no lo ha respaldado públicamente. Hamás, por su parte, condicionó cada paso a un cese completo y simultáneo de hostilidades. El enviado del Consejo de Paz regresó de Tel Aviv sin compromisos concretos. Las organizaciones humanitarias advierten que la población civil sigue atrapada sin perspectiva de alivio a corto plazo.",
+          "source": "https://www.washingtontimes.com/news/2026/aug/3/benjamin-netanyahu-board-peace-envoy-meet-gaza-disarmament-deal-urges/",
+          "imgPrompt": "Palestinian civilians walking through rubble of destroyed residential buildings in Gaza, aid workers distributing supplies in the foreground, overcast sky, dust in the air"
+        },
+        {
+          "eyebrow": "América Latina",
+          "title": "Cali se blindó para la posesión histórica del viernes: delegaciones de 30 países llegan mañana",
+          "dek": "La ciudad colombiana despliega más de 11.000 uniformados para recibir el viernes a Abelardo de la Espriella como nuevo presidente. El Rey Felipe VI, Javier Milei, Marco Rubio, José Antonio Kast, Daniel Noboa y Gianni Infantino (FIFA) confirman asistencia.",
+          "more": "La inauguración en la Arena USC de la Universidad Santiago de Cali marca la primera posesión presidencial colombiana fuera de Bogotá y el fin de cuatro años del gobierno de Gustavo Petro. Las delegaciones comienzan a arribar este jueves. El nuevo mandatario, de derecha, ya anunció una revisión de alianzas con apertura hacia El Salvador y mayor coordinación en seguridad con Chile. Exguerrilleros que se desmovilizaron bajo los acuerdos de paz de Petro expresaron incertidumbre sobre si el nuevo gobierno mantendrá los compromisos. El primer consejo de seguridad de De la Espriella está previsto para el sábado 8.",
+          "source": "https://www.eltiempo.com/colombia/cali/cali-esta-lista-para-representar-a-colombia-ante-el-mundo-por-posesion-de-de-la-espriella-blindaje-por-aire-y-tierra-y-hoteles-para-delegaciones-3575850",
+          "imgPrompt": "the main avenue of Cali Colombia decorated with Colombian national flags and large ceremonial banners for a presidential inauguration, security personnel lining the street, sunny day, mountains in background"
+        },
+        {
+          "eyebrow": "Tecnología",
+          "title": "Banco Mundial: la IA puede dar a los países pobres un salto de un siglo en una sola década",
+          "dek": "El Informe sobre el Desarrollo Mundial 2026, publicado este martes, afirma que la inteligencia artificial puede comprimir décadas de progreso en países de ingresos bajos, siempre que se cierren brechas críticas de energía, conectividad y calidad institucional.",
+          "more": "El documento del Banco Mundial establece que apenas el 4,5% de los empleos en economías de bajos ingresos están en riesgo inmediato de ser desplazados por la IA generativa, frente al 14,2% en economías avanzadas. El informe advierte, sin embargo, que los beneficios no llegarán solos: se requieren inversiones masivas en infraestructura eléctrica, acceso a internet y formación de capacidades locales. La publicación llega cuando las grandes tecnológicas —Amazon, Google, Meta y Microsoft— tienen comprometidos entre 600.000 y 700.000 millones de dólares en expansión de IA durante 2026.",
+          "source": "https://www.bancomundial.org/es/news/press-release/2026/08/04/ai-offers-lifeline-to-developing-economies-in-an-era-of-weak-growth",
+          "imgPrompt": "young students in a modern computer lab in a developing country using AI software on screens, engaged and focused expressions, bright natural light through large windows"
+        },
+        {
+          "eyebrow": "Astronomía",
+          "title": "Siete días para el primer eclipse total en la Península Ibérica en 121 años",
+          "dek": "El 12 de agosto la franja de totalidad cruzará España de oeste a este, con hasta 2 minutos y 18 segundos de oscuridad. Se esperan cerca de 10 millones de visitantes en el corredor que atraviesa A Coruña, Oviedo, Bilbao, Zaragoza y Valencia.",
+          "more": "La ESA retransmitirá en directo desde el Observatorio Astrofísico de Javalambre en Teruel. El Ministerio de Transportes habilitó un visor cartográfico para planificar el punto de observación. La Comunidad de Madrid repartirá gafas certificadas de forma gratuita. Las reservas hoteleras en el corredor de totalidad crecieron un 830%. Barcelona y Madrid, fuera de la franja total, verán de todas formas una cobertura solar del 99%. Será el primer eclipse total visible desde la España peninsular desde 1905.",
+          "source": "https://www.esa.int/Space_in_Member_States/Spain/La_ESA_prepara_el_eclipse_solar_total_del_12_de_agosto",
+          "imgPrompt": "crowds of people wearing solar eclipse glasses looking up at the sky in an open Spanish plaza, summer day, telescopes and cameras set up, festive and expectant atmosphere"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Petróleo",
+          "title": "Brent cae a 78 dólares por barril ante la esperanza de un acuerdo sobre Ormuz",
+          "dek": "El crudo de referencia europeo cedió un 1,2% en la mañana del miércoles, siguiendo las declaraciones de Trump y Bessent sobre la inminencia de un pacto que reabriría el paso del 20% del petróleo mundial.",
+          "source": "https://www.cnbc.com/2026/08/05/us-iran-war-trump-hormuz-bessent-iran-deal-close.html"
+        },
+        {
+          "eyebrow": "EEUU-Irán",
+          "title": "El Pentágono admite haber consumido el 80% de sus interceptores antimisiles durante el conflicto",
+          "dek": "Fuentes militares citadas por la CNN advirtieron que el arsenal de misiles interceptores de EEUU está en niveles peligrosamente bajos tras los meses de operaciones contra Irán, lo que añade presión al proceso negociador.",
+          "source": "https://www.cnn.com/2026/08/05/world/live-news/iran-war-trump"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Drones ucranianos incendian refinerías en cuatro regiones rusas y destruyen un bombardero estratégico",
+          "dek": "Como contraofensiva aérea, fuerzas ucranianas golpearon instalaciones de combustible en Samara, Leningrado, Moscú y Nizhny Nóvgorod, y destruyeron un bombardero Tu-95MS en la base de Engels.",
+          "source": "https://euromaidanpress.com/2026/08/04/this-russian-refinery-makes-the-jet-fuel-for-moscows-warplanes-and-ukraine-keeps-setting-it-on-fire/"
+        },
+        {
+          "eyebrow": "Negocios",
+          "title": "MercadoLibre publica resultados del Q2 hoy: analistas esperan ingresos de 9.770 millones de dólares",
+          "dek": "El gigante del comercio electrónico y las finanzas digitales latinoamericanas reporta sus cifras del segundo trimestre, con proyecciones de crecimiento del 44% interanual impulsado por la expansión del negocio financiero.",
+          "source": "https://www.stocktitan.net/news/MELI/mercado-libre-inc-to-report-second-quarter-2026-financial-ss83mde7bqey.html"
+        },
+        {
+          "eyebrow": "Venezuela",
+          "title": "Fe y Alegría lanza campaña de becas para 270 estudiantes sin hogar tras el terremoto de junio",
+          "dek": "La organización educativa activó un canal de donaciones digitales hasta el 30 de septiembre para ayudar a los alumnos desplazados por el doble terremoto del 24 de junio, el mayor desastre de Venezuela en décadas.",
+          "source": "https://www.feyalegria.org/la-mision-es-venezuela-emergencia-2026/"
+        },
+        {
+          "eyebrow": "Colombia",
+          "title": "Gianni Infantino (FIFA) se suma a los líderes mundiales que asistirán a la posesión de De la Espriella",
+          "dek": "El presidente de la FIFA confirmó su presencia en Cali el viernes, añadiéndose a la lista de más de 30 delegaciones internacionales para la primera inauguración presidencial colombiana fuera de Bogotá.",
+          "source": "https://www.elheraldo.co/colombia/2026/08/03/gianni-infantino-presidente-de-la-fifa-estara-en-la-posesion-de-abelardo-de-la-espriella-en-cali/"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Enviado de Trump visita a Netanyahu para urgirle a aceptar el plan de paz, sin avances",
+          "dek": "El representante especial del Consejo de Paz se reunió con el primer ministro israelí para presionarle a respaldar el acuerdo de desarme de Hamás del 30 de julio, pero la reunión no produjo compromisos públicos.",
+          "source": "https://www.washingtontimes.com/news/2026/aug/3/benjamin-netanyahu-board-peace-envoy-meet-gaza-disarmament-deal-urges/"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Legislativo",
+          "title": "Kast ingresa hoy tres vetos supresivos a la megarreforma; el Congreso los votaría el lunes 10",
+          "dek": "Tras la aprobación del Senado ayer (27 a 22), el Ejecutivo presenta este miércoles vetos para eliminar el anatocismo, el derecho al olvido financiero y la norma de pago a 30 días para pymes que el Congreso añadió durante el debate. Kast prepara además una cadena nacional.",
+          "more": "Una vez que ambas cámaras voten los vetos —lo que el gobierno estima que ocurrirá en la semana del lunes 10— el Ejecutivo promulgará la ley en un solo acto. La oposición, liderada por el Frente Amplio, ya ingresó requerimientos al Tribunal Constitucional para impugnar varias disposiciones de la reforma, lo que podría retrasar la entrada en vigor de medidas clave: la rebaja del impuesto corporativo del 27% al 23% y el estatuto de invariabilidad tributaria extendido hasta 20 años. El ministro de Hacienda, Jorge Quiroz, celebró el despacho y aseguró que con esta ley Chile comienza nuevamente a crecer.",
+          "source": "https://www.latercera.com/politica/noticia/con-esta-ley-chile-comienza-nuevamente-a-crecer-gobierno-valora-despacho-de-megarreforma-y-este-miercoles-ingresara-vetos-supresivos/",
+          "imgPrompt": "Chilean Chamber of Deputies plenary hall in Valparaíso during a legislative vote, lawmakers at their desks with voting panels illuminated, Chilean coat of arms visible above the presiding chair"
+        },
+        {
+          "eyebrow": "Diplomacia",
+          "title": "Kast viaja mañana a Cali para ser testigo de la primera transición de poder en Colombia",
+          "dek": "El mandatario chileno partirá este jueves hacia Colombia para asistir el viernes a la posesión del derechista Abelardo de la Espriella, junto a Milei, el Rey Felipe VI, Noboa y Rubio. Es la primera inauguración presidencial colombiana fuera de Bogotá.",
+          "more": "La presencia de Kast junto al bloque de gobernantes de derecha consolida el alineamiento ideológico en América del Sur. De la Espriella inicia el período 2026-2030 tras derrotar al candidato del Pacto Histórico. Su agenda incluye una revisión de alianzas hacia El Salvador, mayor coordinación en seguridad con Chile y un trato crítico a los acuerdos de paz heredados de Petro. El primer consejo de seguridad del nuevo gobierno colombiano está previsto para el sábado 8 de agosto.",
+          "source": "https://www.semana.com/politica/articulo/posesion-de-abelardo-de-la-espriella-los-presidentes-confirmados-los-invitados-especiales-y-el-blindaje-de-cali/202621/",
+          "imgPrompt": "Chilean president José Antonio Kast in a formal dark suit boarding a government aircraft, Chilean flag on the fuselage, aides accompanying him, airport tarmac setting"
+        },
+        {
+          "eyebrow": "Emergencia",
+          "title": "Segundo sistema frontal eleva a más de 8.000 los damnificados acumulados de agosto",
+          "dek": "Con el frente activo sobre la zona centro-sur, el balance de ambos sistemas del mes supera los 8.000 afectados. La Araucanía concentra más del 60% de los damnificados; miles de familias del temporal de julio aún aguardan solución habitacional definitiva.",
+          "more": "El nuevo frente golpeó principalmente La Araucanía, el Maule y el Biobío, regiones que no habían terminado de recuperarse del evento anterior. El balance del temporal de julio incluía 13 muertos, más de 60.000 damnificados y más de 15.000 aislados en su punto crítico. Los estados de catástrofe siguen vigentes en varias regiones. Organizaciones de la sociedad civil advierten que el Estado no ha entregado aún respuestas definitivas de vivienda a miles de familias del primer evento, lo que agudiza la vulnerabilidad ante nuevos sistemas frontales. Las lluvias continuarán al menos hasta el jueves, según el pronóstico del Servicio Meteorológico.",
+          "source": "https://www.telesurtv.net/nuevo-sistema-frontal-en-chile-se-suma-al-temporal-que-afecta-a-la-nacion/",
+          "imgPrompt": "flooded rural roads in southern Chile during a winter storm, emergency responders in orange vests managing the area, dark storm clouds over low hills, water covering fields"
+        },
+        {
+          "eyebrow": "Seguridad",
+          "title": "Gobierno reporta baja del 10% en homicidios en 2026; secuestros consumados caen 42%",
+          "dek": "Chile acumula tres años consecutivos de descenso en muertes violentas. El balance del primer semestre suma 343 víctimas de homicidio, los robos con violencia bajaron 11% y los secuestros consumados cedieron 42%, aunque el crimen organizado transnacional sigue adaptándose.",
+          "more": "El ministerio del Interior destacó los indicadores positivos, pero reconoció que el crimen organizado ha evolucionado: crece en sofisticación tecnológica e infiltra economías locales mediante extorsiones y lavado de dinero. Las extorsiones acumulan un alza del 7.400% en la última década. Las regiones de Arica y Parinacota registran tasas de homicidio que duplican el promedio nacional. El gobierno anunció que la siguiente etapa de la agenda de seguridad —una vez promulgada la megarreforma— abordará marcos específicos contra el crimen organizado transnacional.",
+          "source": "https://www.cnnchile.com/pais/gobierno-reporta-reduccion-del-10-en-homicidios-durante-2026-registran-343-casos-durante-el-ano/",
+          "imgPrompt": "Chilean Interior Ministry press conference in Santiago, minister and officials at a podium with statistical charts on a screen behind them, carabineros officers standing to one side"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Judicial",
+          "title": "Oposición presentó requerimientos al TC para bloquear la megarreforma",
+          "dek": "Partidos del Frente Amplio y otros sectores ingresaron recursos al Tribunal Constitucional impugnando disposiciones clave de la reforma económica, lo que podría suspender cautelarmente la entrada en vigor de algunas medidas mientras se tramita el fallo.",
+          "source": "https://radio.uchile.cl/2026/08/04/megarreforma-cierra-su-paso-por-el-congreso-veto-presidenciales-y-tc-definiran-su-destino-final/"
+        },
+        {
+          "eyebrow": "Gobierno",
+          "title": "Kast prepara cadena nacional para celebrar la megarreforma y anunciar la nueva agenda",
+          "dek": "El presidente emitirá un mensaje a la nación para destacar el hito legislativo y proyectar la segunda fase de su gobierno, que tendrá al fortalecimiento de la seguridad pública como eje central una vez cerrada la tramitación económica.",
+          "source": "https://www.theclinic.cl/2026/08/04/la-cadena-nacional-con-la-que-kast-busca-destacar-el-hito-de-la-megarreforma-y-dar-inicio-a-una-nueva-etapa-de-su-gobierno/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Imacec de junio consolida recuperación: Q2 cierra en positivo y aleja la recesión técnica",
+          "dek": "El crecimiento de 2,4% interanual de junio puso fin a cinco meses de contracción y completó un segundo trimestre con expansión del 0,1%. El ministro Quiroz mantiene sin cambios la proyección de 1,8% de crecimiento para todo 2026.",
+          "source": "https://www.emol.com/noticias/Economia/2026/08/03/1207411/imacec-de-junio-banco-central.html"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "Cobre firme apuntala al peso chileno en una semana de alta volatilidad geopolítica",
+          "dek": "El metal rojo sostiene sus niveles ante la demanda estructural por electrificación e inteligencia artificial, funcionando como ancla del tipo de cambio frente a las turbulencias por las negociaciones con Irán y la guerra en Ucrania.",
+          "source": "https://www.xtb.com/lat/analisis-y-noticias/analisis-de-mercado/el-dolar-en-chile-se-debilita-con-cobre-firme-y-foco-en-inflacion-de-ee-uu"
+        },
+        {
+          "eyebrow": "Araucanía",
+          "title": "La Araucanía concentra más del 60% de los damnificados del segundo temporal de agosto",
+          "dek": "Con más de 5.000 afectados en la región, La Araucanía es el epicentro del último sistema frontal. Cientos de personas permanecen aisladas por cortes de caminos. Las precipitaciones continuarán hasta el jueves según el pronóstico oficial.",
+          "source": "https://radio.uchile.cl/2026/08/03/balance-sistema-frontal-zona-centro-sur-casi-mil-400-damnificados-y-5-mil-936-personas-aisladas/"
+        },
+        {
+          "eyebrow": "Megarreforma",
+          "title": "Los tres vetos suprimen normas que el Congreso añadió: anatocismo, olvido financiero y pago a 30 días",
+          "dek": "El Ejecutivo considera que esas disposiciones, incorporadas durante el debate parlamentario, exceden el espíritu de la reforma de reactivación. El Congreso deberá votar los vetos supresivos antes de la promulgación definitiva de la ley.",
+          "source": "https://www.latercera.com/politica/noticia/megarreforma-gobierno-define-vetar-tres-articulos-pero-el-congreso-le-pone-otra-vez-freno-a-quiroz/"
+        }
+      ]
+    }
+  }
+}
