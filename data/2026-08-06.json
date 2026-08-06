@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-06",
+  "dateLabel": "Jueves 6 de agosto de 2026",
+  "edition": "037",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Crisis del Golfo",
+          "title": "EE.UU., Irán y Omán están cerca de un acuerdo para reabrir el Estrecho de Ormuz",
+          "dek": "Las negociaciones mediadas por Omán produjeron consenso sobre rutas de navegación; Trump afirma que la reapertura del estrecho es inminente.",
+          "more": "El Estrecho de Ormuz lleva bloqueado desde el 28 de febrero, cuando EE.UU. e Israel lanzaron una campaña aérea contra Irán y asesinaron a su líder supremo, Alí Jamenei. El cierre ha desplomado las exportaciones globales de gas natural licuado en un 95% y golpea con fuerza las importaciones de crudo de Japón y otros países asiáticos. El marco de acuerdo, aún sin firma, establecería carriles diferenciados de entrada y salida para los buques comerciales.",
+          "source": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want",
+          "imgPrompt": "large oil tanker in a narrow blue sea strait with arid coastlines on both sides, daylight, aerial view"
+        },
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Israel sigue atacando Gaza pese al acuerdo de desarme anunciado por Trump",
+          "dek": "Desde que se conoció el pacto a fines de julio, los bombardeos israelíes mataron a decenas de personas; Hamas exige la retirada israelí antes de entregar sus armas.",
+          "more": "El acuerdo anunciado por Trump requiere que Hamas transfiera el control de Gaza a un gobierno tecnocrático palestino y que Israel se retire gradualmente. Sin embargo, Hamas insiste en que Israel debe salir primero, y Tel Aviv rechaza esa secuencia. Un enviado del equipo negociador se reunió con Netanyahu para pedirle que detuviera los ataques, pero Israel afirmó que continuará operando para proteger a sus fuerzas.",
+          "source": "https://www.pbs.org/newshour/world/there-are-supposed-to-be-ceasefires-across-the-middle-east-the-fighting-is-worsening",
+          "imgPrompt": "destroyed buildings in a dense urban area, rubble and smoke, no people visible, overcast sky"
+        },
+        {
+          "eyebrow": "Migración",
+          "title": "La Corte Suprema de EE.UU. autoriza deportar a más de 330.000 haitianos con TPS",
+          "dek": "El fallo permite al gobierno de Trump revocar el estatus migratorio temporal y ejecutar operativos de deportación masiva; ICE ya prepara redadas en Ohio.",
+          "more": "Los afectados llevan años trabajando legalmente en EE.UU., principalmente en sectores esenciales como salud y construcción. El Departamento de Seguridad Interior ofrece 2.600 dólares y un vuelo gratuito a Haití a quienes se entreguen voluntariamente. Analistas describen el fin del TPS haitiano como la primera ficha del mayor desmonte migratorio de la administración Trump.",
+          "source": "https://www.eltiempo.com/amp/mundo/eeuu-y-canada/fin-del-tps-para-haitianos-es-apenas-la-primera-ficha-del-mayor-desmonte-migratorio-de-donald-trump-ice-ya-prepara-redadas-3574208",
+          "imgPrompt": "long queue of people with luggage at an outdoor immigration checkpoint in the United States, daylight, border fence in background"
+        },
+        {
+          "eyebrow": "EE.UU.",
+          "title": "El progresista Abdul El-Sayed gana la primaria demócrata al Senado de Michigan",
+          "dek": "El médico de origen egipcio derrotó al candidato del establishment respaldado por AIPAC, que gastó 46 millones de dólares en la contienda más cara de la historia del Partido Demócrata.",
+          "more": "El-Sayed, epidemiólogo y ex director de Salud del condado de Wayne, se impuso a la representante Haley Stevens. Si vence en noviembre al republicano Mike Rogers, sería el primer senador musulmán en la historia de Estados Unidos. Su victoria es celebrada por la izquierda del partido como una señal de que el movimiento progresista puede derrotar al dinero del establishment.",
+          "source": "https://www.nbcnews.com/politics/2026-election/abdul-el-sayed-wins-michigans-democratic-senate-primary-notching-a-midwe-rcna589750",
+          "imgPrompt": "campaign rally crowd cheering in an indoor auditorium, diverse audience, bright stage lighting, American election banners"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Venezuela",
+          "title": "Chavismo y oposición reanudan diálogos por los sismos de junio",
+          "dek": "Ambas partes retoman las jornadas de negociación para coordinar la respuesta humanitaria y política a los terremotos del pasado 24 de junio.",
+          "source": "https://kvia.com/news/noticias/cnn-spanish/2026/08/06/las-5-cosas-que-debes-saber-este-6-de-agosto/"
+        },
+        {
+          "eyebrow": "Espacio",
+          "title": "Astronautas de la NASA realizan caminata espacial de casi siete horas",
+          "dek": "Anil Menon y Jessica Meir trabajaron en el exterior de la Estación Espacial Internacional para preparar la futura instalación de un panel solar desplegable.",
+          "source": "https://kvia.com/news/noticias/cnn-spanish/2026/08/06/las-5-cosas-que-debes-saber-este-6-de-agosto/"
+        },
+        {
+          "eyebrow": "Europa",
+          "title": "Rusia descarta negociar con Ucrania; Trump dice que el momento de terminar la guerra ha llegado",
+          "dek": "Putin calificó de grosera la propuesta ucraniana de diálogo, mientras analistas cercanos al presidente estadounidense advierten de una ventana diplomática que podría cerrarse.",
+          "source": "https://www.fdd.org/overnight-brief/august-4-2026/"
+        },
+        {
+          "eyebrow": "Inmigración europea",
+          "title": "Ceuta recupera la normalidad tras la entrada masiva de migrantes desde Marruecos",
+          "dek": "Una semana después del cruce sin precedentes de decenas de miles de personas, la frontera volvió a operar con fluidez, aunque la crisis dejó al menos cien muertos.",
+          "source": "https://www.infobae.com/america/agencias/2026/08/06/jueves-6-de-agosto-de-2026-0700-gmt/?outputType=amp-type"
+        },
+        {
+          "eyebrow": "Golfo Pérsico",
+          "title": "Houthis atacan un petrolero saudí mientras Trump dice que Ormuz reabrirá pronto",
+          "dek": "El grupo yemení reclamó la autoría del ataque al mismo tiempo que el presidente estadounidense mostró optimismo sobre las negociaciones con Irán mediadas por Omán.",
+          "source": "https://www.cnn.com/2026/08/05/world/live-news/iran-war-trump"
+        },
+        {
+          "eyebrow": "Energía",
+          "title": "Tres meses de bloqueo en Ormuz han desplomado un 95% las exportaciones de gas natural licuado",
+          "dek": "El cierre iraní del estrecho provocó una crisis de suministro energético global; Japón vio caer sus importaciones de crudo un 64% y las exportaciones de urea bajaron un 83%.",
+          "source": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Seguridad",
+          "title": "Kast lanza la ACOT: más de 30 reformas, incluida una constitucional, para combatir el crimen organizado",
+          "dek": "El presidente anunció en cadena nacional su Agenda contra el Crimen Organizado y el Terrorismo, que busca consagrar la seguridad pública como deber del Estado en la Constitución.",
+          "more": "Las medidas más relevantes incluyen despliegue policial permanente en los 50 barrios más críticos del país, ampliar el plazo de detención por flagrancia de 12 a 24 horas, crear el delito de pertenencia a organización criminal con penas agravadas, y establecer una agencia estatal para el decomiso y destrucción de bienes del crimen. Kast espera que el paquete esté aprobado antes de Navidad.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/05/estos-son-los-ejes-de-la-megarreforma-de-seguridad-acot-de-kast-para-perseguir-el-crimen-organizado.shtml",
+          "imgPrompt": "Chilean police Carabineros in uniform standing at night in an urban neighborhood, streetlights illuminating a residential street, Santiago"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El Congreso aprueba la megareforma económica de Kast: rebaja tributaria e impulso a la inversión",
+          "dek": "La ley de Reactivación Económica y Fomento del Empleo, aprobada el martes, reduce gradualmente el impuesto corporativo del 27% al 23% y amplía los beneficios tributarios para la inversión de largo plazo.",
+          "more": "La oposición rechazó el proyecto y lo calificó como un beneficio exclusivo para los sectores más ricos; el 56% de la ciudadanía, según Cadem, se opone a la rebaja impositiva a las grandes empresas. El gobierno la celebró como la mayor apertura a la inversión en décadas. Se esperan impugnaciones ante el Tribunal Constitucional y posibles vetos presidenciales para ajustar el texto final.",
+          "source": "https://www.cooperativa.cl/noticias/economia/impuestos/gobierno-celebra-la-aprobacion-final-de-su-megarreforma-chile-reabre/2026-08-04/194139.html",
+          "imgPrompt": "interior of a legislative chamber with lawmakers at their seats, wide angle shot, formal session, daytime"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "El Imacec de junio creció 2,4%: la economía chilena rompe cinco meses de caídas consecutivas",
+          "dek": "La minería, los servicios y el comercio impulsaron la recuperación; el Banco Central proyecta un alza de entre 1% y 1,75% para el total del año.",
+          "more": "El resultado permite eludir por ahora una recesión técnica. Los datos del segundo trimestre completo se conocerán el 18 de agosto. El cobre fue el principal motor del crecimiento, con la producción minera expandiéndose un 3,9% en términos anuales.",
+          "source": "https://forbes.cl/economia-y-finanzas/2026-08-03/economia-chilena-respira-despues-de-cinco-meses-de-caidas-en-el-pib/",
+          "imgPrompt": "open-pit copper mine in northern Chile, trucks on terraced ramps, Atacama desert landscape, aerial view, daylight"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Aprobación de Kast toca piso histórico: 25,6% a cinco meses de gobierno",
+          "dek": "La encuesta Cadem registra el nivel más bajo desde que el presidente asumió en marzo, con un 58,9% de desaprobación; economía y seguridad concentran el malestar ciudadano.",
+          "more": "Analistas apuntan a que la ciudadanía aún no percibe mejoras concretas en sus dos áreas de mayor preocupación. La aprobación no repuntó ni tras la aprobación de la megareforma económica, lo que sugiere que el debate político en torno a ella tampoco mejoró la imagen del presidente.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/02/expertos-coinciden-dudas-por-seguridad-y-economia-mantienen-baja-la-aprobacion-del-presidente-kast.shtml",
+          "imgPrompt": "facade of La Moneda presidential palace in Santiago, Chile, daytime, street level view, pedestrians walking"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Política",
+          "title": "Kast descarta la agenda valórica y dice que gobernará en torno a seguridad, economía y empleo",
+          "dek": "El presidente dejó en claro que su administración no impulsará reformas en materias valóricas y que los tres pilares de su gestión serán la seguridad ciudadana, la reactivación económica y la generación de empleo.",
+          "source": "https://www.cooperativa.cl/noticias/pais/presidente-kast/kast-desahucio-la-agenda-valorica-los-tres-ejes-de-este-gobierno-son/2026-08-05/215104.html"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Megareforma económica: vienen vetos presidenciales e impugnaciones ante el Tribunal Constitucional",
+          "dek": "Tras la aprobación legislativa, la oposición alista recursos de inconstitucionalidad y el Ejecutivo estudia vetos para ajustar el texto antes de su promulgación.",
+          "source": "https://chocale.cl/2026/08/que-es-lo-que-viene-para-la-megarreforma/"
+        },
+        {
+          "eyebrow": "Internacional",
+          "title": "Expresidente Boric viajará a foro progresista en Uruguay y luego a Berlín",
+          "dek": "La Cámara de Diputados aprobó el permiso para que el exmandatario asista al Congreso Panamericano Montevideo 2026 el 20-23 de agosto y a la Berliner Festspiele el 30 de agosto.",
+          "source": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/viajes-al-exterior/expresidente-boric-alista-nuevos-viajes-a-uruguay-y-alemania/2026-08-05/120358.html"
+        },
+        {
+          "eyebrow": "Sismos",
+          "title": "Sismo de magnitud 4,1 sacudió Caleta El Cobre en la madrugada",
+          "dek": "El movimiento ocurrió a las 05:14 horas con epicentro a 39 km de la localidad y una profundidad de 27 km; el CSN no reportó daños.",
+          "source": "https://www.infobae.com/noticias/2026/08/06/se-percibe-sismo-de-magnitud-41-en-la-ciudad-de-caleta-el-cobre-este-jueves-6-de-agosto/"
+        },
+        {
+          "eyebrow": "Tiempo",
+          "title": "Lluvia y frío en Santiago: máxima de 14°C y precipitaciones en la mañana",
+          "dek": "El jueves arrancó con lluvia en la capital y se espera una jornada húmeda y fría; en sectores cordilleranos hay posibilidad de nieve.",
+          "source": "https://www.vlnradio.cl/noticias/nacional/region-metropolitana/2026/08/05/tiempo-hoy-en-santiago-jornada-del-6-de-agosto-de-2026/"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "Mercado proyecta IPC de 0,2% en julio y crecimiento anual de 1,3% para el año",
+          "dek": "La encuesta de expectativas del Banco Central sitúa la inflación bajo control y un crecimiento moderado, por debajo de las proyecciones oficiales del instituto emisor.",
+          "source": "https://www.cooperativa.cl/noticias/economia/banco-central/mercado-proyecta-que-el-pib-de-2026-aumentara-en-1-3-y-un-ipc-de-0-2-en/2026-07-10/125455.html"
+        }
+      ]
+    }
+  }
+}
