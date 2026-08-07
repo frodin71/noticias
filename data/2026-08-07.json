@@ -1,0 +1,159 @@
+{
+  "date": "2026-08-07",
+  "dateLabel": "Viernes 7 de agosto de 2026",
+  "edition": "038",
+  "sections": {
+    "intl": {
+      "label": "Internacional",
+      "wire": "world wire",
+      "notas": [
+        {
+          "eyebrow": "Colombia",
+          "title": "Espriella asume la presidencia en Cali con Colombia al borde de la ruptura institucional",
+          "dek": "El político de derecha tomó posesión en la Arena USC —primera ceremonia presidencial fuera de Bogotá en más de un siglo— en medio de protestas, alertas de seguridad y el boicot de Petro, que niega el resultado.",
+          "more": "Abelardo de la Espriella, abogado de 58 años, derrotó en junio al candidato del Pacto Histórico Iván Cepeda. El saliente Gustavo Petro alegó fraude sin presentar pruebas ante los tribunales; el Consejo de Estado rechazó la impugnación y los observadores internacionales avalaron el resultado. Petro y sus aliados boicotearon la ceremonia. En las horas previas, las fuerzas de seguridad arrestaron a una mujer que transportaba explosivos en un bus con destino a Cali, y el Ejército enfrentó a integrantes del EMC en las montañas entre Palmira y El Cerrito. Espriella anunció que Colombia abandonará la Ruta de la Seda china y se alineará con EE.UU. El rey de España Felipe VI y los presidentes de Argentina y Paraguay asistieron a la investidura.",
+          "source": "https://cnnespanol.cnn.com/2026/08/06/colombia/de-la-espriella-asume-colombia-tension-oposicion-orix",
+          "imgPrompt": "presidential inauguration ceremony at a large indoor arena in Cali Colombia, crowd waving Colombian flags, official stage with presidential sash and dignitaries, daylight"
+        },
+        {
+          "eyebrow": "Golfo Pérsico",
+          "title": "Irán y Omán acuerdan una ruta marítima en Ormuz, pero advierten que la reapertura total depende de EE.UU.",
+          "dek": "Teherán y Mascate definieron las coordenadas de un corredor transitorio para buques comerciales; Trump afirma que hay un acuerdo mayor 'muy cerca'.",
+          "more": "El portavoz del Ministerio de Relaciones Exteriores de Irán confirmó que ambos países llegaron a un entendimiento sobre las coordenadas geográficas del corredor y trabajan en un comunicado conjunto. Sin embargo, el acuerdo bilateral no garantiza por sí solo la seguridad en la ruta ni implica la reapertura total del estrecho, y excluye expresamente la participación de terceros países en su gestión. EE.UU. mantiene el bloqueo a los puertos iraníes, condición que Teherán señala como el obstáculo central para una solución definitiva. El estrecho lleva cerrado desde febrero, cuando el ataque conjunto estadounidense-israelí mató al ayatolá Jamenei, derrumbando las exportaciones globales de gas natural licuado en un 95%.",
+          "source": "https://www.elespanol.com/mundo/oriente-proximo/20260806/iran-enfria-pacto-trump-reabrir-ormuz-acuerda-oman-repartirse-control-temporal-estrecho/1003744344913_0.html",
+          "imgPrompt": "large oil tanker ship navigating a narrow sea strait between arid rocky coastlines, aerial view, daylight, Middle East"
+        },
+        {
+          "eyebrow": "Gaza",
+          "title": "Uganda y Marruecos se suman a la fuerza de paz que Trump quiere desplegar en Gaza",
+          "dek": "El Parlamento ugandés aprobó el envío de tropas a la misión internacional propuesta por la Junta de Paz de Trump; Marruecos ya había comprometido efectivos para la fuerza de estabilización.",
+          "more": "La invitación llegó directamente del presidente Trump al mandatario ugandés Yoweri Museveni en julio. Parlamentarios de la oposición cuestionaron la decisión dado que Uganda es miembro de la Organización de Cooperación Islámica. La Fuerza Internacional de Estabilización contempla soldados de países que no sean parte directa del conflicto, supervisando la transición a un gobierno tecnocrático palestino de 15 miembros creado en enero pasado. El plan de Trump establece que Israel solo se retirará de Gaza tras el desarme total de Hamas, una secuencia que el grupo rechaza: exige la retirada israelí primero. Israel, en tanto, ha continuado sus bombardeos desde que se anunció el acuerdo.",
+          "source": "https://www.infobae.com/america/mundo/2026/08/06/el-parlamento-de-uganda-aprobo-el-envio-de-tropas-a-gaza-para-sumarse-a-la-fuerza-internacional-impulsada-por-trump/",
+          "imgPrompt": "military soldiers in camouflage uniforms boarding a transport aircraft, sunny tarmac, departure ceremony with officials, African country flag in background"
+        },
+        {
+          "eyebrow": "Ucrania",
+          "title": "Rusia saturó las defensas de Kyiv: ningún misil balístico fue derribado y la capital llora 17 muertos",
+          "dek": "El barrage del martes-miércoles combinó proyectiles Iskander-M, misiles navales Tsirkon y más de cien drones; Zelenski urge a los aliados más interceptores Patriot para una defensa aérea al límite.",
+          "more": "Las fuerzas rusas dispararon 24 misiles balísticos y cuatro misiles navales Tsirkon junto a 115 drones. Ninguno de los proyectiles balísticos fue interceptado. Los blancos principales fueron almacenes de empresas civiles y zonas residenciales en cuatro distritos de la capital, dejando decenas de heridos además de los 17 muertos. Ucrania admitió que sus existencias de interceptores Patriot están críticamente bajas y solicitó con urgencia nuevas entregas a sus aliados occidentales. Moscú afirmó que el ataque fue respuesta a una ofensiva ucraniana contra instalaciones logísticas rusas.",
+          "source": "https://cnnespanol.cnn.com/2026/08/05/mundo/ataque-ruso-muertos-kyiv-zelensky-trax",
+          "imgPrompt": "destroyed residential buildings in Kyiv Ukraine at night after a missile attack, fire and smoke visible, emergency vehicles with flashing lights in foreground, Ukraine"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Oriente Medio",
+          "title": "Israel intensifica bombardeos en Gaza pese al plan de paz de Trump",
+          "dek": "Decenas de personas murieron en ataques israelíes en Gaza desde que Trump anunció el acuerdo de desarme de Hamas a fines de julio; Netanyahu no ha declarado públicamente si acepta o rechaza el plan.",
+          "source": "https://www.pbs.org/newshour/world/there-are-supposed-to-be-ceasefires-across-the-middle-east-the-fighting-is-worsening"
+        },
+        {
+          "eyebrow": "Colombia",
+          "title": "Petro deja la presidencia denunciando fraude y llamando a la resistencia civil",
+          "dek": "El saliente mandatario no reconoció a su sucesor, alertó sin pruebas de explosivos en Cali y llamó a sus simpatizantes a movilizarse; los tribunales rechazaron todas sus impugnaciones electorales.",
+          "source": "https://www.lanacion.com.ar/el-mundo/de-la-espriella-asume-la-presidencia-en-un-pais-blindado-por-amenazas-tension-politica-y-el-fin-de-nid06082026/"
+        },
+        {
+          "eyebrow": "EE.UU.",
+          "title": "Trump dice que el acuerdo definitivo sobre el Estrecho de Ormuz está 'muy cerca'",
+          "dek": "El presidente confirmó su implicación personal en las negociaciones con Irán y Omán y sugirió que el acuerdo mayor para la reapertura total del estrecho podría cerrarse en días.",
+          "source": "https://www.cronista.com/internacionales/acuerdo-por-el-estrecho-de-ormuz-iran-confirma-avances-para-reabrirlo-pero-lanza-una-advertencia/"
+        },
+        {
+          "eyebrow": "Siria",
+          "title": "Explosión en una microbús en las afueras de Damasco deja dos muertos y trece heridos",
+          "dek": "El estallido ocurrió en un vehículo de pasajeros cerca de la capital siria; las autoridades investigan el origen de la explosión.",
+          "source": "https://www.infobae.com/america/agencias/2026/08/06/viernes-7-de-agosto-de-2026-1930-gmt/"
+        },
+        {
+          "eyebrow": "FIFA",
+          "title": "FIFA pide disculpas por los errores en el plan fallido de Infantino de vender acciones del Mundial",
+          "dek": "La federación admitió fallas de proceso en el intento de comercializar participaciones en la Copa del Mundo; los directivos reafirmaron su respaldo al presidente Gianni Infantino.",
+          "source": "https://wng.org/podcasts/friday-morning-news-august-7-2026-1786036420"
+        },
+        {
+          "eyebrow": "Panamericanos 2027",
+          "title": "Simone Biles visita Lima para promocionar los Juegos Panamericanos de 2027",
+          "dek": "La gimnasta estadounidense participó en una rueda de prensa en Perú como embajadora de los Juegos Panamericanos que Lima acogerá el próximo año.",
+          "source": "https://aa.com.tr/en/world/morning-briefing-aug-7-2026/4020662"
+        }
+      ]
+    },
+    "chile": {
+      "label": "Chile",
+      "wire": "santiago wire",
+      "notas": [
+        {
+          "eyebrow": "Seguridad",
+          "title": "Arrau anuncia 15 proyectos de ley para la ACOT y el Congreso llama a legislar 'con urgencia y celeridad'",
+          "dek": "El ministro de Seguridad detalló el calendario legislativo de la agenda antidelincuencia; los presidentes de ambas cámaras instaron al Parlamento a darle prioridad máxima.",
+          "more": "El ministro Martín Arrau confirmó que los 15 proyectos de ley que forman el núcleo legislativo de la Agenda contra el Crimen Organizado y el Terrorismo serán ingresados paulatinamente durante las próximas semanas. Kast quiere que el paquete completo esté aprobado antes de Navidad. El presidente marcó el inicio de la implementación encabezando personalmente un operativo de Carabineros y PDI en la Plaza de Armas de Santiago. Los presidentes del Senado y la Cámara de Diputados llamaron a ambas corporaciones a priorizar la agenda de seguridad del Ejecutivo por sobre otros proyectos pendientes en la tabla legislativa.",
+          "source": "https://www.latercera.com/nacional/noticia/arrau-profundiza-anuncios-de-seguridad-se-ingresaran-15-proyectos-durante-las-proximas-semanas/",
+          "imgPrompt": "Chilean Carabineros police officers in uniform conducting a patrol operation at Plaza de Armas in Santiago Chile, daytime, colonial buildings in background"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "Caso ProCultura: nueva formalización en arista Biobío por $600 millones desaparecidos",
+          "dek": "El Ministerio Público imputó al exdirector Alberto Larraín y a la exrepresentante legal Constanza Gómez por apropiación indebida de fondos del convenio firmado con el Gobierno Regional del Biobío en 2022.",
+          "more": "El acuerdo cuestionado ascendió a más de $2.550 millones de pesos, de los cuales $600 millones nunca fueron acreditados y desaparecieron de los registros contables. Ambos imputados recibieron arraigo nacional. La defensa solicitó que la audiencia se traslade al Cuarto Juzgado de Garantía de Santiago. El caso ProCultura, que también tiene ramificaciones en convenios con Anglo American, es considerado uno de los mayores escándalos de malversación de fondos culturales de la historia del país.",
+          "source": "https://www.cooperativa.cl/noticias/pais/judicial/casos-emblematicos/alberto-larrain-fue-formalizado-por-la-arista-biobio-del-caso-procultura/2026-08-05/232613.html",
+          "imgPrompt": "interior of a Chilean courthouse corridor with lawyers in formal attire, official judicial setting, natural light, Santiago"
+        },
+        {
+          "eyebrow": "Economía",
+          "title": "La megareforma económica entra en terreno incierto: TC, vetos y debate sobre su impacto real",
+          "dek": "Promulgada la Ley de Reactivación Económica, la oposición alista recursos de inconstitucionalidad y el Ejecutivo estudia vetos presidenciales antes de que entre en vigor.",
+          "more": "El texto aprobado reduce el impuesto corporativo del 27% al 23% en cuatro años y amplía beneficios tributarios para la inversión de largo plazo. La oposición sostiene que varios artículos vulneran el principio de igualdad ante la ley. Economistas del sector privado advierten que la incertidumbre jurídica generada por las impugnaciones podría retrasar precisamente las inversiones que el gobierno buscaba destrabar con la norma. El gobierno celebra la aprobación como la mayor apertura a la inversión en décadas, pese a que el 56% de la ciudadanía, según Cadem, se opone a la rebaja impositiva a las grandes empresas.",
+          "source": "https://chocale.cl/2026/08/que-es-lo-que-viene-para-la-megarreforma/",
+          "imgPrompt": "interior of a Chilean legislative chamber with lawmakers at their seats, wide angle shot, formal session, daytime, Santiago"
+        },
+        {
+          "eyebrow": "Política",
+          "title": "Kast cierra la semana con 25,6% de aprobación: el piso más bajo desde que asumió en marzo",
+          "dek": "Ni la megareforma ni el lanzamiento de la ACOT lograron mover la aguja hacia arriba; economía y seguridad concentran el malestar ciudadano, según la encuesta Cadem.",
+          "more": "Un 58,9% desaprueba la gestión del presidente a cinco meses de gobierno. Los analistas señalan que la ciudadanía aún no percibe mejoras concretas en las dos áreas que más le preocupan. La brecha entre las expectativas generadas en la campaña electoral y los resultados tangibles hasta ahora explica en parte la caída sostenida desde el 43% con que Kast inició su administración en marzo.",
+          "source": "https://www.biobiochile.cl/noticias/nacional/chile/2026/08/02/expertos-coinciden-dudas-por-seguridad-y-economia-mantienen-baja-la-aprobacion-del-presidente-kast.shtml",
+          "imgPrompt": "facade of La Moneda presidential palace in Santiago Chile, street level view, daytime, pedestrians walking in foreground"
+        }
+      ],
+      "briefs": [
+        {
+          "eyebrow": "Judicial",
+          "title": "Corte Suprema confirma que ProCultura debe reintegrar $1.000 millones al Estado",
+          "dek": "El fallo del máximo tribunal obliga a la fundación a devolver los fondos públicos malversados, en un nuevo frente judicial del ya extenso escándalo ProCultura.",
+          "source": "https://www.radionahuel.cl/2026/08/05/corte-suprema-confirma-pago-1000-millones-caso-procultura"
+        },
+        {
+          "eyebrow": "Judicial",
+          "title": "ProCultura suma nueva arista por convenios con Anglo American",
+          "dek": "La Fiscalía avanza en una nueva formalización ligada a proyectos que la fundación ejecutó con recursos de la minera angloaustraliana, ampliando el alcance del caso.",
+          "source": "https://www.latercera.com/nacional/noticia/procultura-fiscalia-sumara-formalizacion-por-proyectos-de-anglo-american-y-arista-biobio-tambien-se-trasladaria-a-santiago/"
+        },
+        {
+          "eyebrow": "Internacional",
+          "title": "Expresidente Boric viajará a Uruguay y Alemania en agosto",
+          "dek": "La Cámara aprobó los permisos para que el exmandatario asista al Congreso Panamericano Montevideo 2026 el 20-23 de agosto y a la Berliner Festspiele el 30 del mismo mes.",
+          "source": "https://www.cooperativa.cl/noticias/pais/gabriel-boric/viajes-al-exterior/expresidente-boric-alista-nuevos-viajes-a-uruguay-y-alemania/2026-08-05/120358.html"
+        },
+        {
+          "eyebrow": "Infraestructura",
+          "title": "Hacienda da marcha atrás y mantendrá fondos para corredores del transporte público en Biobío",
+          "dek": "Tras el anuncio inicial que generó alarma regional, el gobierno revirtió la decisión y confirmó que los recursos para los corredores del transporte en la región del Biobío se mantienen intactos.",
+          "source": "https://www.cooperativa.cl/noticias/pais/region-del-biobio/biobio-gobierno-cambio-de-opinion-y-no-retirara-fondos-para-corredores/2026-08-05/144417.html"
+        },
+        {
+          "eyebrow": "Sismos",
+          "title": "Sismo de magnitud 4,1 sacudió Caleta El Cobre en la madrugada del jueves sin causar daños",
+          "dek": "El movimiento tuvo epicentro a 39 km de la localidad y 27 km de profundidad; el Centro Sismológico Nacional descartó daños o heridos.",
+          "source": "https://www.infobae.com/noticias/2026/08/06/se-percibe-sismo-de-magnitud-41-en-la-ciudad-de-caleta-el-cobre-este-jueves-6-de-agosto/"
+        },
+        {
+          "eyebrow": "Mercados",
+          "title": "Dólar se transa cerca de $927: el peso gana terreno ante señales de avance en Ormuz",
+          "dek": "Los indicios de negociaciones sobre el Estrecho de Ormuz impulsaron los mercados globales; en Chile el tipo de cambio retrocedió levemente en la jornada del viernes.",
+          "source": "https://www.bloomberglinea.com/quote/USDCLP:CUR/"
+        }
+      ]
+    }
+  }
+}
